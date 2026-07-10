@@ -76,7 +76,7 @@ export function SpacedRep({ cards }: { cards: Card[] }) {
         <span>Interval: {state.interval}d · EF: {state.easeFactor.toFixed(2)}</span>
       </div>
 
-      <div className="card-flip h-64 cursor-pointer select-none" onClick={() => setFlipped((f) => !f)}>
+      <div className="card-flip h-64 cursor-pointer" onClick={() => setFlipped((f) => !f)}>
         <div className={`card-inner w-full h-full ${flipped ? 'flipped' : ''}`}>
           <div className="card-face w-full h-full bg-white dark:bg-gray-900 rounded-2xl border border-gray-200 dark:border-gray-800 shadow-sm flex flex-col items-center justify-center p-6 gap-3">
             <span className="text-xs text-indigo-500 font-medium">{card.category}</span>

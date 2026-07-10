@@ -121,10 +121,10 @@
   },
   {
     "id": "7a6d9752-b8d9-4b29-9e6b-f8b24f6adee8",
-    "term": "invert",
-    "definition": "invert",
+    "term": "Blood tube inversion",
+    "definition": "Blood collection tubes must be gently inverted (not shaken) to mix the additive with blood. Shaking causes hemolysis (RBC destruction). Number of inversions varies by tube: Yellow 8-10, Blue 2-4, Red 5, Green 8-10, Lavender/White 8-10, Gray 8.",
     "type": "note",
-    "category": "General",
+    "category": "Blood Draw",
     "difficulty": "unrated"
   },
   {
@@ -337,10 +337,10 @@
   },
   {
     "id": "ab923467-46b5-42f8-ba72-f3fec27247d8",
-    "term": "(young boys really get lovely wholesome girls)",
-    "definition": "(young boys really get lovely wholesome girls)",
-    "type": "note",
-    "category": "General",
+    "term": "Order of draw mnemonic",
+    "definition": "Young Boys Really Get Lovely Wholesome Girls → Yellow, Blue, Red, Green, Lavender, White, Gray — the correct order of draw for whole blood collection.",
+    "type": "mnemonic",
+    "category": "Blood Draw",
     "difficulty": "unrated"
   },
   {
@@ -473,8 +473,8 @@
   },
   {
     "id": "387be6c1-2247-4126-8015-e58efa0ba229",
-    "term": "Microhematocrit machine also separate the blood into components",
-    "definition": "Microhematocrit machine also separate the blood into components",
+    "term": "Microhematocrit machine",
+    "definition": "Spins capillary tubes at high speed to separate blood into components: plasma (top), buffy coat (WBCs/platelets), and packed red cells (bottom). Used to determine hematocrit percentage.",
     "type": "note",
     "category": "Blood Draw",
     "difficulty": "unrated"
@@ -521,10 +521,10 @@
   },
   {
     "id": "6c6289f4-89d7-4fa8-a230-b7929ee35229",
-    "term": "Allergies always written in RED",
-    "definition": "Allergies always written in RED",
+    "term": "Documenting allergies",
+    "definition": "Allergies must always be documented in RED ink (or prominently highlighted in red in EMR/EHR) to ensure they are immediately visible to all healthcare providers and prevent adverse reactions.",
     "type": "note",
-    "category": "General",
+    "category": "Legal/Consent",
     "difficulty": "unrated"
   },
   {
@@ -537,16 +537,16 @@
   },
   {
     "id": "c8fca6e2-903e-45a0-8c2f-c9763c2791cd",
-    "term": "Scheduling~ modified booking, double booking, etc.",
-    "definition": "Scheduling~ modified booking, double booking, etc.",
+    "term": "Appointment scheduling types",
+    "definition": "Modified booking: scheduled appointments with built-in flexibility. Double booking: two patients scheduled at same time slot. Wave scheduling: multiple patients at start of each hour. Open booking: first-come first-served. Cluster: group similar appointments together.",
     "type": "note",
     "category": "Administrative",
     "difficulty": "unrated"
   },
   {
     "id": "33c1acb4-09d3-4f75-b224-70accc410c49",
-    "term": "Insurance~ Medicaid /medicare/champva/tricare/blue cross shield/ 1199",
-    "definition": "Insurance~ Medicaid /medicare/champva/tricare/blue cross shield/ 1199",
+    "term": "Health insurance types",
+    "definition": "Medicaid: government insurance for low-income individuals. Medicare: federal insurance for 65+ or disabled. CHAMPVA: VA health program for dependents of disabled veterans. TRICARE: military health coverage. Blue Cross Blue Shield: private insurance. 1199: union health insurance fund.",
     "type": "note",
     "category": "Administrative",
     "difficulty": "unrated"
@@ -593,10 +593,10 @@
   },
   {
     "id": "5e63c63f-1aa7-4898-a04c-e30dcb599e38",
-    "term": "Needles/gauge/angle/technique",
-    "definition": "Needles/gauge/angle/technique",
+    "term": "Injection needle gauge & angle",
+    "definition": "Intradermal (ID): ¼–½ inch, 26 gauge, 5–15°. Subcutaneous (SQ): ¼–½ inch, 25 gauge, 45°. Intramuscular (IM): 1–3 inch, 21–23 gauge, 90°. Intravenous (IV): 25°.",
     "type": "note",
-    "category": "Blood Draw",
+    "category": "Medications",
     "difficulty": "unrated"
   },
   {
@@ -737,10 +737,10 @@
   },
   {
     "id": "c70be6d7-8219-474a-bbfd-d7b4639d64ce",
-    "term": "Bac/bal blood alcohol content /level",
-    "definition": "Bac/bal blood alcohol content /level",
+    "term": "BAC / BAL",
+    "definition": "Blood Alcohol Content/Level. Legal limit: 0.08% in most US states. Collected in gray-top tube (sodium fluoride/potassium oxalate). Chain of custody required when collected for legal/forensic purposes.",
     "type": "note",
-    "category": "General",
+    "category": "Blood Draw",
     "difficulty": "unrated"
   },
   {
@@ -809,8 +809,8 @@
   },
   {
     "id": "313d72e0-164e-4d00-b0b4-97d9039d8b44",
-    "term": "Study infection transmission cycle –",
-    "definition": "Study infection transmission cycle –",
+    "term": "Chain of infection",
+    "definition": "6 links: (1) Infectious agent (pathogen), (2) Reservoir (where it lives), (3) Portal of exit (how it leaves), (4) Mode of transmission (contact/droplet/airborne/vector), (5) Portal of entry (how it enters new host), (6) Susceptible host. Breaking any link stops infection.",
     "type": "note",
     "category": "Infection Control",
     "difficulty": "unrated"
@@ -881,8 +881,8 @@
   },
   {
     "id": "c48d5513-fcda-44bb-84dc-5dec65a09115",
-    "term": "Normal blood sugar levels",
-    "definition": "Normal blood sugar levels",
+    "term": "Normal blood glucose ranges",
+    "definition": "Fasting: 70–99 mg/dL. Post-meal (2hr): <140 mg/dL. Pre-diabetes fasting: 100–125 mg/dL. Diabetes: ≥126 mg/dL fasting or ≥200 mg/dL random. HbA1c normal: <5.7%; pre-diabetes: 5.7–6.4%; diabetes: ≥6.5%.",
     "type": "note",
     "category": "Endocrine/Diabetes",
     "difficulty": "unrated"
@@ -1025,10 +1025,10 @@
   },
   {
     "id": "0ed0bbaa-adbd-42f8-8d17-a78e5d1bafef",
-    "term": "TB aka Mantoux Tuberculin skin test",
-    "definition": "TB aka Mantoux Tuberculin skin test",
+    "term": "TB / Mantoux tuberculin skin test",
+    "definition": "Intradermal injection of purified protein derivative (PPD) on the inner forearm. Read 48–72 hours later. Positive: induration (raised bump, not just redness) ≥10 mm (≥5 mm in immunocompromised). Positive result requires follow-up chest X-ray.",
     "type": "note",
-    "category": "Blood Draw",
+    "category": "Infection Control",
     "difficulty": "unrated"
   },
   {
@@ -1113,8 +1113,8 @@
   },
   {
     "id": "477ab25d-f767-45de-b6ee-9968d10e606a",
-    "term": "Disinfect = free of germs",
-    "definition": "Disinfect = free of germs",
+    "term": "Disinfect",
+    "definition": "Process of eliminating most pathogenic microorganisms (but not necessarily spores) from surfaces. Disinfect = free of most germs. Sterilize = free of ALL microorganisms including spores. Sanitize = reduce to safe levels.",
     "type": "note",
     "category": "Infection Control",
     "difficulty": "unrated"
@@ -1194,7 +1194,7 @@
   {
     "id": "d5f76a22-8cee-402e-ac65-bfdcba2391bc",
     "term": "Bronchitis",
-    "definition": "Bronchitis",
+    "definition": "Inflammation of the bronchial tubes. Acute: usually viral, productive cough, resolves in 3 weeks. Chronic: COPD-related, cough with mucus ≥3 months/year for 2+ years. Treatment: bronchodilators, rest, fluids. MA role: peak flow measurement, nebulizer treatments.",
     "type": "note",
     "category": "Respiratory",
     "difficulty": "unrated"
@@ -1202,7 +1202,7 @@
   {
     "id": "7bbd5fbe-804e-4578-80c4-dfb786c1bf76",
     "term": "Vasodilator",
-    "definition": "Vasodilator",
+    "definition": "Drug or substance that causes widening (dilation) of blood vessels, lowering blood pressure and increasing blood flow. Examples: nitroglycerin (angina), ACE inhibitors, calcium channel blockers. Opposite: vasoconstrictor (narrows vessels, raises BP).",
     "type": "note",
     "category": "Medications",
     "difficulty": "unrated"
@@ -1393,10 +1393,10 @@
   },
   {
     "id": "1851bd73-65da-4683-91f1-6965b5c8f44c",
-    "term": "very 4 hours",
-    "definition": "very 4 hours",
+    "term": "q4h",
+    "definition": "Every 4 hours (from Latin \"quaque 4 hora\"). Common medication dosing abbreviation. Related: qh = every hour, q6h = every 6 hours, q8h = every 8 hours, BID = twice daily, TID = three times daily, QID = four times daily.",
     "type": "note",
-    "category": "General",
+    "category": "Medical Abbreviations",
     "difficulty": "unrated"
   },
   {
@@ -1466,7 +1466,7 @@
   {
     "id": "4b3c864e-949d-480f-be89-10ea536e0db9",
     "term": "Rx",
-    "definition": "Rx",
+    "definition": "Prescription. From Latin \"recipe\" (take). Written at top of prescription orders. Rx = prescription drug (requires physician order). OTC = over-the-counter (no prescription needed). Rx also used as abbreviation for \"treatment\" in general medical context.",
     "type": "note",
     "category": "Medical Abbreviations",
     "difficulty": "unrated"
@@ -1474,7 +1474,7 @@
   {
     "id": "b621c55a-f9cd-4d22-8e58-5b35bacbe9cc",
     "term": "Hx",
-    "definition": "Hx",
+    "definition": "Medical history. Includes: chief complaint, history of present illness (HPI), past medical history (PMH), family history (FH), social history (SH), allergies, medications, review of systems (ROS). Collected during patient intake by MA. Also used standalone: Hx = history.",
     "type": "note",
     "category": "Medical Abbreviations",
     "difficulty": "unrated"
@@ -1665,24 +1665,24 @@
   },
   {
     "id": "dfff5ce8-2c94-42ee-83d9-b661010faccb",
-    "term": "Penis aka shaft",
-    "definition": "Penis aka shaft",
+    "term": "Penis anatomy",
+    "definition": "Male external reproductive/urinary organ. Parts: root (attached to pelvis), shaft (body/corpus), glans (tip — most sensitive). Urethra runs through the shaft. Foreskin (prepuce) covers glans if uncircumcised. Erectile tissue: corpus cavernosa (2) and corpus spongiosum (1, surrounding urethra).",
     "type": "note",
-    "category": "General",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "da93f0d3-9476-4354-9f2b-81418db5d1df",
-    "term": "Vagina aka Vulva",
-    "definition": "Vagina aka Vulva",
+    "term": "Vagina vs. Vulva",
+    "definition": "Vagina: internal muscular canal connecting uterus to outside (~3–4 inches). Vulva: external female genitalia — includes labia majora, labia minora, clitoris, urethral opening, vaginal opening, and Bartholin glands. Common mistake: \"vagina\" often used colloquially for the entire region, but vulva = external anatomy.",
     "type": "note",
     "category": "OB/GYN",
     "difficulty": "unrated"
   },
   {
     "id": "ddacc007-ba0b-4a37-a960-38187d1c247f",
-    "term": "Clitoris, urethra, vaginal canal,  2 Bartholin glands, anus",
-    "definition": "Clitoris, urethra, vaginal canal,  2 Bartholin glands, anus",
+    "term": "Female external anatomy structures",
+    "definition": "Vulva structures (anterior to posterior): Mons pubis → Clitoris (erectile tissue, highly sensitive) → Urethral meatus (urine) → Vaginal opening/introitus → 2 Bartholin glands (lubrication) → Perineum → Anus. The urethra and vagina are SEPARATE openings (important for catheterization).",
     "type": "note",
     "category": "OB/GYN",
     "difficulty": "unrated"
@@ -1721,18 +1721,18 @@
   },
   {
     "id": "70b2f740-14d7-4e4b-a9f2-9b9f6d402e1c",
-    "term": "* sperm collected in a STERILE cup must be tested within 2 hours/body temp",
-    "definition": "* sperm collected in a STERILE cup must be tested within 2 hours/body temp",
+    "term": "Semen specimen collection",
+    "definition": "Collected in a sterile cup, must be transported at body temperature (kept warm, e.g., under arm) and tested within 2 hours of collection. Used for semen analysis (count, motility, morphology). Refrigeration kills sperm.",
     "type": "note",
-    "category": "Infection Control",
+    "category": "Microbiology",
     "difficulty": "unrated"
   },
   {
     "id": "487da3ca-05c0-40a5-bdf3-8fb00238514b",
-    "term": "* sputum samples are sent to microbiology reference labs",
-    "definition": "* sputum samples are sent to microbiology reference labs",
+    "term": "Sputum specimen handling",
+    "definition": "Sputum (mucus from deep in lungs, not saliva) sent to microbiology/reference lab for culture & sensitivity. Best collected in morning before eating. Patient takes deep breath, coughs deeply, spits into sterile container. Used to diagnose TB, pneumonia, bronchitis.",
     "type": "note",
-    "category": "Respiratory",
+    "category": "Microbiology",
     "difficulty": "unrated"
   },
   {
@@ -1857,10 +1857,10 @@
   },
   {
     "id": "1d0463d3-817e-464a-8dee-b091fa60c5a1",
-    "term": "Suture removal",
-    "definition": "Suture removal",
+    "term": "Suture removal timing",
+    "definition": "Face/neck: 3–5 days. Scalp: 7–10 days. Trunk/extremities: 7–10 days. Joints/hands: 10–14 days. Removed with suture removal scissors and forceps. MA role: remove per physician order, document, apply steri-strips if needed.",
     "type": "note",
-    "category": "Dermatology",
+    "category": "Clinical Procedures",
     "difficulty": "unrated"
   },
   {
@@ -2065,10 +2065,10 @@
   },
   {
     "id": "997b8a29-f326-49f5-90e9-d1c609b3ed71",
-    "term": "Prolonged exposure to radiation 🡪 can result in cancer",
-    "definition": "Prolonged exposure to radiation 🡪 can result in cancer",
+    "term": "Radiation exposure risk",
+    "definition": "Prolonged or repeated radiation exposure can result in cancer (especially leukemia, thyroid cancer). Precautions: lead apron/shield for patients, MA steps out of room during X-rays, dosimeter badge worn by staff to track cumulative exposure.",
     "type": "note",
-    "category": "General",
+    "category": "OSHA/Safety",
     "difficulty": "unrated"
   },
   {
@@ -2081,16 +2081,16 @@
   },
   {
     "id": "b95572f5-88e2-4713-9387-547a25139b86",
-    "term": "Holter monitor –",
-    "definition": "Holter monitor –",
+    "term": "Holter monitor",
+    "definition": "Portable ECG device worn for 24–48 hours to continuously record heart rhythm. Patient keeps a diary of activities and symptoms. Used to detect intermittent arrhythmias not captured on a standard 12-lead ECG. MA role: apply electrodes, instruct patient on diary keeping.",
     "type": "note",
     "category": "ECG/EKG",
     "difficulty": "unrated"
   },
   {
     "id": "e9ac3830-d3cd-4914-aee1-e1952e917855",
-    "term": "Black = left manubrial border of sternum",
-    "definition": "Black = left manubrial border of sternum",
+    "term": "ECG limb lead placement — LA (Left Arm)",
+    "definition": "Black electrode = Left Arm (LA). Placed on left manubrial border of sternum or left wrist/arm. Mnemonic: \"Smoke (black) rises on the left.\" White=RA (right arm), Black=LA (left arm), Red=LL (left leg), Green=RL (right leg/ground).",
     "type": "note",
     "category": "ECG/EKG",
     "difficulty": "unrated"
@@ -2105,8 +2105,8 @@
   },
   {
     "id": "40a6b93b-992f-4402-ab38-6ab62f0fd729",
-    "term": "White = right manubrial border of sternum",
-    "definition": "White = right manubrial border of sternum",
+    "term": "ECG limb lead placement — RA (Right Arm)",
+    "definition": "White electrode = Right Arm (RA). Placed on right manubrial border of sternum or right wrist/arm. Mnemonic: \"White on right.\" White=RA, Black=LA, Red=LL, Green=RL (ground).",
     "type": "note",
     "category": "ECG/EKG",
     "difficulty": "unrated"
@@ -2129,24 +2129,24 @@
   },
   {
     "id": "839bacb0-aec2-41db-afb3-da9c79905dce",
-    "term": "Patients must document everything they do that day",
-    "definition": "Patients must document everything they do that day",
+    "term": "Holter monitor patient diary",
+    "definition": "During Holter monitoring, patients must log all activities (exercise, meals, sleep, stress) and any symptoms (chest pain, palpitations, dizziness, shortness of breath) with exact times. The diary is correlated against ECG recordings to identify triggers for arrhythmias.",
     "type": "note",
-    "category": "General",
+    "category": "ECG/EKG",
     "difficulty": "unrated"
   },
   {
     "id": "ec78e91a-a2a5-44cf-984b-f6096da409f8",
-    "term": "Intervals",
-    "definition": "Intervals",
+    "term": "ECG intervals (normal values)",
+    "definition": "PR interval: 0.12–0.20 sec (3–5 small boxes). QRS complex: <0.12 sec (<3 small boxes). QT interval: 0.36–0.44 sec. ST segment: isoelectric (flat). Each small box = 0.04 sec; each large box = 0.20 sec.",
     "type": "note",
-    "category": "General",
+    "category": "ECG/EKG",
     "difficulty": "unrated"
   },
   {
     "id": "ea88d353-628d-4f96-aa6e-684847313958",
-    "term": "Systolic/diastolic",
-    "definition": "Systolic/diastolic",
+    "term": "Systolic vs. diastolic BP",
+    "definition": "Systolic (top number): pressure when heart contracts/pumps. Diastolic (bottom number): pressure when heart relaxes between beats. Normal: <120/<80 mmHg. Hypertension stage 1: 130–139/80–89. Stage 2: ≥140/≥90. Hypertensive crisis: >180/>120.",
     "type": "note",
     "category": "Vital Signs",
     "difficulty": "unrated"
@@ -2185,8 +2185,8 @@
   },
   {
     "id": "4321413c-07d3-480a-8784-231da6aca1ea",
-    "term": "Holter monitor, journals/diary. Off monitor, stay on monitor, telemetry monitor",
-    "definition": "Holter monitor, journals/diary. Off monitor, stay on monitor, telemetry monitor",
+    "term": "Holter monitor patient instructions",
+    "definition": "Patient keeps diary of daily activities and symptoms (chest pain, palpitations, dizziness) with exact times. Must stay on monitor — no showering/bathing (water damages electrodes). Telemetry: hospital-based continuous remote cardiac monitoring via wireless transmitter.",
     "type": "note",
     "category": "ECG/EKG",
     "difficulty": "unrated"
@@ -2689,58 +2689,58 @@
   },
   {
     "id": "c3902fad-bd7e-40d8-8b7d-2926fccaf2ee",
-    "term": "The 9 quadrants",
-    "definition": "The 9 quadrants",
+    "term": "The 9 abdominal regions",
+    "definition": "Right hypochondriac, Epigastric, Left hypochondriac (top row); Right lumbar, Umbilical, Left lumbar (middle row); Right iliac (inguinal), Hypogastric (pubic), Left iliac (inguinal) (bottom row). Used to describe location of organs and pain.",
     "type": "note",
-    "category": "Musculoskeletal",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "ae9c1bf4-81fb-418c-8325-723e9e586836",
-    "term": "R/L hypochondriac",
-    "definition": "R/L hypochondriac",
+    "term": "Right/Left hypochondriac region",
+    "definition": "Upper right and upper left abdominal regions, below the cartilage of the ribs. Right contains: liver, gallbladder, right kidney. Left contains: stomach, spleen, left kidney.",
     "type": "note",
-    "category": "Musculoskeletal",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "3342cc38-c43f-4d90-acc9-49ee470c5b03",
-    "term": "Epigastric",
-    "definition": "Epigastric",
+    "term": "Epigastric region",
+    "definition": "Central upper abdominal region, between the hypochondriac regions. Contains: stomach, liver (part), pancreas (part). Pain here can indicate gastritis, GERD, peptic ulcer, or cardiac event (referred pain).",
     "type": "note",
-    "category": "Musculoskeletal",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "67a066a2-3bb4-4b6c-ad72-b8e3846b8e52",
-    "term": "R/L lumbar",
-    "definition": "R/L lumbar",
+    "term": "Right/Left lumbar region",
+    "definition": "Middle right and left abdominal regions (flank areas). Right contains: ascending colon, right kidney. Left contains: descending colon, left kidney. Flank pain often indicates kidney issues.",
     "type": "note",
-    "category": "Musculoskeletal",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "1e131288-e346-4c28-a57a-7b6d456207fe",
-    "term": "Umbilical",
-    "definition": "Umbilical",
+    "term": "Umbilical region",
+    "definition": "Central abdominal region surrounding the navel (umbilicus). Contains: small intestines, transverse colon. Umbilical pain can indicate appendicitis (early), intestinal obstruction, or hernia.",
     "type": "note",
-    "category": "Musculoskeletal",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "42601092-0dd8-464a-9345-42356ee9847d",
-    "term": "R/L iliac",
-    "definition": "R/L iliac",
+    "term": "Right/Left iliac (inguinal) region",
+    "definition": "Lower right and left abdominal regions. Right iliac contains: appendix, cecum — RLQ pain = appendicitis (McBurney's point). Left iliac contains: sigmoid colon. Also site of inguinal hernia.",
     "type": "note",
-    "category": "Musculoskeletal",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "c3242dde-d8b2-4e0a-86bf-a1cfc8431fc3",
-    "term": "hypogastric",
-    "definition": "hypogastric",
+    "term": "Hypogastric (pubic) region",
+    "definition": "Central lower abdominal region below the umbilical region. Contains: urinary bladder, uterus (females), sigmoid colon. Pain here may indicate UTI, bladder infection, or reproductive organ issues.",
     "type": "note",
-    "category": "Musculoskeletal",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -2753,8 +2753,8 @@
   },
   {
     "id": "8d0517a7-a88d-457c-ad81-6477cb22809a",
-    "term": "Suppression, depression, regression, grieve, anger, denial,",
-    "definition": "Suppression, depression, regression, grieve, anger, denial,",
+    "term": "Defense mechanisms / grief stages",
+    "definition": "Kübler-Ross grief stages: Denial, Anger, Bargaining, Depression, Acceptance (DABDA). Defense mechanisms: suppression (conscious blocking), repression (unconscious), regression (child-like behavior), denial (refusing reality). Maslow's hierarchy: Physiological → Safety → Love/Belonging → Esteem → Self-Actualization.",
     "type": "note",
     "category": "Psychology",
     "difficulty": "unrated"
@@ -2809,8 +2809,8 @@
   },
   {
     "id": "480738b2-7240-4f89-8467-dbf005029917",
-    "term": "** ECG calculations. 1500/number of small boxes……. 300/number of large boxes..",
-    "definition": "** ECG calculations. 1500/number of small boxes……. 300/number of large boxes..",
+    "term": "ECG heart rate calculation",
+    "definition": "Method 1: 1500 ÷ number of small boxes between R waves = HR (bpm). Method 2: 300 ÷ number of large boxes between R waves = HR (bpm). Method 3: Count QRS complexes in 6-second strip × 10 = HR. Normal HR: 60–100 bpm.",
     "type": "note",
     "category": "ECG/EKG",
     "difficulty": "unrated"
@@ -2825,8 +2825,8 @@
   },
   {
     "id": "f1523d2f-7626-4d58-b548-273f710bfb8b",
-    "term": "Electrodes color",
-    "definition": "Electrodes color",
+    "term": "ECG electrode placement colors",
+    "definition": "Limb leads: RA=White, LA=Black, RL=Green, LL=Red. Mnemonic: \"White on right, smoke (black) over fire (red), green=ground.\" Chest leads V1–V6: Red, Yellow, Green, Blue, Orange, Violet (left to right).",
     "type": "note",
     "category": "ECG/EKG",
     "difficulty": "unrated"
@@ -2841,8 +2841,8 @@
   },
   {
     "id": "976b51e6-953c-4cdc-9f10-fb2a97eaa306",
-    "term": "EKG artifacts , one example would be somatic tremors",
-    "definition": "EKG artifacts , one example would be somatic tremors",
+    "term": "EKG artifacts",
+    "definition": "Somatic tremor: irregular baseline from patient movement/shaking (e.g., Parkinson's, shivering). 60-cycle (AC) interference: thick fuzzy baseline from electrical equipment. Wandering baseline: gradual baseline drift from poor electrode contact or breathing. Fix: reposition electrodes, ask patient to relax, remove interfering devices.",
     "type": "note",
     "category": "ECG/EKG",
     "difficulty": "unrated"
@@ -2896,194 +2896,98 @@
     "difficulty": "unrated"
   },
   {
-    "id": "b2ca8bd2-cb50-46d4-b350-2d2d79fdeba0",
-    "term": "the term meaning inflammation if the brain is",
-    "definition": "the term meaning inflammation if the brain is",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "827abb74-ce7e-4c51-ac66-473fda83279e",
     "term": "Encephalitis",
-    "definition": "Encephalitis",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "ad694b57-7f74-4a4a-b14e-63822edab23e",
-    "term": "the word root dactyl/o means",
-    "definition": "the word root dactyl/o means",
-    "type": "note",
+    "definition": "Meaning inflammation if the brain",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "5ffdd1ec-1a03-47c0-8ac2-6b0b9028a755",
     "term": "finger",
-    "definition": "finger",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "8aa411be-b5a7-4c0a-bba4-714a9bc320db",
-    "term": "the term dyskinesia means",
-    "definition": "the term dyskinesia means",
-    "type": "note",
+    "definition": "Root dactyl/o",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "d0b04d8b-86c3-4df8-8c2f-f636d393b52a",
     "term": "difficult movement",
-    "definition": "difficult movement",
-    "type": "note",
+    "definition": "Dyskinesia",
+    "type": "term",
     "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "efe9eb1c-88c9-4987-9019-0eaf14c8bd0d",
-    "term": "the term meaning increase heart rate (pulse)is",
-    "definition": "the term meaning increase heart rate (pulse)is",
-    "type": "note",
-    "category": "Vital Signs",
     "difficulty": "unrated"
   },
   {
     "id": "1b48248b-8247-49cd-93bf-ce1cfdab627f",
     "term": "tachycardia",
-    "definition": "tachycardia",
-    "type": "note",
+    "definition": "Meaning increase heart rate (pulse)is",
+    "type": "term",
     "category": "Vital Signs",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "f50ed324-6567-46b8-b142-5fb33f6decf0",
-    "term": "the term meaning on one side is",
-    "definition": "the term meaning on one side is",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "a5d101eb-5edd-4ca1-935d-65ff3409741d",
     "term": "unilateral",
-    "definition": "unilateral",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "db346cf6-45d8-41c4-a468-9934fbe8cf05",
-    "term": "the term meaning on one side is",
-    "definition": "the term meaning on one side is",
-    "type": "note",
+    "definition": "Meaning on one side",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "ea4709f4-704f-444a-b5f9-56d90b6ba441",
     "term": "unilateral",
-    "definition": "unilateral",
-    "type": "note",
+    "definition": "Meaning on one side",
+    "type": "term",
     "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "d76bb985-598b-466c-9417-bafabd2eeb0f",
-    "term": "the term cyanosis means",
-    "definition": "the term cyanosis means",
-    "type": "note",
-    "category": "Respiratory",
     "difficulty": "unrated"
   },
   {
     "id": "d16a573b-c1d3-42ee-8c3d-7f85a744c7e0",
     "term": "bluish condition",
-    "definition": "bluish condition",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "fb1d1ea9-1d4f-4615-85d5-d2166a28cfd1",
-    "term": "the term antipyretic means",
-    "definition": "the term antipyretic means",
-    "type": "note",
-    "category": "General",
+    "definition": "Cyanosis",
+    "type": "term",
+    "category": "Respiratory",
     "difficulty": "unrated"
   },
   {
     "id": "bf8b5fe5-f6ad-458c-b7b5-6c5396b93d4d",
     "term": "fever reducing",
-    "definition": "fever reducing",
-    "type": "note",
+    "definition": "Antipyretic",
+    "type": "term",
     "category": "Vital Signs",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "d0165bf8-8606-429f-b79a-169e85489fbf",
-    "term": "the suffix meaning the study of is",
-    "definition": "the suffix meaning the study of is",
-    "type": "note",
-    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "28377d2b-4028-4298-8e75-edfc9e709bfe",
     "term": "logy",
-    "definition": "logy",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "21911fa3-2889-4ed1-97c9-e5a4df2e61ab",
-    "term": "the term cytology means",
-    "definition": "the term cytology means",
-    "type": "note",
-    "category": "General",
+    "definition": "Meaning the study of",
+    "type": "term",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "e2cd2c58-f601-480e-832b-be99a5168ea5",
     "term": "study of cells",
-    "definition": "study of cells",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "9a2a822b-7302-4f56-baee-4a6fd3cd9a71",
-    "term": "the term leukopenia means",
-    "definition": "the term leukopenia means",
-    "type": "note",
+    "definition": "Cytology",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "166269c0-8745-4df8-b868-6b4bbb9fc526",
     "term": "decreases white cells",
-    "definition": "decreases white cells",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "53380b38-6e73-47a8-b3df-c1401ac3d37c",
-    "term": "the term meaning thickening (bardening) of the arteries is",
-    "definition": "the term meaning thickening (bardening) of the arteries is",
-    "type": "note",
+    "definition": "Leukopenia",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "521bbb7b-1153-4e3a-8372-49ddb9b6ffc5",
     "term": "Arteriosclerosis",
-    "definition": "Arteriosclerosis",
-    "type": "note",
+    "definition": "Meaning thickening (bardening) of the arteries",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -3097,10 +3001,10 @@
   },
   {
     "id": "9fdf61bf-ed4d-486b-acfa-6356e578d3b9",
-    "term": "away from",
-    "definition": "away from",
+    "term": "Abduction / Ab-",
+    "definition": "Ab- prefix means \"away from.\" Abduction = movement away from the midline. Opposite: adduction (toward midline). Example: lifting arm out to the side = abduction.",
     "type": "note",
-    "category": "General",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -3113,25 +3017,17 @@
   },
   {
     "id": "c9a6a35c-4bd0-4f96-9b90-b0f330d42b5f",
-    "term": "around",
-    "definition": "around",
+    "term": "Peri-",
+    "definition": "Prefix meaning \"around\" or \"surrounding.\" Examples: pericardium (around the heart), periosteum (around bone), peripheral (around the outer edge).",
     "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "32831527-aa0d-4f04-857c-8ebaaf95afa8",
-    "term": "the term neuralgia means",
-    "definition": "the term neuralgia means",
-    "type": "note",
-    "category": "General",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "2327f9b6-dc12-44a8-864f-da78177505ed",
     "term": "pain in the nerves",
-    "definition": "pain in the nerves",
-    "type": "note",
+    "definition": "Neuralgia",
+    "type": "term",
     "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
@@ -3145,201 +3041,105 @@
   },
   {
     "id": "bc393e8f-1f96-4d48-aa13-807173219136",
-    "term": "face and neck",
-    "definition": "face and neck",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "b1bb5dcd-6e45-4f09-8953-2400a91b1b4b",
-    "term": "a term meaning destruction of kidney tissue is",
-    "definition": "a term meaning destruction of kidney tissue is",
-    "type": "note",
-    "category": "Urinalysis",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "0e4197c9-616c-4786-a14b-4015a15ff9bb",
-    "term": "nephrolysis",
-    "definition": "nephrolysis",
-    "type": "note",
-    "category": "Urinalysis",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "8e6da94c-1356-4c5c-84f1-f8a3b9552e42",
-    "term": "the term postermedial pertains to",
-    "definition": "the term postermedial pertains to",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "eb195a95-6f9e-405d-a40e-4dc2a06961d3",
-    "term": "middle back",
-    "definition": "middle back",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "9b4bcb01-2a18-42ed-adac-f597fe71437a",
-    "term": "the term osteoarthropathy means",
-    "definition": "the term osteoarthropathy means",
-    "type": "note",
-    "category": "Musculoskeletal",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "7e85bc2a-b211-4443-9075-d7ef75d9b2ae",
-    "term": "disease of joints and bones",
-    "definition": "disease of joints and bones",
+    "term": "Cervicofacial",
+    "definition": "Pertaining to the face and neck. Cervico- = neck; facial = face. Example: cervicofacial liposuction removes fat from neck and jaw area.",
     "type": "note",
     "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
-    "id": "e1587647-5eb8-4050-9b41-7c509ea82853",
-    "term": "the term orchidectomy means",
-    "definition": "the term orchidectomy means",
-    "type": "note",
+    "id": "0e4197c9-616c-4786-a14b-4015a15ff9bb",
+    "term": "nephrolysis",
+    "definition": "A term meaning destruction of kidney tissue",
+    "type": "term",
+    "category": "Urinalysis",
+    "difficulty": "unrated"
+  },
+  {
+    "id": "eb195a95-6f9e-405d-a40e-4dc2a06961d3",
+    "term": "middle back",
+    "definition": "Postermedial",
+    "type": "term",
     "category": "General",
+    "difficulty": "unrated"
+  },
+  {
+    "id": "7e85bc2a-b211-4443-9075-d7ef75d9b2ae",
+    "term": "disease of joints and bones",
+    "definition": "Osteoarthropathy",
+    "type": "term",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "398fcd9b-5b69-4dee-b6d7-17b605e917c6",
     "term": "surgical removal of testicle",
-    "definition": "surgical removal of testicle",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "1c6e3060-af94-4e58-be14-10f312150f37",
-    "term": "the term adenoma means",
-    "definition": "the term adenoma means",
-    "type": "note",
+    "definition": "Orchidectomy",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "0ec6bfaf-f6a8-4a6c-884b-5ed7e4485e38",
     "term": "tumor of the gland",
-    "definition": "tumor of the gland",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "1e6c2071-3b6d-4594-9055-f7a6d5cd2f62",
-    "term": "the term mammoplasty means",
-    "definition": "the term mammoplasty means",
-    "type": "note",
+    "definition": "Adenoma",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "bdda0142-19bc-4918-9a80-e3095332dc1c",
     "term": "surgical reconstrcution of the breast",
-    "definition": "surgical reconstrcution of the breast",
-    "type": "note",
+    "definition": "Mammoplasty",
+    "type": "term",
     "category": "OB/GYN",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "e61aafed-f5aa-4e76-b766-41d5d9f235d9",
-    "term": "the term adrenimegaly means",
-    "definition": "the term adrenimegaly means",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "6b530c8a-3e58-4045-aa86-535fcd4ddd95",
     "term": "enlargement of the adrenal gland(s)",
-    "definition": "enlargement of the adrenal gland(s)",
-    "type": "note",
+    "definition": "Adrenimegaly",
+    "type": "term",
     "category": "Endocrine/Diabetes",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "afe76891-a16e-4fca-9794-f9b530d8bc29",
-    "term": "the term gynecopathy means",
-    "definition": "the term gynecopathy means",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "001b2942-ce0b-432e-916c-b03d533e5cf9",
     "term": "any disease of the female reproductive system",
-    "definition": "any disease of the female reproductive system",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "cc969a3c-e78d-434c-9f58-c4ccf2619246",
-    "term": "a term meaning an ingrown nail is",
-    "definition": "a term meaning an ingrown nail is",
-    "type": "note",
+    "definition": "Gynecopathy",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "27d95d93-98f7-421d-a242-4bf3691707ab",
     "term": "onychocryptosis",
-    "definition": "onychocryptosis",
-    "type": "note",
+    "definition": "A term meaning an ingrown nail",
+    "type": "term",
     "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "d4b85646-7ae4-4da7-960b-f8916aa0afe8",
-    "term": "the term meaning excision of fatty tissue is",
-    "definition": "the term meaning excision of fatty tissue is",
-    "type": "note",
-    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "43c57d8d-3049-4d43-a932-776b38c39219",
     "term": "lipectomy",
-    "definition": "lipectomy",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "16fa3cce-ac44-4864-9593-935ff5bc684c",
-    "term": "the term meaning rapture of vein is",
-    "definition": "the term meaning rapture of vein is",
-    "type": "note",
-    "category": "Cardiovascular",
+    "definition": "Meaning excision of fatty tissue",
+    "type": "term",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "5d3efbb1-9947-4031-ab88-19714c11b216",
     "term": "phlebrrhexis",
-    "definition": "phlebrrhexis",
-    "type": "note",
+    "definition": "Meaning rapture of vein",
+    "type": "term",
     "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "e9d7e771-6c70-48d1-9093-0d3382c936d1",
-    "term": "the term duodenoscopy means",
-    "definition": "the term duodenoscopy means",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "32374f56-3f2d-4e49-8965-f0392a92e013",
     "term": "inspection of the duodenum with a scope",
-    "definition": "inspection of the duodenum with a scope",
-    "type": "note",
+    "definition": "Duodenoscopy",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -3352,322 +3152,162 @@
     "difficulty": "unrated"
   },
   {
-    "id": "db3e62ed-6e96-4a40-9f78-bd85b577fd28",
-    "term": "the term dacryocystitis means",
-    "definition": "the term dacryocystitis means",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "f5f0d0a6-8d49-412b-8fe6-a0884b7ee063",
     "term": "inflammation of a tear sac",
-    "definition": "inflammation of a tear sac",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "fdb581e6-e63a-4bd1-a86e-bb4037814765",
-    "term": "the term intracerebral means",
-    "definition": "the term intracerebral means",
-    "type": "note",
+    "definition": "Dacryocystitis",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "d59fb174-164d-4fc5-870e-61cdc3648180",
     "term": "within the main part of the brain",
-    "definition": "within the main part of the brain",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "013a9901-877f-485f-8e5e-c5115d90f401",
-    "term": "the meaning condition of fungus of the nail is",
-    "definition": "the meaning condition of fungus of the nail is",
-    "type": "note",
+    "definition": "Intracerebral",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "5f618d9c-9e56-4136-818c-6715f7754b7d",
     "term": "onychomycsis",
-    "definition": "onychomycsis",
-    "type": "note",
+    "definition": "The meaning condition of fungus of the nail",
+    "type": "term",
     "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "72098823-5d85-4d07-9bac-939d44e71bab",
-    "term": "the term meaning death of tissue or bone is",
-    "definition": "the term meaning death of tissue or bone is",
-    "type": "note",
-    "category": "Regulatory Bodies",
     "difficulty": "unrated"
   },
   {
     "id": "ea250043-6174-4856-bf66-0f668d8d6276",
     "term": "necrosis",
-    "definition": "necrosis",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "39d2224f-5df9-4ff1-adb8-3aaf08aacdaf",
-    "term": "the term meaning death of tissue or bone is",
-    "definition": "the term meaning death of tissue or bone is",
-    "type": "note",
+    "definition": "Meaning death of tissue or bone",
+    "type": "term",
     "category": "Regulatory Bodies",
     "difficulty": "unrated"
   },
   {
     "id": "8b3e0d28-5b74-4542-8d60-2a4f48c423e3",
     "term": "necrosis",
-    "definition": "necrosis",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "59e0ebef-4548-4c67-b196-ada5ad55aa8a",
-    "term": "the term meaning passing from front to rear is",
-    "definition": "the term meaning passing from front to rear is",
-    "type": "note",
-    "category": "General",
+    "definition": "Meaning death of tissue or bone",
+    "type": "term",
+    "category": "Regulatory Bodies",
     "difficulty": "unrated"
   },
   {
     "id": "7eed8d41-d465-43d2-b4ec-823702018c74",
     "term": "anteroposterior",
-    "definition": "anteroposterior",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "602534e4-19a8-4b59-a74e-647a45e4f261",
-    "term": "the term meaning passing from to rear is",
-    "definition": "the term meaning passing from to rear is",
-    "type": "note",
+    "definition": "Meaning passing from front to rear",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "63c3c8c6-04e6-4674-99f1-0ffa4e7a56ae",
     "term": "anteroposterior",
-    "definition": "anteroposterior",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "4e53182f-a725-46b6-a718-f1d7040aecae",
-    "term": "the term aplasia means",
-    "definition": "the term aplasia means",
-    "type": "note",
+    "definition": "Meaning passing from to rear",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "84c7cead-4892-49fc-939c-c1e0f7199ed5",
     "term": "lack of formation",
-    "definition": "lack of formation",
-    "type": "note",
+    "definition": "Aplasia",
+    "type": "term",
     "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "e8a12016-5ccb-4cd9-b265-b5ba4c5ab3ee",
-    "term": "the term endocarditis means",
-    "definition": "the term endocarditis means",
-    "type": "note",
-    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "d81109d7-fb0d-475b-825e-68d131a08a0d",
     "term": "inflammation if the inside lining of the heart",
-    "definition": "inflammation if the inside lining of the heart",
-    "type": "note",
+    "definition": "Endocarditis",
+    "type": "term",
     "category": "Cardiovascular",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "551d9520-2ab8-47c8-a5c5-e33c3ca93cd5",
-    "term": "the term pyeloplasty means",
-    "definition": "the term pyeloplasty means",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "780957fa-6ff4-44c6-a70f-506ab77900fc",
     "term": "surgical repair of the renal pelvic",
-    "definition": "surgical repair of the renal pelvic",
-    "type": "note",
+    "definition": "Pyeloplasty",
+    "type": "term",
     "category": "Urinalysis",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "f0fc8ce1-84f3-4eed-ad03-a092df750700",
-    "term": "the term meaning below normal temperature is",
-    "definition": "the term meaning below normal temperature is",
-    "type": "note",
-    "category": "Vital Signs",
     "difficulty": "unrated"
   },
   {
     "id": "be2ba4b8-6a0d-46ad-907e-35970f6d2f3b",
     "term": "hypothermia",
-    "definition": "hypothermia",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "c9a43661-3d3a-4f88-aa7b-262b9e658302",
-    "term": "the term hysterorrhaphy means",
-    "definition": "the term hysterorrhaphy means",
-    "type": "note",
-    "category": "General",
+    "definition": "Meaning below normal temperature",
+    "type": "term",
+    "category": "Vital Signs",
     "difficulty": "unrated"
   },
   {
     "id": "4a1f2a54-8f83-4fb8-93db-de194d979f5a",
     "term": "suturing of the uterus",
-    "definition": "suturing of the uterus",
-    "type": "note",
+    "definition": "Hysterorrhaphy",
+    "type": "term",
     "category": "OB/GYN",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "028182d0-49b3-45c2-95bf-c731c3b2b13a",
-    "term": "the term proctorrhagia means",
-    "definition": "the term proctorrhagia means",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "fcd433ec-0a06-4ee3-b74a-1b4738d1e205",
     "term": "hemorrhage from the rectum",
-    "definition": "hemorrhage from the rectum",
-    "type": "note",
+    "definition": "Proctorrhagia",
+    "type": "term",
     "category": "Cardiovascular",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "61d594c9-4eaf-404a-aafd-ae56102c25de",
-    "term": "the term for disease of the retina is",
-    "definition": "the term for disease of the retina is",
-    "type": "note",
-    "category": "Ophthalmology",
     "difficulty": "unrated"
   },
   {
     "id": "4884f3c3-cf2f-4adc-a13d-18bda2d2fb20",
     "term": "retinopathy",
-    "definition": "retinopathy",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "d3a0d861-c03d-4fad-8a69-ac94389d3d6c",
-    "term": "the term meaning herniation of the meaning is",
-    "definition": "the term meaning herniation of the meaning is",
-    "type": "note",
-    "category": "General",
+    "definition": "For disease of the retina",
+    "type": "term",
+    "category": "Ophthalmology",
     "difficulty": "unrated"
   },
   {
     "id": "5726ec51-2d32-47f1-bb72-f2f548a916d0",
     "term": "meningocele",
-    "definition": "meningocele",
-    "type": "note",
+    "definition": "Meaning herniation of the meaning",
+    "type": "term",
     "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "b60520c9-4a97-44e1-8b49-db3cd7ece744",
-    "term": "the term meaning suppression of menses is",
-    "definition": "the term meaning suppression of menses is",
-    "type": "note",
-    "category": "OB/GYN",
     "difficulty": "unrated"
   },
   {
     "id": "c4544e33-dfa4-4f80-907b-2048dadd487e",
     "term": "menostasis",
-    "definition": "menostasis",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "777ffbcf-e868-47b6-bb31-ed51dd9990bf",
-    "term": "the term meaning across the chest is",
-    "definition": "the term meaning across the chest is",
-    "type": "note",
-    "category": "General",
+    "definition": "Meaning suppression of menses",
+    "type": "term",
+    "category": "OB/GYN",
     "difficulty": "unrated"
   },
   {
     "id": "9998eb04-141a-4545-ae00-81a34f4dce69",
     "term": "transthorax",
-    "definition": "transthorax",
-    "type": "note",
+    "definition": "Meaning across the chest",
+    "type": "term",
     "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "27667d6d-d264-4a7e-bbc4-0e4375ba672a",
-    "term": "the term meaning excessive formation of cells or tissue is",
-    "definition": "the term meaning excessive formation of cells or tissue is",
-    "type": "note",
-    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "dd45b388-018b-4b8a-bf04-8683fd964687",
     "term": "hyperplasia",
-    "definition": "hyperplasia",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "ce9056c5-32cf-4b6c-8992-6efcc5140007",
-    "term": "the term pyogenesis means",
-    "definition": "the term pyogenesis means",
-    "type": "note",
-    "category": "General",
+    "definition": "Meaning excessive formation of cells or tissue",
+    "type": "term",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "fc8eb001-a976-47e6-b9a1-9db0c7733fe0",
     "term": "formation of pus",
-    "definition": "formation of pus",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "d69ed18d-65df-43f6-a234-ced263d16944",
-    "term": "the term hemiplegia means",
-    "definition": "the term hemiplegia means",
-    "type": "note",
+    "definition": "Pyogenesis",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "33646894-fd54-4d78-85a3-8246078d2890",
     "term": "paralysis of one half of the body",
-    "definition": "paralysis of one half of the body",
-    "type": "note",
+    "definition": "Hemiplegia",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -3681,16 +3321,8 @@
   },
   {
     "id": "b6e80038-45d2-4122-b0fa-c0a9a5f03e47",
-    "term": "nose and throat",
-    "definition": "nose and throat",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "1b1cb562-7f11-41e1-8bd3-1bd69b469321",
-    "term": "the term neurotripsy means",
-    "definition": "the term neurotripsy means",
+    "term": "Rhinolaryngeal / Rhinopharyngeal",
+    "definition": "Pertaining to the nose and throat. Rhino- = nose; pharynx = throat. ENT (ear, nose, and throat) specialist also called otolaryngologist.",
     "type": "note",
     "category": "Anatomy & Terminology",
     "difficulty": "unrated"
@@ -3698,40 +3330,24 @@
   {
     "id": "92632b75-1190-4fdd-9721-6467164a37f8",
     "term": "surgical crushing of a nerve",
-    "definition": "surgical crushing of a nerve",
-    "type": "note",
+    "definition": "Neurotripsy",
+    "type": "term",
     "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "e392abd2-fa03-4695-a5fa-9059e01b72ab",
-    "term": "scraping of the body cavity is",
-    "definition": "scraping of the body cavity is",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "db0f13fa-4182-4ea8-9b70-f3c2df42a2bd",
     "term": "curettage",
-    "definition": "curettage",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "7ec49394-d610-4605-a8df-88341a0fd320",
-    "term": "inflammation of the tonsils is",
-    "definition": "inflammation of the tonsils is",
-    "type": "note",
+    "definition": "Scraping of the body cavity",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "065bd048-11e0-4d7c-a77a-53b858ed3757",
     "term": "tonsillitis",
-    "definition": "tonsillitis",
-    "type": "note",
+    "definition": "Inflammation of the tonsils",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -3745,16 +3361,8 @@
   },
   {
     "id": "3c51ae1c-4d5e-49dd-a545-15c0e25344cf",
-    "term": "diaphragm",
-    "definition": "diaphragm",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "46e17f5e-a5d4-4535-aefe-1e5646e93e2b",
-    "term": "the main tissue of the outer layer of the skin is",
-    "definition": "the main tissue of the outer layer of the skin is",
+    "term": "Diaphragm",
+    "definition": "Dome-shaped muscle separating thoracic (chest) and abdominal cavities. Primary muscle of breathing — contracts and flattens during inhalation (increases thoracic volume), relaxes during exhalation. Also: contraceptive barrier device.",
     "type": "note",
     "category": "Anatomy & Terminology",
     "difficulty": "unrated"
@@ -3762,9 +3370,9 @@
   {
     "id": "b9d653e4-bdae-47d3-8a72-330137213673",
     "term": "epithelial",
-    "definition": "epithelial",
-    "type": "note",
-    "category": "General",
+    "definition": "The main tissue of the outer layer of the skin",
+    "type": "term",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -3777,10 +3385,10 @@
   },
   {
     "id": "09006baf-7476-437b-9356-f7808c675572",
-    "term": "sebaceous",
-    "definition": "sebaceous",
+    "term": "Sebaceous glands",
+    "definition": "Oil-secreting glands in the skin, usually attached to hair follicles. Secrete sebum (oil) that lubricates skin and hair, prevents drying. Overactivity causes acne. Located everywhere except palms and soles.",
     "type": "note",
-    "category": "General",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -3793,16 +3401,8 @@
   },
   {
     "id": "45704e78-1efd-41f2-854f-559f6d91dfe7",
-    "term": "red bone marrow",
-    "definition": "red bone marrow",
-    "type": "note",
-    "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "2545ae64-ae6a-47b8-a7cd-105c4dab76d6",
-    "term": "the structures that attach muscles to the bone are",
-    "definition": "the structures that attach muscles to the bone are",
+    "term": "Red bone marrow",
+    "definition": "Site of hematopoiesis (blood cell production). Produces RBCs, WBCs, and platelets. Found in spongy bone of sternum, ribs, vertebrae, pelvis, and ends of long bones. Yellow bone marrow stores fat and is found in shaft of long bones.",
     "type": "note",
     "category": "Anatomy & Terminology",
     "difficulty": "unrated"
@@ -3810,40 +3410,24 @@
   {
     "id": "026be744-d658-431c-b839-cbcb09301d3c",
     "term": "tendons",
-    "definition": "tendons",
-    "type": "note",
+    "definition": "The structures that attach muscles to the bone",
+    "type": "term",
     "category": "Musculoskeletal",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "797402dc-b9a7-4b42-85c5-f4b73ac0e5a4",
-    "term": "nerve fibers are insulated and protected by a fatty material called",
-    "definition": "nerve fibers are insulated and protected by a fatty material called",
-    "type": "note",
-    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "a78ad20d-cabc-4e55-b4c3-220b932d2173",
     "term": "myelin",
-    "definition": "myelin",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "ecf3b39d-90b6-4d0f-abf1-57bee7184e89",
-    "term": "the function of the lacrimal apparatus is to",
-    "definition": "the function of the lacrimal apparatus is to",
-    "type": "note",
-    "category": "General",
+    "definition": "Nerve fibers are insulated and protected by a fatty material",
+    "type": "term",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "ed07e007-2df9-4ec7-ac40-d7185a0d39b4",
     "term": "produce tears to lubricate the eye",
-    "definition": "produce tears to lubricate the eye",
-    "type": "note",
+    "definition": "The function of the lacrimal apparatus is",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -3857,10 +3441,10 @@
   },
   {
     "id": "727cfdc5-c751-42d8-81f3-fe743015fd77",
-    "term": "ischium",
-    "definition": "ischium",
+    "term": "Ischium",
+    "definition": "The lower and posterior part of the hip bone (os coxae). Part of the pelvic girdle. The ischial tuberosity (\"sitting bone\") bears weight when seated. The three parts of the hip bone: ilium (top), ischium (back-bottom), pubis (front).",
     "type": "note",
-    "category": "General",
+    "category": "Musculoskeletal",
     "difficulty": "unrated"
   },
   {
@@ -3873,8 +3457,8 @@
   },
   {
     "id": "2bc46da8-f8ad-4853-ba9c-beea9b0a0738",
-    "term": "erythrocytes leukocytes platelets",
-    "definition": "erythrocytes leukocytes platelets",
+    "term": "Erythrocyte (RBC)",
+    "definition": "Red blood cell. Biconcave disc, no nucleus, lives ~120 days. Contains hemoglobin (Hgb) which carries oxygen. Normal count: males 4.5–5.5 million/µL; females 4.0–5.0 million/µL. Produced in red bone marrow. Destroyed by spleen/liver. Anemia = low RBC/Hgb.",
     "type": "note",
     "category": "Lab Values",
     "difficulty": "unrated"
@@ -3889,10 +3473,10 @@
   },
   {
     "id": "7c617f6e-38c6-4525-99b0-485a795c55af",
-    "term": "ventricles and artria",
-    "definition": "ventricles and artria",
+    "term": "Cardiac ventricles",
+    "definition": "Lower two chambers of the heart. Right ventricle: pumps deoxygenated blood to lungs via pulmonary artery. Left ventricle: pumps oxygenated blood to body via aorta (thicker wall, higher pressure). Ventricular fibrillation = life-threatening arrhythmia requiring AED/defibrillation.",
     "type": "note",
-    "category": "General",
+    "category": "Cardiovascular",
     "difficulty": "unrated"
   },
   {
@@ -3905,25 +3489,17 @@
   },
   {
     "id": "7b8953b7-9c6d-45eb-b329-a5772b02bc9d",
-    "term": "spleen",
-    "definition": "spleen",
+    "term": "Spleen",
+    "definition": "Largest lymphoid organ, located in the left upper quadrant (LUQ). Functions: filters blood, destroys old/damaged RBCs, stores blood, immune response (produces lymphocytes/antibodies). Splenomegaly = enlarged spleen. Ruptured spleen = emergency.",
     "type": "note",
-    "category": "GI/Digestive",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "64637172-e6b8-41cd-b1c5-251a558b1484",
-    "term": "an example of active immunity is",
-    "definition": "an example of active immunity is",
-    "type": "note",
-    "category": "General",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "bbc71505-411e-4db3-a7af-14fc5029eeaa",
     "term": "producing antibodies as a result of having a disease",
-    "definition": "producing antibodies as a result of having a disease",
-    "type": "note",
+    "definition": "An example of active immunity",
+    "type": "term",
     "category": "Sensory Screening",
     "difficulty": "unrated"
   },
@@ -3937,26 +3513,18 @@
   },
   {
     "id": "2accf166-5d60-4c48-8d96-2708c6c72d28",
-    "term": "larynx",
-    "definition": "larynx",
+    "term": "Larynx",
+    "definition": "Voice box. Located between pharynx and trachea. Contains vocal cords (vocalis). Epiglottis covers larynx during swallowing to prevent aspiration. Laryngitis = inflammation. Laryngoscopy = visual exam.",
     "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "3149a33e-c74d-4b22-b6a5-9d7e1b0595e8",
-    "term": "the wavelike movement that propels food through the digestive tract is called",
-    "definition": "the wavelike movement that propels food through the digestive tract is called",
-    "type": "note",
-    "category": "GI/Digestive",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "25a5c234-69e8-4d29-85ef-1e83ca79e12e",
     "term": "peristalsis",
-    "definition": "peristalsis",
-    "type": "note",
-    "category": "General",
+    "definition": "The wavelike movement that propels food through the digestive tract is",
+    "type": "term",
+    "category": "GI/Digestive",
     "difficulty": "unrated"
   },
   {
@@ -3969,26 +3537,18 @@
   },
   {
     "id": "2b3133b6-eb8d-48c4-8e2d-18dc0b06e781",
-    "term": "anaerobic",
-    "definition": "anaerobic",
+    "term": "Anaerobic",
+    "definition": "Living or occurring without oxygen. Anaerobic bacteria cause infections in deep wounds (e.g., C. difficile, tetanus, gas gangrene). Anaerobic specimens must be collected without exposure to air and transported in special anaerobic transport media.",
     "type": "note",
-    "category": "Infection Control",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "2ae54f1a-f01e-4ed9-b785-57e4cbc14940",
-    "term": "the term that means the body is in a state of equilibrium or balance is",
-    "definition": "the term that means the body is in a state of equilibrium or balance is",
-    "type": "note",
-    "category": "Medical Abbreviations",
+    "category": "Microbiology",
     "difficulty": "unrated"
   },
   {
     "id": "008d06d0-c0a1-4a53-a986-90448b894f55",
     "term": "homeostasis",
-    "definition": "homeostasis",
-    "type": "note",
-    "category": "General",
+    "definition": "That means the body is in a state of equilibrium or balance",
+    "type": "term",
+    "category": "Medical Abbreviations",
     "difficulty": "unrated"
   },
   {
@@ -4001,8 +3561,8 @@
   },
   {
     "id": "e3615f31-7d0c-4cba-8b26-8fb0d3549d3d",
-    "term": "renal pelvis",
-    "definition": "renal pelvis",
+    "term": "Renal pelvis",
+    "definition": "Funnel-shaped structure at the center of the kidney that collects urine from the calyces and funnels it into the ureter. Pyelonephritis = infection of renal pelvis and kidney. Pyeloplasty = surgical repair.",
     "type": "note",
     "category": "Urinalysis",
     "difficulty": "unrated"
@@ -4018,9 +3578,9 @@
   {
     "id": "cdf45959-4942-487d-96f5-f18fad19ba8e",
     "term": "Perineum",
-    "definition": "Perineum",
+    "definition": "Diamond-shaped region between the thighs. In females: area between vaginal opening and anus. In males: area between scrotum and anus. Site of perineal lacerations during childbirth (episiotomy). Important for perineal care in catheter patients.",
     "type": "note",
-    "category": "General",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -4033,10 +3593,10 @@
   },
   {
     "id": "b5410c4f-0488-4c5e-8fcd-199ffa4c097d",
-    "term": "ectopic",
-    "definition": "ectopic",
+    "term": "Ectopic pregnancy",
+    "definition": "Fertilized egg implants outside the uterus, most commonly in the fallopian tube. Signs: sharp one-sided pelvic pain, vaginal bleeding, positive HCG. Medical emergency — can cause tube rupture and internal hemorrhage. Treated with methotrexate or surgery.",
     "type": "note",
-    "category": "General",
+    "category": "OB/GYN",
     "difficulty": "unrated"
   },
   {
@@ -4072,18 +3632,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "8f595130-caf7-464a-afcd-bcb211b5cc84",
-    "term": "the measure of acidity or alkanlinity of a solution is called",
-    "definition": "the measure of acidity or alkanlinity of a solution is called",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "b61611a3-e158-4b2d-a363-551025e02c9f",
     "term": "pH",
-    "definition": "pH",
-    "type": "note",
+    "definition": "The measure of acidity or alkanlinity of a solution is",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -4097,26 +3649,18 @@
   },
   {
     "id": "bedf2095-25fb-4216-8772-0b624559433d",
-    "term": "isotonic",
-    "definition": "isotonic",
+    "term": "Isotonic solution",
+    "definition": "Solution with same osmolarity as blood (0.9% normal saline, lactated Ringer's). Does not cause cells to shrink or swell. Hypotonic: less concentrated — cells swell. Hypertonic: more concentrated — cells shrink (crenation). Used in IV fluids.",
     "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "cc781ba1-2d0f-4e69-8132-3d3730595a10",
-    "term": "the fibrous bands that support organs to hold them in place are",
-    "definition": "the fibrous bands that support organs to hold them in place are",
-    "type": "note",
-    "category": "Anatomy & Terminology",
+    "category": "Medications",
     "difficulty": "unrated"
   },
   {
     "id": "839efbe0-23ba-4e3b-96c2-1fe603ea3dd8",
     "term": "fascia",
-    "definition": "fascia",
-    "type": "note",
-    "category": "General",
+    "definition": "The fibrous bands that support organs to hold them in place",
+    "type": "term",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -4129,10 +3673,10 @@
   },
   {
     "id": "6ca19f31-797d-4510-8342-b146f09983fa",
-    "term": "pericardium",
-    "definition": "pericardium",
+    "term": "Pericardium",
+    "definition": "Double-layered fibrous sac surrounding the heart. Outer layer: fibrous pericardium (anchors heart). Inner layer: serous pericardium (visceral and parietal). Pericardial fluid lubricates heart movement. Pericarditis = inflammation; pericardial effusion = fluid buildup.",
     "type": "note",
-    "category": "General",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -4145,10 +3689,10 @@
   },
   {
     "id": "85602480-7dec-4643-8eba-1dd95014c89e",
-    "term": "xiphoid process",
-    "definition": "xiphoid process",
+    "term": "Xiphoid process",
+    "definition": "Small cartilaginous extension at the inferior (bottom) tip of the sternum. Landmark for CPR hand placement (hands on lower half of sternum, ABOVE the xiphoid to avoid liver laceration). Ossifies in adulthood.",
     "type": "note",
-    "category": "General",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -4161,10 +3705,10 @@
   },
   {
     "id": "b5fa0d1e-6150-4965-a6bf-fc9d7a6c7e0a",
-    "term": "deltoid",
-    "definition": "deltoid",
+    "term": "Deltoid muscle",
+    "definition": "Large triangular muscle of the shoulder. Primary IM injection site in adults (deltoid IM: 1–3 inch, 23 gauge, 90°). Landmark: 2–3 finger widths below the acromion process. Can give 1–2 mL. Not used for infants/toddlers (underdeveloped).",
     "type": "note",
-    "category": "General",
+    "category": "Medications",
     "difficulty": "unrated"
   },
   {
@@ -4177,8 +3721,8 @@
   },
   {
     "id": "5cbfd1de-3ab4-4a68-9ffb-54e45c361dd0",
-    "term": "afferent neurons",
-    "definition": "afferent neurons",
+    "term": "Afferent neurons (sensory)",
+    "definition": "Carry nerve impulses FROM sensory receptors TO the brain/spinal cord. Mnemonic: Afferent = Arrive (to CNS). Efferent neurons = Exit (from CNS to muscles/glands). Interneurons connect afferent and efferent in the spinal cord.",
     "type": "note",
     "category": "Anatomy & Terminology",
     "difficulty": "unrated"
@@ -4193,10 +3737,10 @@
   },
   {
     "id": "458508d3-8421-4b02-a034-6352a60dd98f",
-    "term": "ventricles",
-    "definition": "ventricles",
+    "term": "Cardiac ventricles",
+    "definition": "Lower two chambers of the heart. Right ventricle: pumps deoxygenated blood to lungs via pulmonary artery. Left ventricle: pumps oxygenated blood to body via aorta (thicker wall, higher pressure). Ventricular fibrillation = life-threatening arrhythmia requiring AED/defibrillation.",
     "type": "note",
-    "category": "General",
+    "category": "Cardiovascular",
     "difficulty": "unrated"
   },
   {
@@ -4209,8 +3753,8 @@
   },
   {
     "id": "ea7d6b4b-7bfa-4a35-8a63-5d83b654f7a1",
-    "term": "olfactory nerve",
-    "definition": "olfactory nerve",
+    "term": "Olfactory nerve (CN I)",
+    "definition": "Cranial nerve I. Responsible for sense of smell. Sensory fibers pass through the cribriform plate of the ethmoid bone to the olfactory bulb. Loss of smell = anosmia (can occur with COVID-19, head trauma, or zinc deficiency).",
     "type": "note",
     "category": "Anatomy & Terminology",
     "difficulty": "unrated"
@@ -4225,8 +3769,8 @@
   },
   {
     "id": "f5c51612-6c8e-4a6a-bb1d-7a9a415ed1dd",
-    "term": "pituitary gland",
-    "definition": "pituitary gland",
+    "term": "Pituitary gland",
+    "definition": "\"Master gland\" located at the base of the brain in the sella turcica. Anterior pituitary: secretes TSH, FSH, LH, ACTH, GH, prolactin. Posterior pituitary: releases ADH (antidiuretic hormone) and oxytocin. Controlled by hypothalamus.",
     "type": "note",
     "category": "Endocrine/Diabetes",
     "difficulty": "unrated"
@@ -4257,10 +3801,10 @@
   },
   {
     "id": "2af5998f-b96e-48d6-83c4-0be0548339ec",
-    "term": "superior vena cava",
-    "definition": "superior vena cava",
+    "term": "Superior vena cava (SVC)",
+    "definition": "Large vein that drains deoxygenated blood from the upper body (head, neck, arms, thorax) into the right atrium. Inferior vena cava (IVC) drains lower body. Together = venae cavae. SVC syndrome: compression causing facial swelling, seen in lung cancer.",
     "type": "note",
-    "category": "General",
+    "category": "Cardiovascular",
     "difficulty": "unrated"
   },
   {
@@ -4280,18 +3824,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "59b78ff7-8db2-4767-b8be-13fe67e5afaa",
-    "term": "the condition of inflammation of the lymphatic vessels is called",
-    "definition": "the condition of inflammation of the lymphatic vessels is called",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "2f8de85f-0fdd-4095-9e2e-fefd1cb6424c",
     "term": "lymphangitis",
-    "definition": "lymphangitis",
-    "type": "note",
+    "definition": "The condition of inflammation of the lymphatic vessels is",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -4321,10 +3857,10 @@
   },
   {
     "id": "5be2f331-06b9-4751-bada-6b41b98b58fb",
-    "term": "phagocytosis",
-    "definition": "phagocytosis",
+    "term": "Phagocytosis",
+    "definition": "Process by which white blood cells (especially neutrophils and macrophages) engulf and destroy pathogens, dead cells, and debris. \"Cell eating.\" Key immune defense. Neutrophils are first responders; macrophages are long-term phagocytes.",
     "type": "note",
-    "category": "General",
+    "category": "Infection Control",
     "difficulty": "unrated"
   },
   {
@@ -4337,10 +3873,10 @@
   },
   {
     "id": "335ede8f-f111-44f0-8ddb-4b9caad88a26",
-    "term": "pharynx",
-    "definition": "pharynx",
+    "term": "Pharynx",
+    "definition": "Throat — muscular tube connecting nasal/oral cavities to larynx and esophagus. Three sections: nasopharynx (behind nose), oropharynx (behind mouth), laryngopharynx (connects to larynx/esophagus). Site of tonsils, adenoids. Pharyngitis = strep throat.",
     "type": "note",
-    "category": "General",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -4353,10 +3889,10 @@
   },
   {
     "id": "dbf52e59-0318-4ef6-b088-4a7ec3657fd3",
-    "term": "pneumothorax",
-    "definition": "pneumothorax",
+    "term": "Pneumothorax",
+    "definition": "Air in the pleural space (between lung and chest wall) causing lung collapse. Types: spontaneous (tall thin individuals), traumatic (penetrating injury), tension (life-threatening — air accumulates under pressure). Signs: sudden chest pain, dyspnea, absent breath sounds. Emergency.",
     "type": "note",
-    "category": "General",
+    "category": "Respiratory",
     "difficulty": "unrated"
   },
   {
@@ -4369,10 +3905,10 @@
   },
   {
     "id": "09cb9141-f14e-447c-9b72-3637abe34ec3",
-    "term": "epiglottis",
-    "definition": "epiglottis",
+    "term": "Epiglottis",
+    "definition": "Leaf-shaped cartilaginous flap that covers the larynx during swallowing to prevent food/liquid from entering the airway. Epiglottitis: life-threatening inflammation (bacterial, esp. H. influenzae type B) — \"tripod position,\" drooling, stridor. Emergency.",
     "type": "note",
-    "category": "General",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -4385,16 +3921,8 @@
   },
   {
     "id": "8b52ec55-356b-41bd-9e13-0f889fc5ade6",
-    "term": "small intestine",
-    "definition": "small intestine",
-    "type": "note",
-    "category": "GI/Digestive",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "6665e0ba-bf50-4136-a3be-0247efed44a8",
-    "term": "the lining of the stomach has many folds called",
-    "definition": "the lining of the stomach has many folds called",
+    "term": "Small intestine",
+    "definition": "Primary site of nutrient absorption (~20 feet long). Three sections: duodenum (first 12 inches — receives bile/pancreatic enzymes), jejunum (middle), ileum (terminal — absorbs B12, bile salts). Villi increase surface area. Connects stomach to large intestine.",
     "type": "note",
     "category": "GI/Digestive",
     "difficulty": "unrated"
@@ -4402,9 +3930,9 @@
   {
     "id": "48249623-1439-4cfc-ab31-44a127b4ab03",
     "term": "rugae",
-    "definition": "rugae",
-    "type": "note",
-    "category": "General",
+    "definition": "The lining of the stomach has many folds",
+    "type": "term",
+    "category": "GI/Digestive",
     "difficulty": "unrated"
   },
   {
@@ -4417,57 +3945,33 @@
   },
   {
     "id": "46371808-15df-4ebe-82ad-287890e9d9d2",
-    "term": "duodenum",
-    "definition": "duodenum",
+    "term": "Duodenum",
+    "definition": "First and shortest section of the small intestine (~12 inches/\"12 fingers\" wide). Receives chyme from stomach, bile from common bile duct, and pancreatic enzymes. Site of most peptic ulcers. Duodenoscopy = visual examination with scope.",
     "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "0c36b6c4-2aa6-4716-8418-46d19b3ada91",
-    "term": "an abnormal accumulation of excessive fluid in the intercellular space is called",
-    "definition": "an abnormal accumulation of excessive fluid in the intercellular space is called",
-    "type": "note",
-    "category": "General",
+    "category": "GI/Digestive",
     "difficulty": "unrated"
   },
   {
     "id": "9a47bd04-f0e1-4127-a49d-57f5648e8ea7",
     "term": "edema",
-    "definition": "edema",
-    "type": "note",
+    "definition": "An abnormal accumulation of excessive fluid in the intercellular space is",
+    "type": "term",
     "category": "Patient Positioning",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "c96af945-b214-44e9-8224-266a312eddbf",
-    "term": "the kidneys are located in the",
-    "definition": "the kidneys are located in the",
-    "type": "note",
-    "category": "Urinalysis",
     "difficulty": "unrated"
   },
   {
     "id": "7909a7f2-a246-4010-87c0-54b093b83772",
     "term": "retroperitoneal space",
-    "definition": "retroperitoneal space",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "9177fbd1-dc44-4c43-9282-53bea2d0cd34",
-    "term": "the term hydronephrosis means",
-    "definition": "the term hydronephrosis means",
-    "type": "note",
+    "definition": "The kidneys are located in",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "c7c3b9b4-3cb7-48b8-b3ad-709c432026a5",
     "term": "distention of the renal pelvis resulting from obstructed flow of urine",
-    "definition": "distention of the renal pelvis resulting from obstructed flow of urine",
-    "type": "note",
+    "definition": "Hydronephrosis",
+    "type": "term",
     "category": "Urinalysis",
     "difficulty": "unrated"
   },
@@ -4481,10 +3985,10 @@
   },
   {
     "id": "e6f3d99e-d86d-485e-a064-a29bcfef7cfe",
-    "term": "testes and ovaries",
-    "definition": "testes and ovaries",
+    "term": "Gonads (testes & ovaries)",
+    "definition": "Primary reproductive organs. Testes (male): produce sperm and testosterone. Ovaries (female): produce eggs (ova) and estrogen/progesterone. Also function as endocrine glands. FSH stimulates follicle development in ovaries; LH triggers ovulation.",
     "type": "note",
-    "category": "General",
+    "category": "OB/GYN",
     "difficulty": "unrated"
   },
   {
@@ -4497,10 +4001,10 @@
   },
   {
     "id": "0884690c-f83a-4243-8564-697555fcb45f",
-    "term": "femur",
-    "definition": "femur",
+    "term": "Femur",
+    "definition": "Thigh bone — longest, strongest bone in the body. Connects hip (acetabulum) to knee (tibia/patella). Femoral artery runs medially — venipuncture landmark in emergencies. Femoral neck fractures common in elderly osteoporosis patients. Distal end has medial/lateral condyles.",
     "type": "note",
-    "category": "General",
+    "category": "Musculoskeletal",
     "difficulty": "unrated"
   },
   {
@@ -4513,10 +4017,10 @@
   },
   {
     "id": "4d49aa70-2760-429e-8814-0214d3628c5f",
-    "term": "abdominal aorta",
-    "definition": "abdominal aorta",
+    "term": "Abdominal aorta",
+    "definition": "Section of the descending aorta below the diaphragm, supplying blood to abdominal organs. Bifurcates at L4 into left and right common iliac arteries. Abdominal aortic aneurysm (AAA): bulging — risk of rupture, medical emergency. Screened via ultrasound.",
     "type": "note",
-    "category": "General",
+    "category": "Cardiovascular",
     "difficulty": "unrated"
   },
   {
@@ -4529,42 +4033,26 @@
   },
   {
     "id": "12237770-191d-4473-aa63-18d87ea1e2d0",
-    "term": "amenorrhea",
-    "definition": "amenorrhea",
+    "term": "Amenorrhea",
+    "definition": "Absence of menstrual flow. Primary: no period by age 16. Secondary: cessation after normal cycles for ≥3 months. Causes: pregnancy (first rule out), stress, extreme weight loss/gain, PCOS, thyroid disorders, hyperprolactinemia. A (without) + meno (menses) + rrhea (flow).",
     "type": "note",
     "category": "OB/GYN",
     "difficulty": "unrated"
   },
   {
-    "id": "18d3e97b-8da5-4747-80dc-06aa8d79575e",
-    "term": "the hormone produced by the embryonic cells of the fetus is",
-    "definition": "the hormone produced by the embryonic cells of the fetus is",
-    "type": "note",
-    "category": "Endocrine/Diabetes",
-    "difficulty": "unrated"
-  },
-  {
     "id": "44973b54-5c5d-4aa9-bfe9-8f8756faf047",
     "term": "human chronic gonadotropin hormone",
-    "definition": "human chronic gonadotropin hormone",
-    "type": "note",
+    "definition": "The hormone produced by the embryonic cells of the fetus",
+    "type": "term",
     "category": "Endocrine/Diabetes",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "bb41a210-f56d-495b-a1f8-6f065cde997c",
-    "term": "a substance necessary for proper formation of a blood clot is",
-    "definition": "a substance necessary for proper formation of a blood clot is",
-    "type": "note",
-    "category": "Cardiovascular",
     "difficulty": "unrated"
   },
   {
     "id": "e7c1ccdf-4501-46ea-b7ee-b694e71f6079",
     "term": "albumin",
-    "definition": "albumin",
-    "type": "note",
-    "category": "General",
+    "definition": "A substance necessary for proper formation of a blood clot",
+    "type": "term",
+    "category": "Cardiovascular",
     "difficulty": "unrated"
   },
   {
@@ -4577,10 +4065,10 @@
   },
   {
     "id": "9de2b623-486a-4359-bf58-7918f75ea425",
-    "term": "mitral valve",
-    "definition": "mitral valve",
+    "term": "Mitral valve (bicuspid valve)",
+    "definition": "Two-leaflet valve between left atrium and left ventricle. Prevents backflow during left ventricular contraction. Mitral valve prolapse (MVP): most common valve disorder. Mitral stenosis: narrowing. Mitral regurgitation: leaking. Heart sound S1 (\"lub\") = mitral and tricuspid closing.",
     "type": "note",
-    "category": "General",
+    "category": "Cardiovascular",
     "difficulty": "unrated"
   },
   {
@@ -4593,8 +4081,8 @@
   },
   {
     "id": "f0831e3b-5acd-4ba1-a327-a62b4e5c7f34",
-    "term": "pulmonary artery",
-    "definition": "pulmonary artery",
+    "term": "Pulmonary artery",
+    "definition": "Only artery in the body that carries deoxygenated blood. Exits the right ventricle, carries deoxygenated blood to the lungs for gas exchange. Pulmonary veins (4) carry oxygenated blood back to the left atrium — only veins carrying oxygenated blood.",
     "type": "note",
     "category": "Cardiovascular",
     "difficulty": "unrated"
@@ -4609,26 +4097,18 @@
   },
   {
     "id": "f8fa403a-7847-4e86-b4bb-7550c0764020",
-    "term": "aneurysm",
-    "definition": "aneurysm",
+    "term": "Aneurysm",
+    "definition": "Abnormal bulging/weakening of an artery wall. Common sites: aorta (AAA), brain (berry aneurysm — causes subarachnoid hemorrhage if ruptured). Signs of rupture: sudden severe \"thunderclap\" headache (brain), severe abdominal/back pain (aorta). Medical emergency.",
     "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "8656c5a5-158f-436d-aa3b-52e7c6f03d6c",
-    "term": "an example of chronic obstructive pulmonary disease is",
-    "definition": "an example of chronic obstructive pulmonary disease is",
-    "type": "note",
-    "category": "Respiratory",
+    "category": "Cardiovascular",
     "difficulty": "unrated"
   },
   {
     "id": "7b170849-d323-41f6-af9e-d9714d7b422b",
     "term": "emphysema",
-    "definition": "emphysema",
-    "type": "note",
-    "category": "General",
+    "definition": "An example of chronic obstructive pulmonary disease",
+    "type": "term",
+    "category": "Respiratory",
     "difficulty": "unrated"
   },
   {
@@ -4641,16 +4121,8 @@
   },
   {
     "id": "a5df8e81-1ea1-4832-a56b-e499e96acd9a",
-    "term": "ileum",
-    "definition": "ileum",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "0a6d08be-91f3-4431-9b0e-d4506730b62f",
-    "term": "a chronic degenerative disease of the liver is",
-    "definition": "a chronic degenerative disease of the liver is",
+    "term": "Ileum",
+    "definition": "Terminal section of the small intestine (last ~11 feet). Absorbs vitamin B12, bile salts, and remaining nutrients. Connects to large intestine at ileocecal valve. Crohn's disease commonly affects terminal ileum. Ileostomy: surgical opening of ileum to abdominal wall.",
     "type": "note",
     "category": "GI/Digestive",
     "difficulty": "unrated"
@@ -4658,8 +4130,8 @@
   {
     "id": "64232cd6-1cd2-4170-9f06-70f2805d9dd4",
     "term": "cirrhosis",
-    "definition": "cirrhosis",
-    "type": "note",
+    "definition": "A chronic degenerative disease of the liver",
+    "type": "term",
     "category": "GI/Digestive",
     "difficulty": "unrated"
   },
@@ -4673,10 +4145,10 @@
   },
   {
     "id": "0727baf1-8800-4cca-b109-7131b8a5e9bf",
-    "term": "urethra",
-    "definition": "urethra",
+    "term": "Urethra",
+    "definition": "Tube carrying urine from bladder to outside. Female: ~4 cm (shorter — higher UTI risk). Male: ~20 cm (also carries semen). Urethritis: inflammation (often STI). Catheter inserted through urethra for urinary drainage. Urethral meatus = external opening.",
     "type": "note",
-    "category": "General",
+    "category": "Urinalysis",
     "difficulty": "unrated"
   },
   {
@@ -4689,10 +4161,10 @@
   },
   {
     "id": "fc5d2b12-5cf9-4bf0-be4a-f128049d1a7c",
-    "term": "endometrium",
-    "definition": "endometrium",
+    "term": "Endometrium",
+    "definition": "Inner lining of the uterus. Thickens under estrogen influence each cycle to prepare for implantation; sheds during menstruation (no pregnancy). Endometriosis: endometrial tissue outside uterus. Endometritis: inflammation. Endometrial cancer: most common GYN cancer.",
     "type": "note",
-    "category": "Anatomy & Terminology",
+    "category": "OB/GYN",
     "difficulty": "unrated"
   },
   {
@@ -4712,35 +4184,19 @@
     "difficulty": "unrated"
   },
   {
-    "id": "273ccc0d-191d-4a20-9b99-c4f494858d8b",
-    "term": "the membrane a attached to internal organs is the",
-    "definition": "the membrane a attached to internal organs is the",
-    "type": "note",
-    "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
     "id": "7a21387d-e7a9-4d7e-a373-22683043a768",
     "term": "visceral layer",
-    "definition": "visceral layer",
-    "type": "note",
+    "definition": "The membrane a attached to internal organs is",
+    "type": "term",
     "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "c4b29d60-b0c9-4266-90e7-3b1018e08b8e",
-    "term": "the term that describes a disorder that breaks down tissues in a body system is",
-    "definition": "the term that describes a disorder that breaks down tissues in a body system is",
-    "type": "note",
-    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "ee6b213d-ab8f-4c4d-9a54-1b7d7bdabf0c",
     "term": "degenerative",
-    "definition": "degenerative",
-    "type": "note",
-    "category": "General",
+    "definition": "That describes a disorder that breaks down tissues in a body system",
+    "type": "term",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -4753,10 +4209,10 @@
   },
   {
     "id": "a8a6fa71-160a-4d6e-bc23-327948886d95",
-    "term": "etiology",
-    "definition": "etiology",
+    "term": "Etiology",
+    "definition": "The cause or origin of a disease or condition. Etiology of hypertension: often idiopathic (unknown); secondary causes include kidney disease, adrenal tumors. Knowing etiology guides treatment. Unknown etiology = idiopathic.",
     "type": "note",
-    "category": "General",
+    "category": "Medical Abbreviations",
     "difficulty": "unrated"
   },
   {
@@ -4769,10 +4225,10 @@
   },
   {
     "id": "7edaf04c-ae98-44ed-8536-03fcba387632",
-    "term": "psoriasis",
-    "definition": "psoriasis",
+    "term": "Psoriasis",
+    "definition": "Chronic autoimmune skin condition causing rapid skin cell turnover, resulting in thick, silvery-white scaly plaques on red patches. Commonly affects elbows, knees, scalp. Not contagious. Triggers: stress, infections, medications. Treated with topical steroids, biologics.",
     "type": "note",
-    "category": "General",
+    "category": "Dermatology",
     "difficulty": "unrated"
   },
   {
@@ -4785,10 +4241,10 @@
   },
   {
     "id": "e7defdab-daab-4c09-80ce-da72cee272de",
-    "term": "maxilla",
-    "definition": "maxilla",
+    "term": "Maxilla",
+    "definition": "Upper jaw bone. Largest bone of the face. Forms the hard palate, floor of orbit, and upper teeth socket. Paired bones that fuse in the midline. Fractures from facial trauma. Maxillary sinuses are the largest paranasal sinuses.",
     "type": "note",
-    "category": "General",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -4801,26 +4257,18 @@
   },
   {
     "id": "c191155c-56ec-4d4d-8c9c-bf8cd4508445",
-    "term": "clavicle",
-    "definition": "clavicle",
+    "term": "Clavicle",
+    "definition": "Collarbone. Connects sternum (breastbone) to scapula (shoulder blade). Most commonly fractured bone in the body (fall on outstretched hand or direct blow). \"S\"-shaped bone. Landmark for subclavian central line insertion.",
     "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "a7c5e904-b386-4e22-ac4d-c3ecc56955be",
-    "term": "the type of muscle responsible for producing peristalsis is",
-    "definition": "the type of muscle responsible for producing peristalsis is",
-    "type": "note",
-    "category": "Anatomy & Terminology",
+    "category": "Musculoskeletal",
     "difficulty": "unrated"
   },
   {
     "id": "5527e2c5-8256-44ba-979d-7eeaa554d7a6",
     "term": "smooth",
-    "definition": "smooth",
-    "type": "note",
-    "category": "General",
+    "definition": "The type of muscle responsible for producing peristalsis",
+    "type": "term",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -4833,10 +4281,10 @@
   },
   {
     "id": "f0daaa22-0559-4a14-b2f9-f4df6ab2439d",
-    "term": "abduction",
-    "definition": "abduction",
+    "term": "Abduction",
+    "definition": "Movement of a limb away from the midline of the body. Opposite: adduction (toward midline). Example: raising arm to the side = shoulder abduction. Hip abductors prevent Trendelenburg gait. Prefix: ab- = away from.",
     "type": "note",
-    "category": "General",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -4865,10 +4313,10 @@
   },
   {
     "id": "1970a393-c145-4f43-bfcf-b77cc805d287",
-    "term": "cerebellum",
-    "definition": "cerebellum",
+    "term": "Cerebellum",
+    "definition": "\"Little brain\" at the back of the skull. Controls coordination, balance, and fine motor movements. Damage: ataxia (poor coordination), dysmetria, intention tremor. NOT responsible for consciousness (that's the cerebral cortex). Cerebrum = higher functions; cerebellum = coordination.",
     "type": "note",
-    "category": "General",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -4897,8 +4345,8 @@
   },
   {
     "id": "c8b8c243-d4ea-4a1e-994f-f6776dfe4451",
-    "term": "cochlea",
-    "definition": "cochlea",
+    "term": "Cochlea",
+    "definition": "Snail-shaped structure in the inner ear responsible for hearing (converting sound vibrations to nerve impulses). Contains hair cells on the basilar membrane. Damage to cochlear hair cells causes sensorineural hearing loss (permanent). Connected to auditory nerve (CN VIII).",
     "type": "note",
     "category": "Ear/ENT",
     "difficulty": "unrated"
@@ -4913,8 +4361,8 @@
   },
   {
     "id": "e86c5285-3c43-4868-911e-02d599f0648f",
-    "term": "pancreas",
-    "definition": "pancreas",
+    "term": "Pancreas",
+    "definition": "Dual-function gland. Endocrine: islets of Langerhans — beta cells secrete insulin (lowers glucose), alpha cells secrete glucagon (raises glucose). Exocrine: secretes digestive enzymes (amylase, lipase, protease) into duodenum. Pancreatitis: inflammation, severe epigastric pain radiating to back.",
     "type": "note",
     "category": "Endocrine/Diabetes",
     "difficulty": "unrated"
@@ -4929,25 +4377,17 @@
   },
   {
     "id": "e0a89322-61d2-453e-a525-50c02648210d",
-    "term": "thyroid gland",
-    "definition": "thyroid gland",
+    "term": "Thyroid gland",
+    "definition": "Butterfly-shaped gland in the neck. Produces T3 (triiodothyronine) and T4 (thyroxine) — regulate metabolism. Also produces calcitonin (lowers calcium). Hypothyroidism: low hormone, weight gain, fatigue, cold intolerance. Hyperthyroidism: high hormone, weight loss, tachycardia. TSH from pituitary controls thyroid.",
     "type": "note",
     "category": "Endocrine/Diabetes",
     "difficulty": "unrated"
   },
   {
-    "id": "1dbed726-858a-42b2-9c9b-9494fa12bbc7",
-    "term": "the Rh factor in blood is",
-    "definition": "the Rh factor in blood is",
-    "type": "note",
-    "category": "Hematology",
-    "difficulty": "unrated"
-  },
-  {
     "id": "5cbf83e6-3424-450e-80ef-e03ff0e3b2d5",
     "term": "an antigen that affects a person's blood type",
-    "definition": "an antigen that affects a person's blood type",
-    "type": "note",
+    "definition": "The Rh factor in blood",
+    "type": "term",
     "category": "Hematology",
     "difficulty": "unrated"
   },
@@ -4961,16 +4401,8 @@
   },
   {
     "id": "2c1ff4a8-8075-471d-b0eb-44ce66967880",
-    "term": "sinoatrial node",
-    "definition": "sinoatrial node",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "1c90e548-5f71-4285-b38d-de2d75eebef4",
-    "term": "a heart disease that is present at birth is",
-    "definition": "a heart disease that is present at birth is",
+    "term": "Sinoatrial (SA) node",
+    "definition": "Natural pacemaker of the heart. Located in the right atrium. Generates electrical impulses at 60–100 bpm. Signal travels: SA node → AV node → Bundle of His → Purkinje fibers → ventricular contraction. Sinus rhythm = normal heart rhythm originating from SA node.",
     "type": "note",
     "category": "Cardiovascular",
     "difficulty": "unrated"
@@ -4978,8 +4410,8 @@
   {
     "id": "a2a1e933-e3c1-4215-98d5-74ffefac849c",
     "term": "congenital heart disease",
-    "definition": "congenital heart disease",
-    "type": "note",
+    "definition": "A heart disease that is present at birth",
+    "type": "term",
     "category": "Cardiovascular",
     "difficulty": "unrated"
   },
@@ -4993,25 +4425,17 @@
   },
   {
     "id": "3529b6f6-8757-4a23-aec5-da87e2ae6823",
-    "term": "ascending aorta",
-    "definition": "ascending aorta",
+    "term": "Ascending aorta",
+    "definition": "First segment of the aorta, rising from the left ventricle. Gives rise to right and left coronary arteries (heart's own blood supply). Continues as aortic arch, then descending aorta. Aortic stenosis (valve narrowing) affects blood leaving ascending aorta.",
     "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "b7b4826a-a075-4139-a391-a71ea9393111",
-    "term": "acquired natural active immunity is achieved by",
-    "definition": "acquired natural active immunity is achieved by",
-    "type": "note",
-    "category": "General",
+    "category": "Cardiovascular",
     "difficulty": "unrated"
   },
   {
     "id": "4b81f7d4-e695-4a56-9f80-cf3a8ed7a33f",
     "term": "contracting the disease",
-    "definition": "contracting the disease",
-    "type": "note",
+    "definition": "Acquired natural active immunity is achieved",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -5048,82 +4472,42 @@
     "difficulty": "unrated"
   },
   {
-    "id": "e14ce75c-0761-421b-b645-cc9d21fcaa34",
-    "term": "a communicable infectious disease of the lungs is",
-    "definition": "a communicable infectious disease of the lungs is",
-    "type": "note",
-    "category": "Respiratory",
-    "difficulty": "unrated"
-  },
-  {
     "id": "e94e911f-ccde-4d87-a491-5f8c58d90c12",
     "term": "tuberculosis",
-    "definition": "tuberculosis",
-    "type": "note",
+    "definition": "A communicable infectious disease of the lungs",
+    "type": "term",
     "category": "Blood Draw",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "970747bb-1c96-46a9-879c-43b051a3cdc4",
-    "term": "an example of inflammatory bowel disease is",
-    "definition": "an example of inflammatory bowel disease is",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "824576ff-2eba-49ad-98bd-d11f66fc748b",
     "term": "Crohn disease",
-    "definition": "Crohn disease",
-    "type": "note",
+    "definition": "An example of inflammatory bowel disease",
+    "type": "term",
     "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "3766da93-f666-4a59-a752-51c0b0fc979a",
-    "term": "a function of the liver is to",
-    "definition": "a function of the liver is to",
-    "type": "note",
-    "category": "GI/Digestive",
     "difficulty": "unrated"
   },
   {
     "id": "59240b0b-1199-404f-976c-e2ab6f2b3444",
     "term": "detoxify harmful substances such as alcohol and certain drug",
-    "definition": "detoxify harmful substances such as alcohol and certain drug",
-    "type": "note",
+    "definition": "A function of the liver is",
+    "type": "term",
     "category": "Medications",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "7302a84a-921e-4224-bb4e-d3784f7b136b",
-    "term": "the fluid contained within the body cells is called",
-    "definition": "the fluid contained within the body cells is called",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "9760275c-a7b7-4d2f-b8b6-e03f7e9808c5",
     "term": "intracellular fluid",
-    "definition": "intracellular fluid",
-    "type": "note",
+    "definition": "The fluid contained within the body cells is",
+    "type": "term",
     "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "32f4b59b-7023-4927-9544-9ef30e7ef394",
-    "term": "the two important electrolytes found in the body are",
-    "definition": "the two important electrolytes found in the body are",
-    "type": "note",
-    "category": "Lab Values",
     "difficulty": "unrated"
   },
   {
     "id": "a3a0c0af-5e5c-4722-b27b-eee617847be2",
     "term": "sodium and potassium",
-    "definition": "sodium and potassium",
-    "type": "note",
+    "definition": "The two important electrolytes found in the body",
+    "type": "term",
     "category": "Lab Values",
     "difficulty": "unrated"
   },
@@ -5137,42 +4521,26 @@
   },
   {
     "id": "148354ac-fa14-40dc-99c7-97bedc7d1cac",
-    "term": "uremia",
-    "definition": "uremia",
+    "term": "Uremia",
+    "definition": "Buildup of waste products (urea, creatinine) in the blood due to kidney failure. Signs: fatigue, nausea, confusion, \"uremic frost\" (crystallized urea on skin), metallic taste. Treated with dialysis. Uremic pericarditis is a complication.",
     "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "30d54a4c-12ff-4c7e-b54b-e5af0d24dc45",
-    "term": "the period of pregnancy is called",
-    "definition": "the period of pregnancy is called",
-    "type": "note",
-    "category": "OB/GYN",
+    "category": "Urinalysis",
     "difficulty": "unrated"
   },
   {
     "id": "28451e93-db42-49b7-a827-ed90c6b56731",
     "term": "gestation",
-    "definition": "gestation",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "77013f2a-adea-4021-af23-1f50a2f4353d",
-    "term": "the hormone that causes contraction of uterine muscle during labor is",
-    "definition": "the hormone that causes contraction of uterine muscle during labor is",
-    "type": "note",
-    "category": "Endocrine/Diabetes",
+    "definition": "The period of pregnancy is",
+    "type": "term",
+    "category": "OB/GYN",
     "difficulty": "unrated"
   },
   {
     "id": "ae20b707-e670-4048-bff1-511e868714bc",
     "term": "oxytocin",
-    "definition": "oxytocin",
-    "type": "note",
-    "category": "General",
+    "definition": "The hormone that causes contraction of uterine muscle during labor",
+    "type": "term",
+    "category": "Endocrine/Diabetes",
     "difficulty": "unrated"
   },
   {
@@ -5185,41 +4553,25 @@
   },
   {
     "id": "15043114-7eaf-4f5f-bcd0-dfd7ae393fb2",
-    "term": "hypogastric region",
-    "definition": "hypogastric region",
+    "term": "Hypogastric (pubic) region",
+    "definition": "Central lower abdominal region below the umbilical region. Contains: urinary bladder, uterus (females), sigmoid colon. Pain here may indicate UTI, bladder infection, or reproductive organ issues.",
     "type": "note",
-    "category": "Musculoskeletal",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "5859fa3b-fb8a-44ec-9627-2fad6eafc31b",
-    "term": "an example of exocrine glands are",
-    "definition": "an example of exocrine glands are",
-    "type": "note",
-    "category": "General",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
     "id": "66d762c4-6883-4522-bcf3-5b6d87fbe5d0",
     "term": "sebaceous glands",
-    "definition": "sebaceous glands",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "d1026c33-a92c-4c3f-a8f9-a1cdf40029d9",
-    "term": "the order of the vertebral column from top to bottom is",
-    "definition": "the order of the vertebral column from top to bottom is",
-    "type": "note",
+    "definition": "An example of exocrine glands",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "8a476f2f-18cf-452d-8fdf-a9edafbff9a4",
     "term": "cervical, thoracic, lumbar, sacral, coccyx",
-    "definition": "cervical, thoracic, lumbar, sacral, coccyx",
-    "type": "note",
+    "definition": "The order of the vertebral column from top to bottom",
+    "type": "term",
     "category": "OB/GYN",
     "difficulty": "unrated"
   },
@@ -5233,10 +4585,10 @@
   },
   {
     "id": "cab3f2ec-1e15-4065-8496-e3b1ba2442fb",
-    "term": "quadriceps femoris",
-    "definition": "quadriceps femoris",
+    "term": "Quadriceps femoris",
+    "definition": "Group of 4 muscles on the anterior thigh: rectus femoris, vastus lateralis, vastus medialis, vastus intermedius. Function: extend the knee, flex the hip. Vastus lateralis = IM injection site for infants/toddlers. \"Quad\" = 4.",
     "type": "note",
-    "category": "General",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -5249,10 +4601,10 @@
   },
   {
     "id": "2c155367-353d-4eff-bd3c-570f4a01e09f",
-    "term": "brachial artery",
-    "definition": "brachial artery",
+    "term": "Brachial artery",
+    "definition": "Main artery of the upper arm. Used for blood pressure measurement (stethoscope placed over brachial artery in antecubital fossa). Palpated on medial aspect of arm. Emergency BP site. Brachial pulse used in infant CPR.",
     "type": "note",
-    "category": "Cardiovascular",
+    "category": "Vital Signs",
     "difficulty": "unrated"
   },
   {
@@ -5265,10 +4617,10 @@
   },
   {
     "id": "c63a5653-7dd2-45d9-802c-ac480f3cf9ba",
-    "term": "antigen",
-    "definition": "antigen",
+    "term": "Antigen",
+    "definition": "Any substance (protein, polysaccharide, toxin) that triggers an immune response. Foreign antigens stimulate antibody production by B lymphocytes. ABO blood type antigens on RBC surface determine blood type. Antigen-antibody reaction = basis of blood typing, allergy, and infection response.",
     "type": "note",
-    "category": "Hematology",
+    "category": "Lab Values",
     "difficulty": "unrated"
   },
   {
@@ -5281,10 +4633,10 @@
   },
   {
     "id": "5aad477f-2aec-46bd-a275-ae3ce5b35b1a",
-    "term": "fibula",
-    "definition": "fibula",
+    "term": "Fibula",
+    "definition": "Slender lateral bone of the lower leg. Does NOT bear significant weight (tibia does). Important as lateral ankle stability. \"Fibula fracture\" common in ankle sprains. Fibula is the thinner of the two lower leg bones. Fib- = fiber, small.",
     "type": "note",
-    "category": "General",
+    "category": "Musculoskeletal",
     "difficulty": "unrated"
   },
   {
@@ -5297,26 +4649,18 @@
   },
   {
     "id": "0a359c93-8da9-4430-aabc-10cb22ea4fcb",
-    "term": "cecum",
-    "definition": "cecum",
+    "term": "Cecum",
+    "definition": "Blind pouch at the start of the large intestine, in the right iliac fossa (RIF). Appendix attaches to the cecum. Ileocecal valve connects ileum to cecum. Appendicitis: inflammation of appendix (pain begins periumbilical → migrates to RIF/McBurney's point).",
     "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "7d4b6582-6cad-4350-9488-ffa26c248a56",
-    "term": "the hormone that regulates the amount of water that is eliminated with urine is",
-    "definition": "the hormone that regulates the amount of water that is eliminated with urine is",
-    "type": "note",
-    "category": "Urinalysis",
+    "category": "GI/Digestive",
     "difficulty": "unrated"
   },
   {
     "id": "861eff20-f481-4658-902f-2f7b63c27b30",
     "term": "ADH",
-    "definition": "ADH",
-    "type": "note",
-    "category": "General",
+    "definition": "The hormone that regulates the amount of water that is eliminated with urine",
+    "type": "term",
+    "category": "Urinalysis",
     "difficulty": "unrated"
   },
   {
@@ -5329,25 +4673,17 @@
   },
   {
     "id": "4d4d5dbd-8e1e-41ea-b67b-5a2956ddbe58",
-    "term": "kyphosis",
-    "definition": "kyphosis",
+    "term": "Kyphosis",
+    "definition": "Excessive posterior curvature of the thoracic spine — \"hunchback.\" Common in elderly osteoporosis. Distinguished from scoliosis (lateral curve) and lordosis (excessive lumbar curve/\"swayback\"). Can restrict breathing if severe. Seen from the side.",
     "type": "note",
     "category": "Musculoskeletal",
     "difficulty": "unrated"
   },
   {
-    "id": "58387369-ea7d-4ad0-8a01-c5a26ed10402",
-    "term": "diabetic retinopathy is a result of damage to the",
-    "definition": "diabetic retinopathy is a result of damage to the",
-    "type": "note",
-    "category": "Endocrine/Diabetes",
-    "difficulty": "unrated"
-  },
-  {
     "id": "e1c10129-c24a-48a6-b45e-0734f696ed2a",
     "term": "eyes",
-    "definition": "eyes",
-    "type": "note",
+    "definition": "Diabetic retinopathy is a result of damage to",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -5378,9 +4714,9 @@
   {
     "id": "5d5953de-dc9c-4fa9-a82a-8da73f0a4ed7",
     "term": "Keratin",
-    "definition": "Keratin",
+    "definition": "Fibrous structural protein that forms hair, nails, and the outer layer (stratum corneum) of skin. Makes skin waterproof and protective. Keratinocytes are the main cells of the epidermis. Nails = hardened keratin plates protecting the fingertips.",
     "type": "note",
-    "category": "General",
+    "category": "Dermatology",
     "difficulty": "unrated"
   },
   {
@@ -5393,8 +4729,8 @@
   },
   {
     "id": "d86be2f5-d303-417b-ab53-665029239be2",
-    "term": "presbyopia",
-    "definition": "presbyopia",
+    "term": "Presbyopia",
+    "definition": "Age-related farsightedness — loss of near vision due to lens stiffening (typically after age 40). Cannot focus on close objects. Treated with reading glasses or bifocals. Distinguished from hyperopia (structural farsightedness from birth) and myopia (nearsightedness).",
     "type": "note",
     "category": "Ophthalmology",
     "difficulty": "unrated"
@@ -5409,10 +4745,10 @@
   },
   {
     "id": "db2f4b2b-03f0-4fa4-aa51-08fdc1d75044",
-    "term": "Prostate",
-    "definition": "Prostate",
+    "term": "Prostate gland",
+    "definition": "Walnut-sized gland in males, surrounds the urethra below the bladder. Produces fluid that nourishes and transports sperm. BPH (benign prostatic hyperplasia): common enlargement in older men → urinary retention, frequency. PSA test screens for prostate cancer. Digital rectal exam (DRE) for assessment.",
     "type": "note",
-    "category": "OB/GYN",
+    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -5457,26 +4793,18 @@
   },
   {
     "id": "3b32f3d9-4e1a-473a-b924-616a3c6ef329",
-    "term": "bartholin",
-    "definition": "bartholin",
+    "term": "Bartholin glands",
+    "definition": "Two small glands located on either side of the vaginal opening. Secrete mucus to lubricate the vagina. Bartholin cyst/abscess: duct blockage causing painful swelling, treated with warm soaks or incision and drainage.",
     "type": "note",
     "category": "OB/GYN",
     "difficulty": "unrated"
   },
   {
-    "id": "abad1035-ee35-44a3-8a3d-82db1c4bd809",
-    "term": "when the foot is moved outward the joint movement is",
-    "definition": "when the foot is moved outward the joint movement is",
-    "type": "note",
-    "category": "Musculoskeletal",
-    "difficulty": "unrated"
-  },
-  {
     "id": "c00c0a1f-6bed-4932-a6a4-8b7de3573a89",
     "term": "abduction",
-    "definition": "abduction",
-    "type": "note",
-    "category": "General",
+    "definition": "When the foot is moved outward the joint movement",
+    "type": "term",
+    "category": "Musculoskeletal",
     "difficulty": "unrated"
   },
   {
@@ -5489,8 +4817,8 @@
   },
   {
     "id": "91bd5c05-7c8a-449a-bb7d-cf775f9d8384",
-    "term": "Pituitary",
-    "definition": "Pituitary",
+    "term": "Pituitary hormones",
+    "definition": "Anterior: GH (growth), TSH (thyroid-stimulating), ACTH (adrenal-stimulating), FSH (follicle-stimulating), LH (luteinizing), prolactin (milk production). Posterior: ADH/vasopressin (water retention), oxytocin (uterine contraction, bonding). Controlled by hypothalamus via releasing hormones.",
     "type": "note",
     "category": "Endocrine/Diabetes",
     "difficulty": "unrated"
@@ -5505,10 +4833,10 @@
   },
   {
     "id": "a84ae824-082a-4f5d-9d51-1031f912fc0a",
-    "term": "greenstick, closed",
-    "definition": "greenstick, closed",
+    "term": "Fracture types: greenstick & closed",
+    "definition": "Greenstick: incomplete fracture where bone bends and cracks (does not break all the way through) — common in children whose bones are more flexible. Closed (simple): bone broken but skin intact. Open (compound): bone pierces skin — infection risk. Comminuted: bone shattered into fragments.",
     "type": "note",
-    "category": "General",
+    "category": "Musculoskeletal",
     "difficulty": "unrated"
   },
   {
@@ -5521,10 +4849,10 @@
   },
   {
     "id": "b4c8d2bc-b006-4928-b6d3-ba4bdcab7246",
-    "term": "fallopian tube",
-    "definition": "fallopian tube",
+    "term": "Fallopian tubes (uterine tubes)",
+    "definition": "Two tubes connecting ovaries to uterus (~4 inches each). Fimbriae sweep egg from ovary into tube after ovulation. Fertilization normally occurs in the ampulla of the fallopian tube. Ectopic pregnancy most common here. Salpingitis = infection (often PID from STI).",
     "type": "note",
-    "category": "Blood Draw",
+    "category": "OB/GYN",
     "difficulty": "unrated"
   },
   {
@@ -5537,25 +4865,17 @@
   },
   {
     "id": "9dae3965-7b19-4557-b4a4-ad57b3babd2e",
-    "term": "nephron",
-    "definition": "nephron",
+    "term": "Nephron",
+    "definition": "Functional filtering unit of the kidney (~1 million per kidney). Components: glomerulus (filtration), Bowman's capsule, proximal convoluted tubule, loop of Henle, distal convoluted tubule, collecting duct. Produces urine by filtration, reabsorption, and secretion. GFR measures kidney function.",
     "type": "note",
     "category": "Urinalysis",
     "difficulty": "unrated"
   },
   {
-    "id": "f43768fc-ada1-4f6d-9856-0737ddf91085",
-    "term": "the disorder characterized by uncontrollable episodes of falling asleep is",
-    "definition": "the disorder characterized by uncontrollable episodes of falling asleep is",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "4f4d2fc8-b31a-4941-aee8-6a6c5afb7745",
     "term": "narcolepsy",
-    "definition": "narcolepsy",
-    "type": "note",
+    "definition": "The disorder characterized by uncontrollable episodes of falling asleep",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -5569,10 +4889,10 @@
   },
   {
     "id": "ea75a0db-66dd-4e30-a0a7-77f977030127",
-    "term": "hypothalamus",
-    "definition": "hypothalamus",
+    "term": "Hypothalamus",
+    "definition": "Region of the brain controlling the pituitary gland via releasing hormones. Regulates: body temperature (thermoregulation), hunger, thirst, sleep, circadian rhythm, and autonomic functions. Links nervous and endocrine systems. Controls \"fight or flight\" via sympathetic nervous system.",
     "type": "note",
-    "category": "General",
+    "category": "Endocrine/Diabetes",
     "difficulty": "unrated"
   },
   {
@@ -5585,10 +4905,10 @@
   },
   {
     "id": "c72643fc-ac74-4618-8e25-f33d888df87b",
-    "term": "aldosterone",
-    "definition": "aldosterone",
+    "term": "Aldosterone",
+    "definition": "Mineralocorticoid hormone produced by adrenal cortex. Increases sodium (and water) reabsorption and potassium excretion by kidneys → raises blood pressure. Regulated by renin-angiotensin-aldosterone system (RAAS). Hyperaldosteronism (Conn's syndrome): hypertension + hypokalemia.",
     "type": "note",
-    "category": "General",
+    "category": "Endocrine/Diabetes",
     "difficulty": "unrated"
   },
   {
@@ -5617,10 +4937,10 @@
   },
   {
     "id": "bec268fc-efbc-4894-9d6d-27e7e18e3162",
-    "term": "erythrocyte",
-    "definition": "erythrocyte",
+    "term": "Erythrocyte (RBC)",
+    "definition": "Red blood cell. Biconcave disc, no nucleus, lives ~120 days. Contains hemoglobin (Hgb) which carries oxygen. Normal count: males 4.5–5.5 million/µL; females 4.0–5.0 million/µL. Produced in red bone marrow. Destroyed by spleen/liver. Anemia = low RBC/Hgb.",
     "type": "note",
-    "category": "General",
+    "category": "Lab Values",
     "difficulty": "unrated"
   },
   {
@@ -5633,10 +4953,10 @@
   },
   {
     "id": "89877767-eec8-4ce0-9ffa-bd5a5b770fc3",
-    "term": "carbon dioxide",
-    "definition": "carbon dioxide",
+    "term": "Carbon dioxide (CO2) transport",
+    "definition": "Waste gas produced by cellular metabolism. Transported in blood three ways: (1) dissolved in plasma (~7%), (2) bound to hemoglobin as carbaminohemoglobin (~23%), (3) as bicarbonate ions HCO3- (~70%). Exhaled by lungs. Elevated CO2 = hypercapnia; decreased = hypocapnia.",
     "type": "note",
-    "category": "General",
+    "category": "Respiratory",
     "difficulty": "unrated"
   },
   {
@@ -5649,10 +4969,10 @@
   },
   {
     "id": "cb53b90c-1802-467c-b7bd-2b0584faf35b",
-    "term": "GERD",
-    "definition": "GERD",
+    "term": "GERD (Gastroesophageal Reflux Disease)",
+    "definition": "Chronic condition where stomach acid flows back (reflux) into the esophagus, causing heartburn, regurgitation, and esophageal damage. Treated with lifestyle changes, antacids, H2 blockers (Zantac), or PPIs (omeprazole). Complications: Barrett's esophagus, esophageal cancer.",
     "type": "note",
-    "category": "General",
+    "category": "GI/Digestive",
     "difficulty": "unrated"
   },
   {
@@ -5736,34 +5056,18 @@
     "difficulty": "unrated"
   },
   {
-    "id": "d96a52ba-e123-4344-a863-966972bf4d79",
-    "term": "to communicate with a sight impaired patient it is important to",
-    "definition": "to communicate with a sight impaired patient it is important to",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "5ff17046-5033-4fa5-9848-34a175ac335d",
     "term": "tell the patient each time before you touch him or her",
-    "definition": "tell the patient each time before you touch him or her",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "1be15045-cf79-4649-bfa9-86212256d0ea",
-    "term": "to communicate with a hearing impaired patient it would be advisable to",
-    "definition": "to communicate with a hearing impaired patient it would be advisable to",
-    "type": "note",
+    "definition": "To communicate with a sight impaired patient it is important",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "09554154-648f-4f20-b56c-a114bf433bee",
     "term": "speak slowly and distinctly to the patient",
-    "definition": "speak slowly and distinctly to the patient",
-    "type": "note",
+    "definition": "To communicate with a hearing impaired patient it would be advisable",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -5864,50 +5168,26 @@
     "difficulty": "unrated"
   },
   {
-    "id": "a04109fb-1221-4089-91a8-937569c67bd6",
-    "term": "the receiving and interpreting of message is known as",
-    "definition": "the receiving and interpreting of message is known as",
-    "type": "note",
-    "category": "Sensory Screening",
-    "difficulty": "unrated"
-  },
-  {
     "id": "481e0ffd-f59a-40aa-80e1-dd4548301d9b",
     "term": "decoding",
-    "definition": "decoding",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "9200098e-49ba-431a-96ed-4929b9cbd5bb",
-    "term": "psychological behavior that protect a person from guilt and shame are",
-    "definition": "psychological behavior that protect a person from guilt and shame are",
-    "type": "note",
-    "category": "Psychology",
+    "definition": "The receiving and interpreting of message is known as",
+    "type": "term",
+    "category": "Sensory Screening",
     "difficulty": "unrated"
   },
   {
     "id": "e4bbecf0-9fbf-4c32-a3b2-f2ae3ab16c6c",
     "term": "defense mechanisms",
-    "definition": "defense mechanisms",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "6ceed07f-9bb0-483b-b780-21397bdfcabd",
-    "term": "when communicating with a non english speaking patient it is appropriate to",
-    "definition": "when communicating with a non english speaking patient it is appropriate to",
-    "type": "note",
-    "category": "General",
+    "definition": "Psychological behavior that protect a person from guilt and shame",
+    "type": "term",
+    "category": "Psychology",
     "difficulty": "unrated"
   },
   {
     "id": "c655ed85-a9e7-4f20-a5d6-dd0f972e1e37",
     "term": "use gestures to demonstrate information",
-    "definition": "use gestures to demonstrate information",
-    "type": "note",
+    "definition": "When communicating with a non english speaking patient it is appropriate",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -6096,18 +5376,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "dc81d422-a0f5-4361-bf71-b89211df250d",
-    "term": "the best way to reinforce verbal instructions for a patient is to",
-    "definition": "the best way to reinforce verbal instructions for a patient is to",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "1776375e-80b6-4df0-b960-f605e3d29887",
     "term": "provide the patient with written instructions",
-    "definition": "provide the patient with written instructions",
-    "type": "note",
+    "definition": "The best way to reinforce verbal instructions for a patient is",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -6128,18 +5400,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "afe0dcda-e5e3-45fc-abee-e39ba4b0c43a",
-    "term": "an environment conductive to learning is characterized by",
-    "definition": "an environment conductive to learning is characterized by",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "a42a60c2-242d-40e6-b759-4d622204bc85",
     "term": "privacy",
-    "definition": "privacy",
-    "type": "note",
+    "definition": "An environment conductive to learning is characterized",
+    "type": "term",
     "category": "Legal/Consent",
     "difficulty": "unrated"
   },
@@ -6208,18 +5472,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "23ec5a03-da84-489e-a787-745ade6d3a52",
-    "term": "the first step in development of a patient educational program is to",
-    "definition": "the first step in development of a patient educational program is to",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "7ac1261f-e522-4a8f-bac7-bc6f796e07d6",
     "term": "identify the purpose and topic of the educational program",
-    "definition": "identify the purpose and topic of the educational program",
-    "type": "note",
+    "definition": "The first step in development of a patient educational program is",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -6240,18 +5496,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "000bd390-a415-4bba-b069-042af7ecb458",
-    "term": "patient educational materials are best implemented when the",
-    "definition": "patient educational materials are best implemented when the",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "c1bd28a8-4661-47f0-89e0-014a073217cf",
     "term": "materials are discussed with the patient",
-    "definition": "materials are discussed with the patient",
-    "type": "note",
+    "definition": "Patient educational materials are best implemented when",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -6272,18 +5520,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "da2f280b-ff26-437a-ada2-ec253b014743",
-    "term": "the cognitive domain of learning refers to",
-    "definition": "the cognitive domain of learning refers to",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "613627c7-8d1a-4cf9-9155-17f3fab8eb16",
     "term": "comprehension",
-    "definition": "comprehension",
-    "type": "note",
+    "definition": "The cognitive domain of learning refers to",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -6304,18 +5544,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "42e0f552-c66b-4fde-968a-20583ad063e7",
-    "term": "the overall purpose of patient education is to",
-    "definition": "the overall purpose of patient education is to",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "76496043-6918-4193-9490-38cc54bec0bf",
     "term": "improve patient health",
-    "definition": "improve patient health",
-    "type": "note",
+    "definition": "The overall purpose of patient education is",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -6384,18 +5616,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "784cac96-720a-4e61-937a-b9c3834577b5",
-    "term": "one of the factors that helps the most in promoting patient learning is",
-    "definition": "one of the factors that helps the most in promoting patient learning is",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "1e868221-64c9-47fb-a4d3-ee9f847c5bd0",
     "term": "a positive emotional outlook",
-    "definition": "a positive emotional outlook",
-    "type": "note",
+    "definition": "One of the factors that helps the most in promoting patient learning",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -6416,18 +5640,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "72865681-e2e3-4a16-853a-7da53ab5a1ba",
-    "term": "a way to evaluate the patient's understanding of educational information is to",
-    "definition": "a way to evaluate the patient's understanding of educational information is to",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "f58a9e7e-bb40-48cb-b1a3-396cfa617938",
     "term": "ask for feedback from the patient",
-    "definition": "ask for feedback from the patient",
-    "type": "note",
+    "definition": "A way to evaluate the patient's understanding of educational information is",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -6448,18 +5664,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "c7980d32-4926-456a-a35b-dc1e6c4e99fb",
-    "term": "one factor that is a positive contribution to the patient's learning process is",
-    "definition": "one factor that is a positive contribution to the patient's learning process is",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "e2057624-29dc-47eb-b4eb-cc17e1936917",
     "term": "having family support",
-    "definition": "having family support",
-    "type": "note",
+    "definition": "One factor that is a positive contribution to the patient's learning process",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -6576,18 +5784,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "765d2cc9-6880-4d93-9c93-03992f5787c0",
-    "term": "the primary purpose of screening telephone calls is to",
-    "definition": "the primary purpose of screening telephone calls is to",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "6bd0cc05-0ff3-4635-af23-84678e20dd9f",
     "term": "a mange the physician time by referring only necessary calls",
-    "definition": "a mange the physician time by referring only necessary calls",
-    "type": "note",
+    "definition": "The primary purpose of screening telephone calls is",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -6720,18 +5920,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "dcaa0e3a-e341-417c-a049-23f1fbc93c2e",
-    "term": "a computer program that tells the computer what to do is the",
-    "definition": "a computer program that tells the computer what to do is the",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "0ef57912-07e0-4f4d-b335-d15ba69e098d",
     "term": "Software",
-    "definition": "Software",
-    "type": "note",
+    "definition": "A computer program that tells the computer what to do is",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -6936,18 +6128,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "40585868-d866-4020-8066-d4654e0bccf1",
-    "term": "the correct spelling of heavy uncontrolled bleeding is",
-    "definition": "the correct spelling of heavy uncontrolled bleeding is",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "8c09c9c8-26d1-4413-b9c8-c0444f08f227",
     "term": "hemorrhage",
-    "definition": "hemorrhage",
-    "type": "note",
+    "definition": "The correct spelling of heavy uncontrolled bleeding",
+    "type": "term",
     "category": "Cardiovascular",
     "difficulty": "unrated"
   },
@@ -7096,18 +6280,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "2d8f6850-0c02-4071-8573-183b30922cba",
-    "term": "the most common type of scheduling is",
-    "definition": "the most common type of scheduling is",
-    "type": "note",
-    "category": "Administrative",
-    "difficulty": "unrated"
-  },
-  {
     "id": "a3b7ce0a-bf4d-42d9-adc0-93ba706f84f4",
     "term": "time specific scheduling",
-    "definition": "time specific scheduling",
-    "type": "note",
+    "definition": "The most common type of scheduling",
+    "type": "term",
     "category": "Administrative",
     "difficulty": "unrated"
   },
@@ -7128,34 +6304,18 @@
     "difficulty": "unrated"
   },
   {
-    "id": "d8587dbd-6923-4d38-9c0c-8be1ab214bba",
-    "term": "the reason for documenting a failed appointment in a file is to",
-    "definition": "the reason for documenting a failed appointment in a file is to",
-    "type": "note",
-    "category": "Administrative",
-    "difficulty": "unrated"
-  },
-  {
     "id": "886c63c6-c126-45ba-9cf0-1c2d3da66ff3",
     "term": "note all missed appointments in the event further action need to take place",
-    "definition": "note all missed appointments in the event further action need to take place",
-    "type": "note",
-    "category": "Administrative",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "768a4e9f-a7ac-4d7d-97e6-079cfb653149",
-    "term": "the type of scheduling used in a medical practice primarily depends on the",
-    "definition": "the type of scheduling used in a medical practice primarily depends on the",
-    "type": "note",
+    "definition": "The reason for documenting a failed appointment in a file is",
+    "type": "term",
     "category": "Administrative",
     "difficulty": "unrated"
   },
   {
     "id": "d3d9ad95-e836-48cf-ad75-39e929309615",
     "term": "physician preference",
-    "definition": "physician preference",
-    "type": "note",
+    "definition": "The type of scheduling used in a medical practice primarily depends on",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -7192,18 +6352,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "fad7a4d4-0b21-4741-95b0-594490348a95",
-    "term": "when setting a return appointment for a patient it is best to",
-    "definition": "when setting a return appointment for a patient it is best to",
-    "type": "note",
-    "category": "Administrative",
-    "difficulty": "unrated"
-  },
-  {
     "id": "71fa8b11-f6ad-4ed0-84e6-4bc5547657fd",
     "term": "offer the patient a specific time and date",
-    "definition": "offer the patient a specific time and date",
-    "type": "note",
+    "definition": "When setting a return appointment for a patient it is best",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -7304,18 +6456,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "ad5a2d51-7855-48ec-a43a-3c56f2fd6aa9",
-    "term": "the primary purpose of a patient flow analysis is to",
-    "definition": "the primary purpose of a patient flow analysis is to",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "ad595394-13c3-4dab-a147-01c1f8ddcd99",
     "term": "determine the efficiency of the practice",
-    "definition": "determine the efficiency of the practice",
-    "type": "note",
+    "definition": "The primary purpose of a patient flow analysis is",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -7336,18 +6480,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "442b71ef-e442-434b-a3e9-862ac8320b5a",
-    "term": "electronic appointment scheduling is",
-    "definition": "electronic appointment scheduling is",
-    "type": "note",
-    "category": "Administrative",
-    "difficulty": "unrated"
-  },
-  {
     "id": "73912b30-699f-493d-a454-518dba287254",
     "term": "held  to HIPAA standards",
-    "definition": "held  to HIPAA standards",
-    "type": "note",
+    "definition": "Electronic appointment scheduling",
+    "type": "term",
     "category": "Legal/Consent",
     "difficulty": "unrated"
   },
@@ -7368,18 +6504,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "412f2bf7-6f41-4735-b0c3-33927c08a2f4",
-    "term": "the most common method of documentation for a patient medical record is",
-    "definition": "the most common method of documentation for a patient medical record is",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "cd3ba4ac-d927-4320-bb3d-30ebe2f6602b",
     "term": "SOAP",
-    "definition": "SOAP",
-    "type": "note",
+    "definition": "The most common method of documentation for a patient medical record",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -7480,18 +6608,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "8e3ad1c5-eff5-430c-8d06-60af9e755214",
-    "term": "the proper procedure to correct an error in a patient's chart is to",
-    "definition": "the proper procedure to correct an error in a patient's chart is to",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "08dd96b8-d9e8-4cca-83da-02b649ab81ed",
     "term": "a date and sign the correction",
-    "definition": "a date and sign the correction",
-    "type": "note",
+    "definition": "The proper procedure to correct an error in a patient's chart is",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -7528,18 +6648,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "3db8ae16-c24f-4586-a701-553a17db1d71",
-    "term": "the golden rule\" in documentation is",
-    "definition": "the golden rule\" in documentation is",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "b8c05da7-9838-4050-89be-5a94b142eaed",
     "term": "if it is not documented it was not done",
-    "definition": "if it is not documented it was not done",
-    "type": "note",
+    "definition": "The golden rule\" in documentation",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -7576,18 +6688,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "f73bf7a2-7123-42a7-a4d6-6c9a106d337b",
-    "term": "a system of filing made of combination of numbers and letters is",
-    "definition": "a system of filing made of combination of numbers and letters is",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "a49ec5fd-4769-4856-9c23-1adac66c72eb",
     "term": "alphanumeric filing",
-    "definition": "alphanumeric filing",
-    "type": "note",
+    "definition": "A system of filing made of combination of numbers and letters",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -7608,18 +6712,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "a06f078a-bb05-42f0-955b-380cc644e0e1",
-    "term": "indexing rules for alphabetic filing are",
-    "definition": "indexing rules for alphabetic filing are",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "bc177f0b-733c-4103-b86f-3a4ff9faf1e1",
     "term": "treat",
-    "definition": "treat",
-    "type": "note",
+    "definition": "Indexing rules for alphabetic filing",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -7777,10 +6873,10 @@
   },
   {
     "id": "d7a0564e-a4d0-4a49-a68a-f42ebc673b93",
-    "term": "Chain of Infection",
-    "definition": "Chain of Infection",
+    "term": "Chain of infection",
+    "definition": "6 links: (1) Infectious agent, (2) Reservoir (source — human, animal, environment), (3) Portal of exit (cough, wound, feces), (4) Mode of transmission (contact/droplet/airborne/vector/vehicle), (5) Portal of entry (mucous membranes, breaks in skin, GI tract, respiratory tract), (6) Susceptible host. Breaking any link stops spread.",
     "type": "note",
-    "category": "General",
+    "category": "Infection Control",
     "difficulty": "unrated"
   },
   {
@@ -7825,10 +6921,10 @@
   },
   {
     "id": "e5caf1d0-f51d-4de4-92c9-3f1e84c240a3",
-    "term": "SOAP notes:",
-    "definition": "SOAP notes:",
+    "term": "SOAP notes",
+    "definition": "Standard medical documentation format. S = Subjective (what patient says/reports). O = Objective (what provider observes/measures — vitals, exam findings). A = Assessment (diagnosis/impression). P = Plan (treatment, labs, referrals, follow-up). Used in all clinical notes.",
     "type": "note",
-    "category": "General",
+    "category": "Legal/Consent",
     "difficulty": "unrated"
   },
   {
@@ -7849,10 +6945,10 @@
   },
   {
     "id": "897ce689-2b71-4c3f-99f3-e66be04dc9d5",
-    "term": "RACE:",
-    "definition": "RACE:",
+    "term": "RACE — Fire emergency protocol",
+    "definition": "R = Rescue (rescue people in danger). A = Alarm (pull fire alarm, call 911). C = Contain (close doors to contain fire/smoke). E = Extinguish/Evacuate (use fire extinguisher if safe, or evacuate). PASS for extinguisher: Pull pin, Aim, Squeeze, Sweep.",
     "type": "note",
-    "category": "General",
+    "category": "OSHA/Safety",
     "difficulty": "unrated"
   },
   {

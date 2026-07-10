@@ -99,7 +99,7 @@ export function Flashcards({ cards }: { cards: Card[] }) {
 
       {/* Flip card */}
       <div
-        className="card-flip h-64 cursor-pointer select-none"
+        className="card-flip h-64 cursor-pointer"
         onClick={() => setFlipped((f) => !f)}
         onTouchStart={onTouchStart}
         onTouchEnd={onTouchEnd}

@@ -11,7 +11,6 @@ function daysUntilExam(): number {
 }
 import type { Card } from '../types';
 import { getMasteryStates, getSRStates, getHistory, getStreak, exportAll, importAll } from '../store/storage';
-import { isDue, defaultSRState } from '../utils/sm2';
 
 export function Dashboard({ cards }: { cards: Card[] }) {
   const mastery = getMasteryStates();
