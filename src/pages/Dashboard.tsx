@@ -1,7 +1,14 @@
 import { useMemo } from 'react';
 import { Link } from 'react-router-dom';
 import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recharts';
-import { BookOpen, Flame, CheckCircle, Clock, Download, Upload } from 'lucide-react';
+import { BookOpen, Flame, CheckCircle, Clock, Download, Upload, CalendarClock } from 'lucide-react';
+
+const EXAM_DATE = '2026-07-16';
+function daysUntilExam(): number {
+  const today = new Date(); today.setHours(0,0,0,0);
+  const exam = new Date(EXAM_DATE + 'T00:00:00');
+  return Math.ceil((exam.getTime() - today.getTime()) / 86400000);
+}
 import type { Card } from '../types';
 import { getMasteryStates, getSRStates, getHistory, getStreak, exportAll, importAll } from '../store/storage';
 import { isDue, defaultSRState } from '../utils/sm2';
@@ -64,8 +71,31 @@ export function Dashboard({ cards }: { cards: Card[] }) {
     { to: '/quiz/exam', label: 'Exam Sim', desc: 'Timed mock exam', color: 'bg-rose-500' },
   ];
 
+  const daysLeft = daysUntilExam();
+
   return (
     <div className="space-y-6 pb-20 sm:pb-0">
+      {/* Exam countdown banner */}
+      {daysLeft >= 0 ? (
+        <div className={`rounded-xl p-4 flex items-center gap-3 ${
+          daysLeft <= 2 ? 'bg-rose-100 dark:bg-rose-900/40 border border-rose-300 dark:border-rose-700'
+          : daysLeft <= 4 ? 'bg-amber-100 dark:bg-amber-900/40 border border-amber-300 dark:border-amber-700'
+          : 'bg-indigo-100 dark:bg-indigo-900/40 border border-indigo-300 dark:border-indigo-700'
+        }`}>
+          <CalendarClock size={22} className={daysLeft <= 2 ? 'text-rose-600' : daysLeft <= 4 ? 'text-amber-600' : 'text-indigo-600'} />
+          <div>
+            <p className="font-semibold text-sm">
+              {daysLeft === 0 ? 'Exam is TODAY 🎯' : daysLeft === 1 ? 'Exam is TOMORROW 🔥' : `${daysLeft} days until your CCMA exam`}
+            </p>
+            <p className="text-xs opacity-70">July 16, 2026 · {daysLeft > 0 ? `${Math.round(cards.length / daysLeft)} cards/day to review everything` : 'Good luck!'}</p>
+          </div>
+        </div>
+      ) : (
+        <div className="rounded-xl p-4 bg-emerald-100 dark:bg-emerald-900/40 border border-emerald-300 dark:border-emerald-700 text-emerald-700 dark:text-emerald-300 text-sm font-medium">
+          🎉 Exam date has passed — hope it went well!
+        </div>
+      )}
+
       {/* Stats row */}
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
         <StatCard icon={<BookOpen size={18} />} label="Total Cards" value={cards.length} color="text-indigo-500" />
