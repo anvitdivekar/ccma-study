@@ -19,11 +19,6 @@ export function Dashboard({ cards }: { cards: Card[] }) {
   const history = getHistory();
   const streak = getStreak();
 
-  const dueToday = useMemo(() => cards.filter((c) => {
-    const s = srStates[c.id] ?? defaultSRState(c.id);
-    return isDue(s);
-  }).length, [cards, srStates]);
-
   // Cards due per day for the next 7 days
   const upcomingDue = useMemo(() => {
     const today = new Date(); today.setHours(0,0,0,0);
