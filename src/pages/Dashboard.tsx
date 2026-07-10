@@ -28,8 +28,8 @@ export function Dashboard({ cards }: { cards: Card[] }) {
     });
     const counts: Record<string, number> = {};
     for (const c of cards) {
-      const s = srStates[c.id] ?? defaultSRState(c.id);
-      if (days.includes(s.dueDate)) counts[s.dueDate] = (counts[s.dueDate] ?? 0) + 1;
+      const s = srStates[c.id]; // only cards actually reviewed before
+      if (s && days.includes(s.dueDate)) counts[s.dueDate] = (counts[s.dueDate] ?? 0) + 1;
     }
     return days.map((date, i) => ({ date, count: counts[date] ?? 0, label: i === 0 ? 'Today' : i === 1 ? 'Tomorrow' : new Date(date + 'T00:00:00').toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' }) }));
   }, [cards, srStates]);
@@ -111,8 +111,9 @@ export function Dashboard({ cards }: { cards: Card[] }) {
       )}
 
       {/* Stats row */}
-      <div className="grid grid-cols-3 gap-3">
+      <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
         <StatCard icon={<BookOpen size={18} />} label="Total Cards" value={cards.length} color="text-indigo-500" />
+        <StatCard icon={<Clock size={18} />} label="Due Today" value={upcomingDue[0].count} color="text-amber-500" />
         <StatCard icon={<CheckCircle size={18} />} label="Mastered" value={`${masteryPct}%`} color="text-emerald-500" />
         <StatCard icon={<Flame size={18} />} label="Streak" value={`${streak.count}d`} color="text-rose-500" />
       </div>
