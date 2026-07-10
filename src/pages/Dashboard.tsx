@@ -24,6 +24,21 @@ export function Dashboard({ cards }: { cards: Card[] }) {
     return isDue(s);
   }).length, [cards, srStates]);
 
+  // Cards due per day for the next 7 days
+  const upcomingDue = useMemo(() => {
+    const today = new Date(); today.setHours(0,0,0,0);
+    const days = Array.from({ length: 7 }, (_, i) => {
+      const d = new Date(today); d.setDate(d.getDate() + i);
+      return d.toISOString().split('T')[0];
+    });
+    const counts: Record<string, number> = {};
+    for (const c of cards) {
+      const s = srStates[c.id] ?? defaultSRState(c.id);
+      if (days.includes(s.dueDate)) counts[s.dueDate] = (counts[s.dueDate] ?? 0) + 1;
+    }
+    return days.map((date, i) => ({ date, count: counts[date] ?? 0, label: i === 0 ? 'Today' : i === 1 ? 'Tomorrow' : new Date(date + 'T00:00:00').toLocaleDateString('en-US', { weekday: 'short', month: 'short', day: 'numeric' }) }));
+  }, [cards, srStates]);
+
   const masteredCount = Object.values(mastery).filter((m) => m.status === 'mastered').length;
   const masteryPct = cards.length ? Math.round((masteredCount / cards.length) * 100) : 0;
 
@@ -101,12 +116,36 @@ export function Dashboard({ cards }: { cards: Card[] }) {
       )}
 
       {/* Stats row */}
-      <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
+      <div className="grid grid-cols-3 gap-3">
         <StatCard icon={<BookOpen size={18} />} label="Total Cards" value={cards.length} color="text-indigo-500" />
-        <StatCard icon={<Clock size={18} />} label="Due Today" value={dueToday} color="text-amber-500" />
         <StatCard icon={<CheckCircle size={18} />} label="Mastered" value={`${masteryPct}%`} color="text-emerald-500" />
         <StatCard icon={<Flame size={18} />} label="Streak" value={`${streak.count}d`} color="text-rose-500" />
       </div>
+
+      {/* Due breakdown */}
+      <section className="bg-white dark:bg-gray-900 rounded-xl border border-gray-200 dark:border-gray-800 p-4">
+        <h2 className="text-sm font-semibold mb-3 text-gray-700 dark:text-gray-300 flex items-center gap-2">
+          <Clock size={15} className="text-amber-500" /> Cards Due by Day
+        </h2>
+        <div className="space-y-2">
+          {upcomingDue.map(({ date, count, label }) => {
+            const max = Math.max(...upcomingDue.map(d => d.count), 1);
+            const isToday = label === 'Today';
+            return (
+              <div key={date} className="flex items-center gap-3">
+                <span className={`text-xs w-24 shrink-0 ${isToday ? 'font-semibold text-amber-600 dark:text-amber-400' : 'text-gray-500'}`}>{label}</span>
+                <div className="flex-1 h-2 bg-gray-100 dark:bg-gray-800 rounded-full overflow-hidden">
+                  <div
+                    className={`h-full rounded-full transition-all ${isToday ? 'bg-amber-500' : 'bg-indigo-400'}`}
+                    style={{ width: `${(count / max) * 100}%` }}
+                  />
+                </div>
+                <span className={`text-xs w-8 text-right tabular-nums ${isToday ? 'font-semibold text-amber-600 dark:text-amber-400' : 'text-gray-500'}`}>{count}</span>
+              </div>
+            );
+          })}
+        </div>
+      </section>
 
       {/* Study mode grid */}
       <section>
