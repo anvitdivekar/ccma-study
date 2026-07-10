@@ -73,6 +73,19 @@ export function updateStreak() {
   set(KEY.streak, { count: newCount, lastStudyDate: today });
 }
 
+// Card flags
+const FLAGS_KEY = 'ccma:flags';
+export function getFlags(): string[] {
+  return get(FLAGS_KEY, []);
+}
+export function toggleFlag(id: string): string[] {
+  const flags = getFlags();
+  const idx = flags.indexOf(id);
+  const next = idx === -1 ? [...flags, id] : flags.filter((f) => f !== id);
+  localStorage.setItem(FLAGS_KEY, JSON.stringify(next));
+  return next;
+}
+
 // Dark mode
 export function getDarkMode(): boolean {
   const stored = localStorage.getItem(KEY.darkMode);

@@ -69,6 +69,10 @@ export function Dashboard({ cards }: { cards: Card[] }) {
     { to: '/quiz/typed', label: 'Typed Answer', desc: 'Type from memory', color: 'bg-emerald-500' },
     { to: '/quiz/match', label: 'Matching', desc: 'Pair terms & defs', color: 'bg-amber-500' },
     { to: '/quiz/exam', label: 'Exam Sim', desc: 'Timed mock exam', color: 'bg-rose-500' },
+    { to: '/weak', label: 'Weak Cards', desc: 'Focus on struggles', color: 'bg-red-500' },
+    { to: '/cram', label: 'Cram Mode', desc: 'Rapid fire review', color: 'bg-orange-500' },
+    { to: '/heatmap', label: 'Heatmap', desc: 'Category confidence', color: 'bg-teal-500' },
+    { to: '/plan', label: 'Study Plan', desc: 'Day-by-day schedule', color: 'bg-purple-500' },
   ];
 
   const daysLeft = daysUntilExam();

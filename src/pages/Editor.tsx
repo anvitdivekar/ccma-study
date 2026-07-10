@@ -1,7 +1,7 @@
 import { useState, useMemo } from 'react';
 import type { Card, CardType, Difficulty } from '../types';
-import { getOverlay, setOverlay } from '../store/storage';
-import { Plus, Save, Trash2, Search } from 'lucide-react';
+import { getOverlay, setOverlay, getFlags } from '../store/storage';
+import { Plus, Save, Trash2, Search, Flag } from 'lucide-react';
 
 const CATEGORIES = [
   'Regulatory Bodies', 'Blood Draw', 'Patient Positioning', 'Vital Signs',
@@ -11,13 +11,18 @@ const CATEGORIES = [
 
 export function Editor({ cards, onRefresh }: { cards: Card[]; onRefresh: () => void }) {
   const [search, setSearch] = useState('');
+  const [flaggedOnly, setFlaggedOnly] = useState(false);
   const [editing, setEditing] = useState<Card | null>(null);
   const [overlay, setLocalOverlay] = useState(getOverlay);
 
   const visible = useMemo(() => {
     const q = search.toLowerCase();
-    return cards.filter((c) => !q || c.term.toLowerCase().includes(q) || c.definition.toLowerCase().includes(q) || c.category.toLowerCase().includes(q));
-  }, [cards, search]);
+    const flags = flaggedOnly ? getFlags() : null;
+    return cards.filter((c) => {
+      if (flags && !flags.includes(c.id)) return false;
+      return !q || c.term.toLowerCase().includes(q) || c.definition.toLowerCase().includes(q) || c.category.toLowerCase().includes(q);
+    });
+  }, [cards, search, flaggedOnly]);
 
   function save(card: Card) {
     const { id, ...rest } = card;
@@ -48,6 +53,10 @@ export function Editor({ cards, onRefresh }: { cards: Card[]; onRefresh: () => v
           <input value={search} onChange={(e) => setSearch(e.target.value)} placeholder="Search cards…"
             className="w-full pl-8 pr-3 py-2 rounded-lg border border-gray-200 dark:border-gray-700 bg-white dark:bg-gray-900 text-sm outline-none" />
         </div>
+        <button onClick={() => setFlaggedOnly((f) => !f)}
+          className={`flex items-center gap-1.5 px-3 py-2 rounded-lg border text-sm font-medium transition-colors ${flaggedOnly ? 'bg-amber-100 dark:bg-amber-900/40 border-amber-400 text-amber-700 dark:text-amber-300' : 'border-gray-200 dark:border-gray-700 hover:bg-gray-50 dark:hover:bg-gray-800'}`}>
+          <Flag size={14} fill={flaggedOnly ? 'currentColor' : 'none'} /> Flagged
+        </button>
         <button onClick={newCard} className="flex items-center gap-1.5 px-3 py-2 rounded-lg bg-indigo-600 text-white text-sm font-medium hover:bg-indigo-700 transition-colors">
           <Plus size={15} /> New
         </button>

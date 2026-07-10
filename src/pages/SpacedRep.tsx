@@ -1,7 +1,10 @@
 import { useState, useEffect, useCallback } from 'react';
+import { Volume2 } from 'lucide-react';
 import type { Card, SRRating } from '../types';
 import { getSRStates, setSRState, updateStreak } from '../store/storage';
 import { sm2, defaultSRState, isDue } from '../utils/sm2';
+
+const hasSpeech = typeof window !== 'undefined' && 'speechSynthesis' in window;
 
 export function SpacedRep({ cards }: { cards: Card[] }) {
   const srStates = getSRStates();
@@ -77,7 +80,15 @@ export function SpacedRep({ cards }: { cards: Card[] }) {
           <div className="card-face w-full h-full bg-white dark:bg-gray-900 rounded-2xl border border-gray-200 dark:border-gray-800 shadow-sm flex flex-col items-center justify-center p-6 gap-3">
             <span className="text-xs text-indigo-500 font-medium">{card.category}</span>
             <p className="text-xl font-semibold text-center">{card.term || card.definition}</p>
-            <span className="text-xs text-gray-400">tap or Space to reveal</span>
+            <div className="flex items-center gap-2">
+              {hasSpeech && (
+                <button onClick={(e) => { e.stopPropagation(); window.speechSynthesis.cancel(); window.speechSynthesis.speak(new SpeechSynthesisUtterance(card.term || card.definition)); }}
+                  className="text-gray-400 hover:text-violet-500 transition-colors" title="Pronounce">
+                  <Volume2 size={16} />
+                </button>
+              )}
+              <span className="text-xs text-gray-400">tap or Space to reveal</span>
+            </div>
           </div>
           <div className="card-face card-back w-full h-full bg-violet-50 dark:bg-violet-950 rounded-2xl border border-violet-200 dark:border-violet-800 shadow-sm flex items-center justify-center p-6">
             <p className="text-base text-center leading-relaxed">{card.definition || card.term}</p>
