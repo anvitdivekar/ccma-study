@@ -1,0 +1,2094 @@
+
+
+
+
+CCMA Review – MedCare HealthCert
+
+medcareinfos@gmail.com or 404-644-2651
+
+
+
+HIPAA – health insurance/information privacy accountability and portability act; set of rules for handling patient information/care/privacy 🡪 patient information can never be shared via any mode of communication unless the patient is shared with another provider or if it’s with a higher up physician. Please study defamation. Tort law. Libel. Slander, negligence  (confidentiality, Bill of Rights, Privacy Act)
+
+OSHA – occupational safety health administration; regulates safety precautions for workplaces 🡪wear scrubs, tie hair, dispose sharps in bio. OSHA works hand in hand with the labor department. Where there’s employees/employers there will always be OSHA & DOL.(department of labor)
+
+CLIA – clinical laboratory improvement act; determines which labs/procedures you can perform depending on your title. They also allow CCMAs to conduct CLIA waived diagnostic tests
+
+CDC – centers for disease control; federal gov agency that does research, maintain vaccination recommendation, controls what information is given to the public about outbreaks, etc.
+
+MSDS – material safety data sheet; included with any product sold in the US. Includes details on components, how to take it (medication), warnings, dosage, contraindications, etc. Not only medication but chemicals instruments and requirements.
+
+FDA – food drug administration; approves which drugs/foods/supplements that can be sold to consumers
+
+DEA – drug enforcement administration; enforces controlled substance laws and regulations in the US, such as schedules of narcs
+
+NPI- National Provider Identifier- under DEA yet provides authority for non-controlled substances. One can have a DEA# and NPI#  if you have a NPI# you do NOT have authority for controlled substances prescriptions. But if you have a DEA# you have authority over controlled and non-controlled substances.
+
+
+
+Phlebitis – inflammation (itis) of vein (phleb)Anytime you see the prefix itis, it will always mean inflammation of the root or suffix of the word
+
+Hemostasis – process of healing. Ability for WBC to work together to fight foreign objects in body-stop the blood flow
+
+Homeostasis – body’s ability to maintain the body’s internal environment while adapting to the external environment-regulation
+
+Hematoma – blood (hema) tumor (oma); bruise, can be blue, black, gray, or purple
+
+For all hematomas one must apply direct pressure or if associated with edema must apply pressure and ice
+
+Know the signs of infections in term of color, (Blk, gray, green, orange, purple, blue)
+
+Hemolysis – broken RBC. Can happen if you shake blood collection tube rather than 
+
+invert
+
+Hemoglobin A1C Assay – blood test to trace sugar intake back 3-4 months
+
+Hemothorax – blood in thoracic cavity (chest); internal bleeding
+
+Amenorrhea – without (a) menses (meno) flow (rrhea); without menstrual flow
+
+Hemoconcentration – blood (hemo) thick (concentration)
+
+Capillary puncture most important step – performed on lateral side of middle or index finger; MUST wipe first drop of blood. If you cannot puncture a heel (infant) or finger, use an ear lobe.
+
+NLMEB-Never let monkeys eat bananas. Neutrophils, Lymphocytes, Monocytes, Eosinophils, Basophils they are known as Leukocytes. WBC
+
+APA – American Pediatric Association; that you cannot go past 2mm gauge (lancet) for infant heel stick
+
+PKU – phenylketonuria; infant heel stick. 0-24 hour after birth, infant blood is taken and tested for PKU. High levels can lead to developmental delays. Includes all other testing done with the infant blood. 
+
+ABG – arterial blood gas; carried in ice because artery has O2, CO2 gases which are stored in the cold. Otherwise they would explode.
+
+Diaphoretic – excessive sweating
+
+Lupus – autoimmune disorder
+
+Syncope – to faint---syncopal--- fainting episodes
+
+Anthropometric – any measurement of a human 🡪 height, weight, temp, etc.
+
+Baby only have length not height. Most important when measuring an infant length is to hold down the knee to extend the leg
+
+Auscultate – to listen
+
+Percussion – to tap 
+
+Korotkoff sounds – sounds to listen for when taking BP manually-systolic/diastolic
+
+Heart sounds- lub dub-opening And closing of the valves
+
+Pediculosis – infestation head lice
+
+Alopecia - baldness
+
+Positions (patient) – rectal temp: Sims’, women: lithotomy, urinary cath: dorsal recumbent, fowlers, semi fowlers, knee chest, sitting, Trendelenburg, supine
+
+Body mechanics (MA) – the correct/safe positions to use when lifting, pushing, etc.  for us only
+
+Manual blood pressure – review the BP section in Ch 1.
+
+Cirrhosis – liver disease
+
+Order of draw for capillaries – EDTA/additive, non-additive, serum
+
+Order of draw for whole blood – yellow, blue, red, green, lavender, white, gray 
+
+(young boys really get lovely wholesome girls)
+
+Yellow – SPS, sterile tube (8-10 inversions) / ( SPS- Sodium Polyanetholesulfonate
+
+Gold-lipid profile test
+
+Lt. Blue – sodium citrate for coagulation (2-4) / coagulation screen test
+
+Red – no additive (5) / serum glucose, electrolyte test
+
+Green – heparin (8-10) / stat electrolyte collection
+
+Lavender/White– EDTA (8-10) / CBC, A1C, ESR
+
+gray – sodium fluoride or potassium oxalate / glucose, lactate test
+
+Implied consent – not written 🡪 rolling up pt’s sleeve for blood draw, it can be verbal, non verbal. Gesture, mute, language barrier or jane or john doe
+
+Informed consent – written 🡪, permission. disclosing side effects of treatments, alternatives, actual procedure- given only by physician, while allowing pt. to ask questions
+
+Chain of custody – a record of everyone that handled a patient specimen when jurisdiction is involved or law enforcement
+
+Transferring patients most important step – lock the wheels of the bed/chair/other mode of transport
+
+Fist and pump – one fist, no pump (blood draw) not according to medcare clinicals, according to the book
+
+Mechanical lift – sling lift machine used to transfer obese, comatose patients; MUST lock the wheels first. Bring patient up to eye level, the bar must face inward….aka Hoyer lyft
+
+Antiembolitic – against (anti) blood clot (embolism). Promotes circulation and prevents blood clots 🡪 compression socks-gait (walk)
+
+Sequential compression device – automated compression cuffs to promote circulation, boot for thoses who do not gait (walk)
+
+Centrifuge-spin or separate blood tube into component
+
+Microhematocrit machine also separate the blood into components
+
+Quality control – controlling quality of specimen, materials, environment as directed by MSDS
+
+DVT- deep vein thrombosis
+
+Vertigo – combination of syncope, dizziness, nausea
+
+Vitiligo – abnormal pigmentation disorder that results in white patches of skin(think of Michael Jackson or Winne the famous model)
+
+Correcting errors – cross out and initial; EMR and EHR = just delete
+
+Allergies always written in RED
+
+EMR/EHR- electronic medical records’ EHR (the whole healthcare) EMR (medical facility)
+
+Scheduling~ modified booking, double booking, etc. 
+
+Insurance~ Medicaid /medicare/champva/tricare/blue cross shield/ 1199
+
+CCMA duties – greet and instruct ☹ 
+
+Ground emesis –  is when a pt vomits blood---looks like ground coffee 
+
+Emesis-to vomit- antiemetic drug( to stop vomiting) 
+
+Hemothorax- blood in the pleural cavity/chest aka internal bleeding
+
+Razor disposal – must dispose in sharps immediately to avoid accidents from carrying around sharps according to OSHA for SAFETY
+
+Needles/gauge/angle/technique 
+
+ID – ¼ to ½ inch/26 gauge/5-15 deg
+
+IM – 1-3 in/ 21 or 23 gauge/90 deg
+
+Subq – ¼ to ½ inch/25 gauge/45 deg
+
+IV – 25 deg
+
+Phlebotomy-15-30 deg
+
+Fragile veins – winged infusion set aka butterfly
+
+Edema – abnormal accumulation of fluid~ your finger will form a pit
+
+Parenteral – injection ONLY (ex: IV, ID, IM, Glute, Subq or Subc)
+
+1500 (claims) form – patients filing a claim must fill out all contact, billing info- CMS- 
+
+CMS~ center for Medicaid and Medicare services. 
+
+CMS-rehab or physical therapy- Circulation, motor skills, sensory
+
+CPT – current procedural terminology ~codes are numbers, numbers is money; money is how DR gets paid
+
+ICD 10 – international classification of diseases
+
+10 rights of drug administering – most important is having the right patient
+
+3 before and 3 after – verify medication 3 times before and after administering
+
+Lab disinfectant – 1 bleach: 10 water
+
+Chlorohexidine – disinfectant used for alcohol testing because/alcohol wipes will always test positive, yet the swab is the one that does not have alcohol tracing
+
+Bac/bal blood alcohol content /level
+
+Code pink – infant abduction in health industry after it goes amber alert- infant security device on ankle 
+
+Code blue – cardiac arrest
+
+Thyroid produces –hormones,
+
+TSH- Thyroid stimulating hormone.
+
+Organ producing insulin – pancreas 
+
+FSH – follicle stimulating hormone; taken by female and male after puberty- menopause
+
+Somatic tremor – in/voluntary shaking
+
+Parkinson Disease how can one identify the disease along with somatic tremors, with association of shuffled gait(walk)
+
+Study infection transmission cycle – 
+
+Reservoir host – individual gets infected by the pathogen and provides nourishment for it to grow; becomes a source of transfer for the pathogen
+
+Means of exit – mouth, nose, throat, ears, eyes, GI, urinary tract, reproductive tract, open wounds
+
+Means of transmission – water vapor from lungs, contaminated hands/equipment/food/water, insects
+
+Means of entry – mouth, nose, throat, ears, eyes, GI, reproductive tract, open wounds, mucous membranes
+
+Susceptible host – individual that is capable of being infected by the pathogen; poor health/hygiene/nutrition lower resistance to the pathogen.
+
+The system that protects the heart – coronary system- backup generator
+
+2 primary sources of identification – driver’s license, (state ID) insurance card
+
+Diabetes – inability for insulin to break down glucose.
+
+Normal blood sugar levels 
+
+Adult – 70-140 mg/dL
+
+Kid – 70-100 mg/dL
+
+Hypoglycemic – low blood sugar
+
+Hyperglycemic – high blood sugar
+
+Diabetes mellitus (type 2) – most common in America; large urine output, insulin resistance
+
+Diabetes insipidus (type 1) – body does not produce insulin
+
+Necrotic/necrosis – tissue death in body
+
+Infarction – muscle injury/death in heart due to lack of oxygen to heart MI(myocardial infarction)
+
+Ischemic/ischemia – inadequate supply of oxygenated blood to body
+
+Cyanotic/cyanosis – lack of circulation
+
+CVA – cerebral vascular accident; accident to vessels in brain
+
+Stroke – type of CVA; lack of oxygen to brain
+
+Aneurysm – type of CVA; ballooning/bulging of artery in brain. Can cause a stroke
+
+Seizure – type of CVA; abnormal electrical activity. Detected with EEG(electroencephalogram )
+
+TIA – transient ischemic attack; mini stroke
+
+TB – tuberculosis
+
+PPD – purified protein derivative; for TB test. 0.1cc ID injection
+
+TB aka Mantoux Tuberculin skin test 
+
+VDRL – venereal disease research lab VD ~STD~STI~ (CDC) (in that order)
+
+PT/INR – prothrombin time/international normalized ratio; 1 part sodium citrate: 9 part blood.1:9- Detects bleeding disorders (lt blue tube) Coagulation tube
+
+PTT – prothrombin timed test to determine how fast the blot clots
+
+Expired tubes – vacuum does not work properly- negative pressure is low
+
+NG Tube – nasogastric tube; feeding tube in semi-fowler position
+
+G tube – gastric tube- feeding directly into the stomach -semi-fowler position
+
+GTT – glucose tolerance test; wait 1 hour if you are doing a glycocola- (fast)
+
+GTT can be obtained by a drink, capillary puncture such as the glucometer or A1C assay or whole blood.
+
+Point of care – performing extra, unplanned tests aka POC or POCT such as a CLIA waived test. Easy to low risk error test. Done at the bedside of pt.
+
+Sterile field –kill of bacteria; OR, autoclave or incinerate 
+
+Disinfect = free of germs
+
+Sanitation- reduce amount of germs
+
+Sterile aka surgical—kill destroy any living cell. Such as microorganisms, fungi, parasites, pathogens, viruses, disease. Kills ALL
+
+Streptococcal – strep- swab the uvula in a rotating circular motion
+
+Denture removal – remove top first then bottom bc top overlaps bottom
+
+
+
+COPD – chronic obstructive pulmonary disease; lung inflammation that blocks airflow from lungs.
+
+PFT – pulmonary function testing; when lung capacity is in question- testing the lungs volume of air not oxygen
+
+Peak flow meter – measures how forcefully/fast air moves out of the lungs on an exhalation  ( ASTHMA ^)
+
+Spirometer – measuring volume of air inhaled and exhaled; deep exhale
+
+Asthma – allergies; airways become inflamed and narrow, blocking airways
+
+Bronchitis
+
+Vasodilator
+
+Nebulizer, albuterol- steroids. A machine that delivers medication in form of inhalation mist into the lungs-
+
+Shock – sudden drop of blood flow, clammy to the touch. Starry look
+
+Aerobic vs. anaerobic – with/out oxygen; aerobic (blue), then anaerobic (lavender) draw- also used or referred to blood culture bottles. So just as in the order of draw, blue comes before lavender so you would use blue first then lavender
+
+Sclerotic – very hard, narrow vein(DO NOT use vein)
+
+Tortuous – twisty and turny  vessel🡪 block flow (DO NOT use vein)
+
+Thrombotic – blood clot in vessel; tender, sensitive vein (DO NOT use vein)
+
+Antiseptic – free of pathogenic microorganisms; most common is 70% isopropyl alcohol
+
+Fasting – specific guidelines for refraining from certain foods/exercises
+
+Basal – no eating, drinking, stress, sex (#1 strenuous exercise) base state; early in morning, after fasting, no physical activity
+
+Petechiae – minor hematoma/hemorrhage; bursting of capillary (caused by prolonged torniquet
+
+Peripheral blood smear – feathering blood smear on microscopic slide; 100 minimum count ( Gram Staining) Wright Stain
+
+Polycythemia vera – blood cancer; excess production of RBC due to excessive withdraw; thickens and slows blood ( we cause this to our pt)
+
+Aphresis – separation of blood into its components
+
+Autologous – donate blood to self bc person cannot accept donated blood
+
+Iatrogenic anemia – reduced RBC levels due to excessive blood draws 
+
+PP-Post prandial – after meals
+
+OTC – over the counter
+
+F/u – follow up
+
+BID – twice a day
+
+TID – 3 times a day
+
+q – every 
+
+qh – every hour
+
+q4h – every 4 hours
+
+very 4 hours
+
+HCG – pregnancy test
+
+ETOH - ethanol
+
+Sx - symptoms
+
+Rx - prescription
+
+Hx - history
+
+HCT – hematocrit 
+
+Bx - biopsy
+
+Dx – diagnosis
+
+Rx
+
+Hx
+
+Sx-symptoms
+
+Dx-diagnosis
+
+TX-treatment
+
+CPX- complete Physical
+
+SOB – shortness of breath
+
+C&S – culture and sensitivity
+
+LMP – last menstrual period
+
+BLS – basic life support
+
+WBC – white blood cell
+
+RBC – red blood cell
+
+DoD – date of death
+
+CC – chief complaint
+
+cc – cubic cm
+
+MMR – measles, mumps, rubella
+
+AC – before eating
+
+ENT – ear, nose, throat
+
+VDRL – venereal disease research lab
+
+WNL – within normal limits
+
+CPR – cardiopulmonary resuscitation 
+
+CPOE – computerized physician order entry
+
+UA – urinalysis 
+
+AED – automated external defibrillator 
+
+TB – tuberculosis 
+
+Penis aka shaft
+
+Vagina aka Vulva
+
+Clitoris, urethra, vaginal canal,  2 Bartholin glands, anus
+
+Epididymis/vas deferens – tubes that carry sperm from testicle to urethra
+
+Ovum/fallopian tubes – tubes that carry eggs from ovary to uterus
+
+* cannot mix urine with stool for stool test because the sterile urine will kill bacteria in stool
+
+Hemoccult test. Hidden blood in stool- the card of the test guaiac card
+
+* sperm collected in a STERILE cup must be tested within 2 hours/body temp
+
+* sputum samples are sent to microbiology reference labs
+
+* N95 respirator mask used when near patients with airborne pathogens for ex: Testing TB via saliva
+
+Purulent – puss 
+
+Reference lab – external lab (Quest) (when lab work or lab result is sent out for testing or results, not done in the facility) its sent out
+
+Sharps container – for sharp objects ex: glass & needles ONLY
+
+Biohazard container – for fluids that touched bodily fluid with exception of sweat
+
+ When to report an accident – documented on an OSHA incident report within 8-24 hours after incident
+
+JCAHO – joint commission on accreditation of hospital “Joint Commission on Accreditation of HealthCare Organization”
+
+CLSI – clinical lab standard institute
+
+HIV – human immunodeficiency virus; weak WBC cannot protect body from pathogens
+
+Nosocomial – infections/conditions obtained from a hospital setting
+
+Number 1 hand hygiene – hand washing
+
+How many beats per minute for CPR – 100-120 bpm
+
+Identify bacteria (ID)– microbiology testing, gram staining
+
+Urine standout – 1 hour until it decomposes back to urea 
+
+Suture – absorbable, steri strip, (most common for MA) chrome cat gut, 
+
+Suture removal
+
+Polyuria – excessive urination
+
+Nephrolithiasis – kidney (nephron) stone (lit)
+
+Cholecystolithiasis – gall (cholecy) stone (lit)
+
+ESR – erythrocyte sedimentation rate; testing how much RBC fall after 1 hour. Indicated inflammation
+
+Male: 0-17mm/hr
+
+Female: 0-27mm/hr
+
+Hematuria – blood in urine
+
+Nocturia – frequent urination at night
+
+Oliguria – low urine output
+
+Ishihara – color blindness; place cards arm length away ( can not view red & green)
+
+Snellen – distance visual acuity test chart; stand 20 ft away 
+
+Drugs metabolize where – liver 
+
+Elimination of drug where – kidneys in urine
+
+Prozac – antidepressant; depression, OCD, panic, bulimia
+
+Albuterol – steroid bronchodilator ( can be in a form of tablets, inhalant or spray, mist)
+
+Severe headache – migraine 
+
+Hemoglobin carries – oxygen and carbon dioxide throughout the body within our cells
+
+Quality assurance – ensures accurate lab results
+
+AU – both ears (audio)
+
+AS – left ear
+
+AD – right ear
+
+OU – both eyes (optic)
+
+OS – left eye
+
+OD – right eye
+
+Universal donor – blood type O
+
+Prolonged exposure to radiation 🡪 can result in cancer
+
+EKG – electrocardiogram; diagrams electrical activity of cardiac cycle ~study page 41-47. Study page 146 P to T intervals=
+
+Holter monitor – 
+
+Black = left manubrial border of sternum
+
+Green = lower right rib margin over bone
+
+White = right manubrial border of sternum
+
+PR = .012-.20 seconds
+
+QRS = .04-.10 seconds
+
+Patients must document everything they do that day
+
+Intervals
+
+Systolic/diastolic
+
+Ground limb – right leg (EKG)
+
+Precordial leads- V1-V6
+
+Precordium- chest wall area 
+
+Augmented leads- Limb Leads
+
+Holter monitor, journals/diary. Off monitor, stay on monitor, telemetry monitor
+
+Color of leads~ must know all colors~ RL, LL, RA, LA, chest leads-study AVR,AVF,AVL
+
+Ibuprofen – NSAID that treats pain (non-steroidal anti-inflammatory drugs)
+
+ Dysmenorrhea- menstrual cramps (painful menses)
+
+Peristalsis – involuntary wavelike movement of muscles 
+
+DTAP – vaccine for diphtheria, TB, pertussis
+
+Ligament – bone to bone
+
+Tissue biopsy – histology dept. is where you have it to send it to be test and read
+
+So study all departments in google doc
+
+Benadryl – antihistamine 
+
+Surgical asepsis – it’s the absence of microorganism within invasive procedures. EX: needle biopsy-  indwelling, catheterization, IV, 
+
+Osteoporosis – degeneration of bones
+
+Impetigo – patches of yellow skin ( common in children, especially when playing with dirt
+
+Cerebrum – largest part of the brain
+
+Presbyopia – loss of near sighted vision; referring to older patients
+
+Hyperopia – farsightedness
+
+Myopia – nearsightedness 
+
+Otitis media – middle ear infection (reason to conduct an ear irrigation)
+
+Tricuspid – between R atrium and ventricle
+
+Pertussis – whooping cough
+
+Rhinitis – nose (rhino) inflammation (itis)
+
+Parkinson disease – degeneration of muscles; somatic tremors and feet shuffling gait
+
+Digestive bile – gallbladder 
+
+Micturition – urination 
+
+Exacerbation – a set of symptoms ~ by making it worst.
+
+Multipara – 2+ viable pregnancies
+
+Male sterilization – vasectomy; by cutting vas deferens
+
+Colored part of the eye – iris 
+
+Bradycardia – slow HR
+
+Tachycardia – fast HR
+
+Apnea – lack of breathing
+
+Bradypnea – slow breathing
+
+Tachypnea – fast breathing 
+
+Sigmoidoscopy – examination of rectum 🡪 colon. starting from anus via the rectal canal up toward the sigmoid colon
+
+Uvula – hangs in upper palate to help swallow; gag reflex
+
+Labia – folds of the female vulva. On either side of the vagina (majora & minora)
+
+Stores urine - bladder
+
+Endocrine – makes hormones
+
+Progesterone is produced by – corpus luteum
+
+Between anus and vagina – perineum (thin wall)
+
+Not part of the axial skeleton – scapula 
+
+Superficial – on the surface
+
+Myringotomy – surgical incision (otomy) to open ear to eardrum to drain fluid/relieve pressure
+
+Antipyretic – reduce fever
+
+Rhinorrhea – runny nose
+
+Rhinitis- inflammation of the nose
+
+Stasis – to stop/control
+
+Splenomegaly – enlarged spleen caused by mono, cirrhosis of liver
+
+Steno – narrow 
+
+Stoma- natural opening anus, mouth, nose
+
+Ostomy – opening, surgical creation of an opening
+
+Otomy- to cut or separate, incision
+
+Ectomy- surgical removal
+
+Subpulmonary – beneath the lungs 
+
+Tenodynia – pain related to tendon 
+
+Transthorax – across the chest- internal bleeding in the pleural cavity
+
+Unilateral – one side of body
+
+Thrombectomy – surgical remove blood clot
+
+Vas/o – vessel/duct
+
+Pexy – suspension, fixation- surgery with organs, tissue
+
+Plasty-surgical repair
+
+Lordosis – curving inward of lower back (swayback)
+
+Scoliosis-outward, leaning to one side, uneven
+
+The 9 quadrants
+
+R/L hypochondriac
+
+Epigastric
+
+R/L lumbar
+
+Umbilical
+
+R/L iliac
+
+hypogastric
+
+
+
+Hierarchy of Maslow- elements we need in order to survive, ex: shelter, love, water, acceptance, 
+
+Suppression, depression, regression, grieve, anger, denial, 
+
+Medical Titles-ex: pediatrics, obstetrics, psychologist and more
+
+Medical Departments-ex: microbiology, histology, pathology, hematology & more
+
+Drugs, ex: Benadryl, Xanax, insulin, pain meds, NSAID
+
+Medical Administrative-double booking, modified booking, open and close and office,, letterheads, RX, answer calls, 
+
+Insurance--  Champva.  Tricare, blue cross, Blue shield, CMS
+
+Medcareinfos@gmail.com
+
+
+
+
+
+
+
+
+
+
+
+ECG speed-25mm
+
+** ECG calculations. 1500/number of small boxes……. 300/number of large boxes..
+
+AVL_ AVR-AVF- V1-V6_ RA, RL, LL, LA
+
+Electrodes color 
+
+Study calculations, lbs to oz. ht or  ekg’s 1500, 300 cal,,  cc=ml, Fahrenheit to Celsius 
+
+EKG artifacts , one example would be somatic tremors
+
+Study stress test, chapter 1, Ex: treadmill, elliptical bike ( standstill for pt who can not run)
+
+Apical pulse: Chapter 1
+
+Know all Vitals and ranges
+
+Study patient care
+
+They are NOT going to give you 6 second strip—12 QRS X 10 = 120
+
+Holter Monitors-chapter 1
+
+
+
+
+
+
+
+
+
+the term meaning inflammation if the brain is 
+
+Encephalitis
+
+the word root dactyl/o means
+
+finger
+
+the term dyskinesia means
+
+difficult movement 
+
+the term meaning increase heart rate (pulse)is 
+
+tachycardia 
+
+the term meaning on one side is 
+
+unilateral 
+
+the term meaning on one side is 
+
+unilateral 
+
+the term cyanosis means 
+
+bluish condition 
+
+the term antipyretic means 
+
+fever reducing 
+
+the suffix meaning the study of is 
+
+logy 
+
+the term cytology means 
+
+study of cells 
+
+the term leukopenia means 
+
+decreases white cells 
+
+the term meaning thickening (bardening) of the arteries is 
+
+Arteriosclerosis
+
+the prefix ab- means
+
+away from 
+
+the prefix peri- means
+
+around 
+
+the term neuralgia means 
+
+pain in the nerves 
+
+the term cervicofacial pretains to the 
+
+face and neck 
+
+a term meaning destruction of kidney tissue is 
+
+nephrolysis
+
+the term postermedial pertains to
+
+middle back 
+
+the term osteoarthropathy means 
+
+disease of joints and bones 
+
+the term orchidectomy means
+
+surgical removal of testicle 
+
+the term adenoma means 
+
+tumor of the gland 
+
+the term mammoplasty means
+
+surgical reconstrcution of the breast 
+
+the term adrenimegaly means 
+
+enlargement of the adrenal gland(s)
+
+the term gynecopathy means 
+
+any disease of the female reproductive system 
+
+a term meaning an ingrown nail is 
+
+onychocryptosis
+
+the term meaning excision of fatty tissue is 
+
+lipectomy 
+
+the term meaning rapture of vein is 
+
+phlebrrhexis 
+
+the term duodenoscopy means 
+
+inspection of the duodenum with a scope 
+
+a term meaning a painful tendon is  
+
+the term dacryocystitis means 
+
+inflammation of a tear sac
+
+the term intracerebral means
+
+within the main part of the brain 
+
+the meaning condition of fungus of the nail is 
+
+onychomycsis 
+
+the term meaning death of tissue or bone is 
+
+necrosis
+
+the term meaning death of tissue or bone is 
+
+necrosis
+
+the term meaning passing from front to rear is 
+
+anteroposterior 
+
+the term meaning passing from to rear is 
+
+anteroposterior
+
+the term aplasia means 
+
+lack of formation 
+
+the term endocarditis means 
+
+inflammation if the inside lining of the heart 
+
+the term pyeloplasty means
+
+surgical repair of the renal pelvic
+
+the term meaning below normal temperature is 
+
+hypothermia 
+
+the term hysterorrhaphy means 
+
+suturing of the uterus 
+
+the term proctorrhagia means 
+
+hemorrhage from the rectum 
+
+the term for disease of the retina is 
+
+retinopathy 
+
+the term meaning herniation of the meaning is 
+
+meningocele
+
+the term meaning suppression of menses is 
+
+menostasis
+
+the term meaning across the chest is 
+
+transthorax 
+
+the term meaning excessive formation of cells or tissue is 
+
+hyperplasia 
+
+the term pyogenesis means 
+
+formation of pus 
+
+the term hemiplegia means 
+
+paralysis of one half of the body 
+
+the term nasopharynheal means pretaining to 
+
+nose and throat 
+
+the term neurotripsy means
+
+surgical crushing of a nerve 
+
+scraping of the body cavity is 
+
+curettage 
+
+inflammation of the tonsils is 
+
+tonsillitis
+
+the toracic and adbominal cavities of the body are separated by the
+
+diaphragm 
+
+the main tissue of the outer layer of the skin is 
+
+epithelial 
+
+the glands that are saclike in structure and produce oily secretions that lubricate the skin are 
+
+sebaceous
+
+the portion of skeletal bone that manufactures blood cells is the 
+
+red bone marrow
+
+the structures that attach muscles to the bone are 
+
+tendons 
+
+nerve fibers are insulated and protected by a fatty material called 
+
+myelin
+
+the function of the lacrimal apparatus is to 
+
+produce tears to lubricate the eye 
+
+a bone that is part of the pelvic gridle is the 
+
+ischium
+
+the cellular components of blood include 
+
+erythrocytes leukocytes platelets
+
+the chambers of the heart are the 
+
+ventricles and artria 
+
+an organ located in the left upper quadrant is the 
+
+spleen 
+
+an example of active immunity is 
+
+producing antibodies as a result of having a disease 
+
+the structure in the body also known as the voice box is the 
+
+larynx 
+
+the wavelike movement that propels food through the digestive tract is called 
+
+peristalsis
+
+the process that does not require oxygen for the breakdown of glucose is referred to as being 
+
+anaerobic
+
+the term that means the body is in a state of equilibrium or balance is 
+
+homeostasis
+
+the funnel shaped basin that forms the upper end of the ureter is the 
+
+renal pelvis
+
+in both males and females the entire pelvic floor is called the 
+
+Perineum
+
+a pregnancy that develops in a location outside the uterine cavity is referred to as 
+
+ectopic 
+
+which of the following body systems include the thyroid and pituitary glands
+
+Circulatory 
+
+the term inguinal pertains to what area or structure of the body 
+
+groin 
+
+the measure of acidity or alkanlinity of a solution is called 
+
+pH
+
+a term that describes a solution that has the same concentration as cell fluids is 
+
+isotonic
+
+the fibrous bands that support organs to hold them in place are 
+
+fascia 
+
+the membrane that surrounds the heart is the 
+
+pericardium 
+
+the small tip of cartilage at the lower end of the sternum is the 
+
+xiphoid process
+
+a major muscle in the body that assists in raising the arm away from the body is the 
+
+deltoid
+
+cells that carry or transmit impulses toward the central nervous system are called 
+
+afferent neurons 
+
+the space in the brain where cerebrospinal fluid is form are the
+
+ventricles
+
+impulses from the receptors for smell are carried to the brain by the 
+
+olfactory nerve
+
+the hormone that is essential for growth is produced in the 
+
+pituitary gland 
+
+what represent the layers of the heart 
+
+endocardium and myocardium 
+
+the blood vessel that brings blood from the head chest and arms back to the heart is the 
+
+superior vena cava
+
+what is the proper sequence for the flow of blood in the body 
+
+artery - arteriole-capillary 
+
+the condition of inflammation of the lymphatic vessels is called 
+
+lymphangitis 
+
+the lymphatic system includes the following organs and tissue 
+
+thymus spleen tonsils adenoids
+
+The process in which white blood cells take in and destroy waste and foreign material is called:
+
+phagocytosis
+
+the structure common too the respiratory and digestive systems is the 
+
+pharynx
+
+an accumulation of air in the pleural space that may lead to collapse of the lungs is called 
+
+pneumothorax
+
+the leaf shaped cartilage that covers the opening of the larynx is the 
+
+epiglottis
+
+most of the digestive process occurs in the 
+
+small intestine
+
+the lining of the stomach has many folds called 
+
+rugae
+
+the first portion of the small intestine is the 
+
+duodenum 
+
+an abnormal accumulation of excessive fluid in the intercellular space is called 
+
+edema
+
+the kidneys are located in the 
+
+retroperitoneal space 
+
+the term hydronephrosis means
+
+distention of the renal pelvis resulting from obstructed flow of urine 
+
+the sex glands of the male and female reproductive system are the 
+
+testes and ovaries
+
+the bone that lives between the hip and the knee is the 
+
+femur
+
+the largest artery in the body is the
+
+abdominal aorta
+
+the term that refers to absence of menstrual flow 
+
+amenorrhea 
+
+the hormone produced by the embryonic cells of the fetus is 
+
+human chronic gonadotropin hormone 
+
+a substance necessary for proper formation of a blood clot is  
+
+albumin
+
+the left artioventricular (AV) valve in the heart is also known as the 
+
+mitral valve 
+
+the only artery in the body that carries 
+
+pulmonary artery 
+
+a localized dilation resulting from weakness of a blood vessel wall is a 
+
+aneurysm 
+
+an example of chronic obstructive pulmonary disease is 
+
+emphysema 
+
+a portion of the large intestine is the 
+
+ileum
+
+a chronic degenerative disease of the liver is 
+
+cirrhosis
+
+the tube that permits urine to pass from the bladder to the outside of the body is the 
+
+urethra 
+
+the innermost layer of the uterus is the 
+
+endometrium
+
+the frontal or coronal plane of the body divides the body into 
+
+front and rear 
+
+the membrane a attached to internal organs is the 
+
+visceral layer 
+
+the term that describes a disorder that breaks down tissues in a body system is 
+
+degenerative 
+
+the study of the cause of any disease or of all factors that may be involved in the development if a disease is 
+
+etiology 
+
+the chronic skin condition characterized by a red, flat area covered with silvery scales is 
+
+psoriasis
+
+which of the following is not one of the cranial bones
+
+maxilla 
+
+the bone that is part of the shoulder girdle and is between the sternum and the scapula is the 
+
+clavicle 
+
+the type of muscle responsible for producing peristalsis is 
+
+smooth 
+
+the type of joint motion that allows movement away from the midline of the body, such as moving the arms straight out to the side, is 
+
+abduction 
+
+the sympathetic system of the autonomic nervous system is responsible for 
+
+dilation of bronchi of the lungs 
+
+the portion of the brain that aids in the coordination of voluntary muscle action is the 
+
+cerebellum 
+
+strabismus is condition of the eye causing 
+
+cross eye appearance
+
+a structure found in the inner ear is the 
+
+cochlea 
+
+the cluster of cells called the islets of Langerhans are located in the 
+
+pancreas 
+
+a goiter is associated with abnormal function of the 
+
+thyroid gland 
+
+the Rh factor in blood is 
+
+an antigen that affects a person's blood type 
+
+the area of the heart that initiates a heartbeat is the 
+
+sinoatrial node
+
+a heart disease that is present at birth is 
+
+congenital heart disease 
+
+which of the following blood vessels is proximal to the heart 
+
+ascending aorta 
+
+acquired natural active immunity is achieved by 
+
+contracting the disease 
+
+the human immunodeficiency virus is the cause of which disease 
+
+acquired immunodeficiency syndrome 
+
+what is the best accurate about the lungs 
+
+the sac covering the lungs is the pleural sac 
+
+a communicable infectious disease of the lungs is 
+
+tuberculosis
+
+an example of inflammatory bowel disease is 
+
+Crohn disease 
+
+a function of the liver is to 
+
+detoxify harmful substances such as alcohol and certain drug 
+
+the fluid contained within the body cells is called 
+
+intracellular fluid 
+
+the two important electrolytes found in the body are 
+
+sodium and potassium 
+
+a condition resulting from renal failure and causing high levels of blood urea nitrogen is 
+
+uremia 
+
+the period of pregnancy is called 
+
+gestation 
+
+the hormone that causes contraction of uterine muscle during labor is 
+
+oxytocin 
+
+the region located directly below the umbilical region is the 
+
+hypogastric region 
+
+an example of exocrine glands are 
+
+sebaceous glands 
+
+the order of the vertebral column from top to bottom is 
+
+cervical, thoracic, lumbar, sacral, coccyx 
+
+the muscle located on the anterior thigh and that function to extend the leg is the 
+
+quadriceps femoris 
+
+the artery located in the upper arm is the 
+
+brachial artery 
+
+any foregin substance that enters the body and induces an immune response is a 
+
+antigen 
+
+the smaller leg bone lateral to the tibia is the 
+
+fibula 
+
+the small pouch that is the first part of the large intestine is the 
+
+cecum 
+
+the hormone that regulates the amount of water that is eliminated with urine is 
+
+ADH
+
+an excessive curvature in the thoracic portion of the spinal column also known as hunchback is 
+
+kyphosis
+
+diabetic retinopathy is a result of damage to the  
+
+eyes 
+
+which of following statements is True
+
+type 2 diabetes is non-insulin-dependent diabetes
+
+which of the following is a protein found in the epidermis that makes the skin waterproof
+
+Keratin 
+
+what is the most common condition of the eye associated with aging 
+
+presbyopia 
+
+what structure is at the neck of the bladder and surrounds the urethra 
+
+Prostate
+
+the epigastric anatomical region of the abdomen is located 
+
+distal to the sternum 
+
+Collagen, a substance found in the dermis, is a(n):
+
+fibrous protein
+
+which of the following glands are located on the sides of vaginal opening and produce mucus
+
+bartholin 
+
+when the foot is moved outward the joint movement is
+
+abduction
+
+the master gland of the body is the 
+
+Pituitary 
+
+a fracture of the radius characterized by bending of the bone with the skin left intact is referred to as 
+
+greenstick, closed 
+
+spermatozoa normally fertilize the female ovum in the 
+
+fallopian tube 
+
+the glomerulus is a cluster of blood capillaries found in the 
+
+nephron
+
+the disorder characterized by uncontrollable episodes of falling asleep is 
+
+narcolepsy 
+
+the regulation of body temperature is controlled by the  
+
+hypothalamus 
+
+Which of the following substances is NOT a neurotransmitter?
+
+aldosterone
+
+cranial nerve I the olfactory nerve is related to the sense of 
+
+smell
+
+A blood cell that carries oxygen and has no nucleus is a(n):
+
+erythrocyte
+
+during respiration exhaled air contains primarily 
+
+carbon dioxide
+
+a condition causing a back flow of stomach acid through an incompetent esophageal sphincter is called  
+
+GERD
+
+which of the following is the best example of nonverbal communication  
+
+body language 
+
+when a person generalizes the behavior or characteristic of all members of a particular culture race or religion it is referred to as 
+
+stereotyping 
+
+three elements necessary for basis communication include 
+
+message, sender, receiver 
+
+to have proper verbal communication with a patient you should use
+
+conversation at the patients educational level 
+
+communicating with someone who is grieving the loss of a loved one is difficult when the person refuses to acknowledge the loss. this type of behavior is referred to as 
+
+denial 
+
+to communicate with a sight impaired patient it is important to 
+
+tell the patient each time before you touch him or her 
+
+to communicate with a hearing impaired patient it would be advisable to 
+
+speak slowly and distinctly to the patient 
+
+which of the following is an example of an open-ended question you would ask a patient 
+
+will you tell me about your pain 
+
+when communicating with a difficult challenging patient you should  
+
+exhibit a diplomatic attitude 
+
+which of the following is an example of behavior that demonstrates open nonverbal communication 
+
+leaning forward to listen
+
+when an individual is overemphasizing certain behaviors to accommodate for real or imaged weaknesses, he or she is 
+
+compensating
+
+maslow's hierarchy of human needs is based on the concept that
+
+physiologic needs are the most basic but are necessary for a person to progress any further towards reaching self actualization  
+
+when communicating with pediatric patients you should 
+
+not lie to a child but state the truth
+
+the receiving and interpreting of message is known as  
+
+decoding 
+
+psychological behavior that protect a person from guilt and shame are 
+
+defense mechanisms
+
+when communicating with a non english speaking patient it is appropriate to  
+
+use gestures to demonstrate information 
+
+prejudice is a term that means 
+
+you hold an opinion or bias concerning an individual because of his or her affiliation with a specific group
+
+to encourage further comments from a patient the interviewer can repeat what the patient has said using open-ended statements that require the patient to respond. this technique is called
+
+reflecting 
+
+a patient who is withdrawn weeping and isolated from others may be experiencing 
+
+depression 
+
+maintaining a professional relationship with the patient means that you should 
+
+deliver patient care that allows you to continue to provide objective medical care 
+
+proper flow of communication occurs in the following order
+
+message, response, clarification , feedback 
+
+the progression of a person's needs from basic survival to reaching one's pinnacle or self actualization is known as maslow's hierarchy
+
+to avoid breaching confidentiality you should 
+
+avoid discussing patient problems in the office hallway 
+
+communication techniques that are used when interviewing a patient include
+
+reflecting and summarizing 
+
+to set the stage for successful communication you should 
+
+sit at the patient's level eye to eye and maintain eye contact with patient if culturally appropriate
+
+which of the following is an issue that becomes predominant during the adolescent stage of development 
+
+self image 
+
+the process of acquiring info from a patient to determine health care needs and abilities is called 
+
+assessment 
+
+properly written patient educational materials should 
+
+focus on key points
+
+the best way to reinforce verbal instructions for a patient is to 
+
+provide the patient with written instructions 
+
+as the best way to document that a patient received written instructions to take home you should  
+
+have the patient sign a document to be placed in the patient's chart vitrifying receipt of the materials  
+
+an environment conductive to learning is characterized by 
+
+privacy 
+
+when evaluating a patient's progress in a patient educational program if you discover noncompliance this means that the patient is  
+
+refusing to follow prescribed orders
+
+when developing written patient educational materials it is most important to consider 
+
+the patient cognitive level of understanding 
+
+to provide patient education for a patient who is blind which of the following formats of training materials would be most helpful 
+
+braille materials 
+
+a team approach to patient education that includes different fields of knowledge and expertise is referred to as a 
+
+multidisciplinary plan 
+
+the first step in development of a patient educational program is to 
+
+identify the purpose and topic of the educational program 
+
+when asked to provide dietary information for a patient an organization that could provide the most valuable materials is the 
+
+national dairy council
+
+patient educational materials are best implemented when the 
+
+materials are discussed with the patient  
+
+a national accrediting body for health care organization that has established standards and requirements for patient education is the  
+
+NCQA
+
+the cognitive domain of learning refers to  
+
+comprehension
+
+the process used to carry out the agreed teaching plan in patient education is called 
+
+implementation 
+
+the overall purpose of patient education is to 
+
+improve patient health 
+
+a patient who needs info about drug addiction could receive education and help from an organization that specializes in  
+
+substance abuse 
+
+if a diabetic patient is reluctant to learn how to give him or herself insulin injection the first thing you should do is 
+
+notify the patients physician for further assistance 
+
+of the following which patient is the least likely to respond to learning objectives. 
+
+a patient who perceives the health care team as condescending 
+
+the following which is the most important for the person who is performing patient education 
+
+documenting in the patient record whatever teaching is performed 
+
+one of the factors that helps the most in promoting patient learning is 
+
+a positive emotional outlook 
+
+to ensure that a patient follows if with appointments for evaluation of the prescribed plan of treatment you should 
+
+provide the patient with written appointment slip with the date and time of the next session  
+
+a way to evaluate the patient's understanding of educational information is to 
+
+ask for feedback from the patient 
+
+when providing patient education you should 
+
+encourage question from the patient 
+
+one factor that is a positive contribution to the patient's learning process is 
+
+having family support 
+
+the patient's mental and physical abilities are referred to as 
+
+psychomotor 
+
+the domain of learning that includes values attitudes and opinions is referred to as 
+
+affective 
+
+when assigned to answering the telephone in physician office 
+
+you should be able to determine which calls are routine non-emergent situations 
+
+the style of speaking and enunciating words is referred to as 
+
+diction 
+
+when answering phones during a busy time of day it is only appropriate to place a caller on hold after you ask the following 
+
+will you please hold?
+
+which of the following is a phone call that ordinarily does not require the party to speak directly to the physician 
+
+a pharmacist calls to verify information written on a prescription form 
+
+the transmission of hard copy of a written document through a phone line is called 
+
+facsimile 
+
+the primary purpose of screening telephone calls is to 
+
+a mange the physician time by referring only necessary calls 
+
+the physician has asked you to contact a patient to schedule a return office visit to discuss laboratory results. the patient is not available when you call. it is appropriate to. 
+
+try to reach the patient later but also send a letter with info 
+
+when assigned to work in the reception area of the office you should attempt to answer all incoming telephone calls 
+
+by the third ring 
+
+which of the following is an appropriate standard opening for an incoming call to the physician's office 
+
+Good Moring, Dr's office 
+
+when transferring a patient call to the physician you should 
+
+have the patient's medical record available for the physician 
+
+after a caller has been placed on hold you should make every attempt to respond to the caller within 
+
+30 seconds 
+
+when dealing with a difficult caller you should 
+
+determine the problem and the appropriate staff member who can help the caller 
+
+when a patient calls with a list of symptoms including fever chills and body aches that have lasted for the past several days you should  
+
+offer the patient an appointment to see physician
+
+an electronic device that takes in stores retrieves and processes data is a 
+
+computer 
+
+a computer program that tells the computer what to do is the 
+
+Software
+
+the federal Gov. enacted a standard practice for confidentiality and release of patient information as it applies to computers. this information is found in the federal register under the abbreviation  
+
+HIPAA
+
+when you are focusing on the conversation of the telephone call and ignoring outside distractions you are 
+
+actively listening 
+
+when routing a caller to another person you should 
+
+provide the phone number or extension to which you are transferring the caller in case the call is disconnected  
+
+to comply with the HIPAA requirements when using a computer you should remember to do the following 
+
+change passwords frequently. protect computers from illegal access with appropriate security devices. ensure computer screen are not in view of unauthorized persons. turn off the computer when not in use
+
+which of the following is a necessary quality for a good telephone voice  
+
+speaking clearly and saying words correctly 
+
+when an unidentified callers insists on speaking with the physician the medical assistants should 
+
+tell the caller that the physician is with a patient and you need a name and number do the call can be returned 
+
+the proper way to deal with an emergency call is to 
+
+keep the caller on the line while contacting the emergency medical system on another phone line if the office has multiple phone line 
+
+telephone calls that the medical assistant or medical administrative specialist may handle including the following 
+
+refilling prescriptions verified by the physician. scheduling procedures at other medical facilities. answering patient financial statement question. confirming the time of an appointment for a patient.
+
+to maintain telephone confidentiality the medical assistant or medical administrative specialist must 
+
+give information only to authorized persons 
+
+which of the following is not a device used to save computer data 
+
+HTTP
+
+yahoo is an example of an internet 
+
+search engine
+
+a patient history processed on computer would most likely be saved in what type of file 
+
+DOC
+
+equipment needed for medical transcription is a 
+
+computer 
+
+the correct spelling of heavy uncontrolled bleeding is 
+
+hemorrhage
+
+when setting up the appointment book by crossing off all times that will not be used for patient visits this is known as setting up the 
+
+matrix 
+
+which of the following is a guide line that applies to using the appointment book 
+
+write or print clearly and make corrections neatly 
+
+what is one constitutes a higher level of urgency appointment 
+
+a 55 years old man with difficulty breathing 
+
+the process a double booking in appointment scheduling means that 
+
+two or more patients are scheduled at the same time 
+
+if the physician is delayed in arriving at the office for appointments you should 
+
+offer the waiting patients an opportunity to reschedule 
+
+when making an appointment over the telephone for a new patient it is important to secure the following information 
+
+patients insurance provider 
+
+when a specific number of patients usually four is scheduled at the beginning of the same hour this is known as 
+
+wave scheduling 
+
+when setting a series of repeat appointments for a patient it is best to 
+
+set the appointments at the same time on the same day of the week to enhance patient compliance
+
+the most critical aspect of the appointment book is that 
+
+the book is treated as a legal document because it may be subpoenaed 
+
+the most common type of scheduling is 
+
+time specific scheduling 
+
+the abbreviation used in scheduling to designate a patient who has never been seen in the office before is 
+
+NP: new patient 
+
+the reason for documenting a failed appointment in a file is to 
+
+note all missed appointments in the event further action need to take place 
+
+the type of scheduling used in a medical practice primarily depends on the 
+
+physician preference
+
+which of the following is the least important concern when scheduling special procedures.
+
+the amount of insurance copay 
+
+a patient calls and requests an appointment immediately. what should be the first question you ask
+
+what are your symptoms and how long have you had them 
+
+when setting a return appointment for a patient it is best to 
+
+offer the patient a specific time and date 
+
+what are the scheduling duties 
+
+setting up the matrix of the appointment book. ' calling patients to remind them of their appointments. documenting any missed or rescheduled appointment in the patient record
+
+when calling a hospital to schedule inpatient surgery the information not necessary to have before the call is 
+
+patient insurance copayment 
+
+a tickler file is a 
+
+filing system used as a reminder of things to do by a certain date and time 
+
+a "walk-in" patient is one who 
+
+arrives at the office without an appointment but wants to be seen 
+
+when a patient needs a return appointment  to discuss laboratory or x-ray finding with physician, you should
+
+call the lab to find out when the results will be available and make the return visit based on that date
+
+what type of scheduling is typical of an urgent care center
+
+tidal wave scheduling
+
+the primary purpose of a patient flow analysis is to
+
+determine the efficiency of the practice
+
+when scheduling an in patients procedure the reason for scheduling the admission separate from the actual procedure is to
+
+reserve hospital bed
+
+electronic appointment scheduling is
+
+held  to HIPAA standards
+
+when adding medical records to a patient's chart you should 
+
+ensure that the physician’s  has initiated all reported before they are inserted into the chart
+
+the most common method of documentation for a patient medical record is
+
+SOAP
+
+when filling numerically using the terminal digit filing method what is the proper sequence for filing these numbers
+
+831140,381249, 105449, 943650
+
+what are the guide lines for alphabetical filing
+
+when a last name has a hyphen it is filed as the hype were not there
+
+when a paper medical record is in use a folder inserted on the shelf in place of the medical record file is a
+
+out guide
+
+one of the "Cs" of charting includes
+
+clear
+
+the "p" in the SOAP method of charting includes
+
+plan for tests and treatments
+
+if filing using reverse chronological order, which of the following is in the correct sequence
+
+office visit entries from June 2010 would be in front visit from December 2008
+
+the proper procedure to correct an error in a patient's chart is to
+
+a date and sign the correction
+
+of the following which would come first in alphabetic filing? fisher. bill
+
+fischer, William
+
+fishar. bob
+
+fischer,bob
+
+the golden rule" in documentation is
+
+if it is not documented it was not done
+
+determining the organization of the medical record and sequence of filing is dependent on
+
+type of practice
+
+physician preference
+
+frequency of access
+
+a system of filing made of combination of numbers and letters is
+
+alphanumeric filing
+
+the pages of the medical record contained within the patient file are the property of the 
+
+physician 
+
+indexing rules for alphabetic filing are
+
+treat 
+
+Advertisement
+
+
+
+
+
+
+
+
+
+Be able to describe each procedure from start to finish as if you’ve done it yourself. Watch videos for all of them: all CLIA-waived tests, all ways of taking blood (capillary, venipuncture), injections, allergy tests, and the methods for each age group.
+
+Forget about the numerical values you learned from your textbook. Instead, memorize the values in the NHA Study Guide and on my quizlets linked above.
+
+Know vitamins and minerals, what foods you can get them from, and their purpose (spend time sparingly on this because it will only be one or two questions). For example: Would you get more fiber from fruit or cereal? What mineral/vitamin/diet would you recommend for someone who has xyz disease?
+
+Know your medications: what each medication is for, what type of medication it is, and what general symptoms you’d expect (one or two questions).
+
+What kind of doctor treats xyz disease?
+
+What pathogen causes each disease, its type (fungal, bacterial, parasitic, viral), how it is transmitted (contact, bloodborne, airborne), what PPE you would need, and its symptoms.
+
+Know your medical terminology to figure out if a given surgery is a removal of, creation of, etc.
+
+Use your medical terminology to describe a disease given the meaning of its suffix and prefix. Do you know what a suffix and prefix is?
+
+What supplies would you need for a test or procedure? For example: suturing, removal of sutures, CLIA waived tests, cryosurgery, and physical exam. What are the different kinds of tools for surgical procedures (e.g., forceps, probe, scissors)?
+
+What position to be in for every procedure and in what circumstances do you change into what position (e.g., supine, fowlers, sims, knee chest, recumbent).
+
+Know each quadrant and what organs are in each quadrant (RUQ, LUQ, RLQ, LLQ), anatomical positions, planes, and what organ belongs to what system. For example: Pancreas (digestion and endocrine), Thymus (endocrine and immune).
+
+When vitals are bad (normal vs critical values).
+
+How to give CPR, how many compressions, breaths, etc.
+
+How to write a letter in: Block, Modified Block, Simplified Block, and Modified Block with Indented Paragraphs. Know where the letterhead, date (formatted January 1, 2020), inside address, salutation, body, complimentary close, and signature block goes on each and how much spacing is in between.
+
+Know the exact purpose of ICD-10 vs CPT, modifiers, fraud, and how many letters and alphanumeric items are present in each place. Upcoding (code creep, overbilling, overcoding), bundled coding, usual fee, customary fee, reasonable fee, capitation, category I, II, III codes, and phantom billing. Who do you report to for fraud? Who do you report to for unsecured PHI? What is the difference between ePHI and PHI? Who governs both? This is just the bare minimum for what you should know with admin!
+
+Legal terms: Libel, Defamation, Tort Law
+
+Always reflect the patient’s point of view back to them for active listening
+
+Know EKG from the NHA Study Guide in detail. Know leads I, II, III, AVR, AVF, AVL, and V1, V2, V3, V4, V5, V6. Know their color and where they go. Which ones are unipolar, bipolar, and precordial? Know all the arrythmias and in what circumstances they happen. Know how to get HR from a EKG strip (The 1500 Method: Count the number of small boxes between two successive R waves and divide this number into 1500 to obtain heart rate) If that is too hard, try this video instead.
+
+Chain of Infection
+
+Drug testing, DNA paternity testing, what that is called and special precautions
+
+Study the administrative section. Questions tend to be random and not all the information can be found in your Study Guide for this particular section. 
+
+Know different organizations and their target population. HHS, CMS, OSHA, Red cross, legal aid society, TJC, Hospice, Meals on Wheels, NAACLS, ACS, AHA, to name a few.
+
+ACO vs PCMH. We have to know the outreach programs to give to patients if they need help because of the shift to PCMH and ACO.
+
+At what age and how often are routine exams done?
+
+SOAP notes:
+
+POMR: Problem oriented documentation is organized by: database (medical history, lab results, review of systems, CC), problem list (patient’s condition), educational, diagnostic, tx plan (rx and lab orders, tx plan), progress notes (progress notes on every problem listed in chronological order).
+
+CHEDDAR: CC, history, exam, detail of the problems, drugs and dosage, assessment, return visit or referral.
+
+RACE:
+
+Rescue all patients, visitors, employees, staff and volunteers from immediate danger.
+
+Alarm by pulling the closest fire pull-station and by dialing 811 or 77 (or 911 in offcampus and leased facilities) and reporting the location of the fire.
+
+Confine the area by closing all doors.
+
+Extinguish the fire if the fire is small (use P.A.S.S). Evacuate patients from the area if instructed to do so by fire officials or hospital leadership.
+
+What organization governs emergencies?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Major Content Area Performance
+
+ Summary Major Content Area Number of Items Performance Category Foundational Knowledge and
+
+
+
+ Basic Science                                               15 questions
+
+ Anatomy and Physiology                           12 questions
+
+Clinical Patient Care                                    81 questions
+
+General Patient Care                                   46 questions
+
+ Infection Control                                         12 questions
+
+Testing and Laboratory Procedures           8 questions
+
+Phlebotomy                                                   10 questions
+
+ EKG and Cardiovascular Testing                  8 questions
+
+Patient Care Coordination and Education  25 questions 
+
+Administrative Assisting                                 20 questions
+
+ Communication and Customer Service       8 questions
+
+ Medical Law and Ethics                                 7 questions
+
+
+
+
+
+
+
+
+
+Under HIPAA  EX: libel defamation tort law, slander 
+
+
+
