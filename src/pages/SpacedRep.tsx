@@ -36,7 +36,8 @@ export function SpacedRep({ cards }: { cards: Card[] }) {
 
   useEffect(() => {
     function onKey(e: KeyboardEvent) {
-      if (!flipped) { if (e.key === ' ') { e.preventDefault(); setFlipped(true); } return; }
+      if (e.key === ' ') { e.preventDefault(); setFlipped((f) => !f); return; }
+      if (!flipped) return;
       if (e.key === '1') rate(0);
       if (e.key === '2') rate(1);
       if (e.key === '3') rate(2);
@@ -75,7 +76,7 @@ export function SpacedRep({ cards }: { cards: Card[] }) {
         <span>Interval: {state.interval}d · EF: {state.easeFactor.toFixed(2)}</span>
       </div>
 
-      <div className="card-flip h-64 cursor-pointer select-none" onClick={() => !flipped && setFlipped(true)}>
+      <div className="card-flip h-64 cursor-pointer select-none" onClick={() => setFlipped((f) => !f)}>
         <div className={`card-inner w-full h-full ${flipped ? 'flipped' : ''}`}>
           <div className="card-face w-full h-full bg-white dark:bg-gray-900 rounded-2xl border border-gray-200 dark:border-gray-800 shadow-sm flex flex-col items-center justify-center p-6 gap-3">
             <span className="text-xs text-indigo-500 font-medium">{card.category}</span>
