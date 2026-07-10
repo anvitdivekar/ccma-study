@@ -136,22 +136,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "1616f032-f001-4383-bbfe-5b9a2fd13496",
-    "term": "Hemothorax",
-    "definition": "blood in thoracic cavity (chest); internal bleeding",
-    "type": "term",
-    "category": "Cardiovascular",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "08cae229-8552-4bdd-9191-a52fe678d4f8",
-    "term": "Amenorrhea",
-    "definition": "without (a) menses (meno) flow (rrhea); without menstrual flow",
-    "type": "term",
-    "category": "OB/GYN",
-    "difficulty": "unrated"
-  },
-  {
     "id": "4312bc6e-6580-462b-8c59-f93d5793cb81",
     "term": "Hemoconcentration",
     "definition": "blood (hemo) thick (concentration)",
@@ -250,7 +234,7 @@
   {
     "id": "2c35fbbc-2628-499a-b11c-7219037e9955",
     "term": "Percussion",
-    "definition": "to tap",
+    "definition": "A physical examination technique in which the clinician taps a body surface (usually with fingers) to assess underlying structures by the sound produced; used to detect fluid, air, or solid masses.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -309,14 +293,6 @@
     "definition": "review the BP section in Ch 1.",
     "type": "term",
     "category": "Vital Signs",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "7cdad6c6-c753-4865-bacd-a095fce58605",
-    "term": "Cirrhosis",
-    "definition": "liver disease",
-    "type": "term",
-    "category": "GI/Digestive",
     "difficulty": "unrated"
   },
   {
@@ -626,7 +602,7 @@
   {
     "id": "474cff3b-d523-44d0-994d-b080284fc4df",
     "term": "IV",
-    "definition": "25 deg",
+    "definition": "Intravenous — administration of fluids, medications, or blood directly into a vein. Standard IV catheter insertion angle is approximately 15–30 degrees.",
     "type": "mnemonic",
     "category": "General",
     "difficulty": "unrated"
@@ -648,14 +624,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "acc57423-24ee-41a8-bae1-8ab1e4c23896",
-    "term": "Edema",
-    "definition": "abnormal accumulation of fluid~ your finger will form a pit",
-    "type": "term",
-    "category": "Patient Positioning",
-    "difficulty": "unrated"
-  },
-  {
     "id": "c6b29d10-24d8-43b9-b251-f88a0778eb9e",
     "term": "Parenteral",
     "definition": "injection ONLY (ex: IV, ID, IM, Glute, Subq or Subc)",
@@ -673,9 +641,9 @@
   },
   {
     "id": "d39a5ca9-8a36-4d89-9f7c-f6cd1cc03e61",
-    "term": "CMS~ center for Medicaid and Medicare services.",
-    "definition": "CMS~ center for Medicaid and Medicare services.",
-    "type": "note",
+    "term": "CMS (Centers for Medicare & Medicaid Services)",
+    "definition": "Federal agency administering Medicare, Medicaid, and CHIP. Sets standards for healthcare billing, quality, and the 1500 claim form used by medical offices.",
+    "type": "term",
     "category": "Regulatory Bodies",
     "difficulty": "unrated"
   },
@@ -805,14 +773,6 @@
     "definition": "Parkinson Disease how can one identify the disease along with somatic tremors, with association of shuffled gait(walk)",
     "type": "note",
     "category": "ECG/EKG",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "313d72e0-164e-4d00-b0b4-97d9039d8b44",
-    "term": "Chain of infection",
-    "definition": "6 links: (1) Infectious agent (pathogen), (2) Reservoir (where it lives), (3) Portal of exit (how it leaves), (4) Mode of transmission (contact/droplet/airborne/vector), (5) Portal of entry (how it enters new host), (6) Susceptible host. Breaking any link stops infection.",
-    "type": "note",
-    "category": "Infection Control",
     "difficulty": "unrated"
   },
   {
@@ -979,14 +939,6 @@
     "id": "a683a1b5-7134-4296-a8ef-42275620f61a",
     "term": "Stroke",
     "definition": "type of CVA; lack of oxygen to brain",
-    "type": "term",
-    "category": "Cardiovascular",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "d8a1249e-04cf-4ba2-9c6a-cae676a2972e",
-    "term": "Aneurysm",
-    "definition": "type of CVA; ballooning/bulging of artery in brain. Can cause a stroke",
     "type": "term",
     "category": "Cardiovascular",
     "difficulty": "unrated"
@@ -1384,14 +1336,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "db7a77d7-56e5-4df7-bbb1-41434e5f0175",
-    "term": "q4h",
-    "definition": "every 4 hours",
-    "type": "term",
-    "category": "Medical Abbreviations",
-    "difficulty": "unrated"
-  },
-  {
     "id": "1851bd73-65da-4683-91f1-6965b5c8f44c",
     "term": "q4h",
     "definition": "Every 4 hours (from Latin \"quaque 4 hora\"). Common medication dosing abbreviation. Related: qh = every hour, q6h = every 6 hours, q8h = every 8 hours, BID = twice daily, TID = three times daily, QID = four times daily.",
@@ -1410,7 +1354,7 @@
   {
     "id": "92672dd8-e83f-4ae9-88ea-745028e13356",
     "term": "ETOH",
-    "definition": "ethanol",
+    "definition": "Ethanol (alcohol) — abbreviation used in medical records. Often documented in patient history regarding alcohol consumption or intoxication. Example: \"ETOH abuse\" means alcohol use disorder.",
     "type": "mnemonic",
     "category": "Medical Abbreviations",
     "difficulty": "unrated"
@@ -1424,17 +1368,9 @@
     "difficulty": "unrated"
   },
   {
-    "id": "8385d953-e5fc-4f43-9d65-a31dc346571a",
-    "term": "Rx",
-    "definition": "prescription",
-    "type": "term",
-    "category": "Medications",
-    "difficulty": "unrated"
-  },
-  {
     "id": "d782921f-8101-4bad-aba7-67b7e2f33e7e",
     "term": "Hx",
-    "definition": "history",
+    "definition": "History — abbreviation used in medical documentation to refer to a patient's past medical history (PMH), including prior illnesses, surgeries, medications, and allergies.",
     "type": "term",
     "category": "Medical Abbreviations",
     "difficulty": "unrated"
@@ -1450,7 +1386,7 @@
   {
     "id": "aa843faa-8b94-43c7-a0e8-8d2308dcde7a",
     "term": "Bx",
-    "definition": "biopsy",
+    "definition": "Biopsy — the removal of a tissue sample from the body for laboratory examination to determine the presence, cause, or extent of disease, especially cancer.",
     "type": "term",
     "category": "Medical Abbreviations",
     "difficulty": "unrated"
@@ -1468,30 +1404,6 @@
     "term": "Rx",
     "definition": "Prescription. From Latin \"recipe\" (take). Written at top of prescription orders. Rx = prescription drug (requires physician order). OTC = over-the-counter (no prescription needed). Rx also used as abbreviation for \"treatment\" in general medical context.",
     "type": "note",
-    "category": "Medical Abbreviations",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "b621c55a-f9cd-4d22-8e58-5b35bacbe9cc",
-    "term": "Hx",
-    "definition": "Medical history. Includes: chief complaint, history of present illness (HPI), past medical history (PMH), family history (FH), social history (SH), allergies, medications, review of systems (ROS). Collected during patient intake by MA. Also used standalone: Hx = history.",
-    "type": "note",
-    "category": "Medical Abbreviations",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "e91009e4-047d-4d64-9ada-1b3df421f380",
-    "term": "Sx",
-    "definition": "symptoms",
-    "type": "term",
-    "category": "Medical Abbreviations",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "964f5b71-3c1a-4f27-9901-67cd1ed43a4e",
-    "term": "Dx",
-    "definition": "diagnosis",
-    "type": "term",
     "category": "Medical Abbreviations",
     "difficulty": "unrated"
   },
@@ -1576,14 +1488,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "ea1d25e1-2473-49ad-9155-7c53c649b5d6",
-    "term": "cc",
-    "definition": "cubic cm",
-    "type": "term",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "3962791f-b5e5-4712-9267-10db5b246c39",
     "term": "MMR",
     "definition": "measles, mumps, rubella",
@@ -1603,14 +1507,6 @@
     "id": "e81f642e-1574-439e-b2b0-ec0d30231177",
     "term": "ENT",
     "definition": "ear, nose, throat",
-    "type": "mnemonic",
-    "category": "Medical Abbreviations",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "4d92b185-43dc-4dac-9e58-d7cac14ed061",
-    "term": "VDRL",
-    "definition": "venereal disease research lab",
     "type": "mnemonic",
     "category": "Medical Abbreviations",
     "difficulty": "unrated"
@@ -1653,14 +1549,6 @@
     "definition": "automated external defibrillator",
     "type": "mnemonic",
     "category": "ECG/EKG",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "28f2b99a-c0e7-48e9-b03f-a91abe545063",
-    "term": "TB",
-    "definition": "tuberculosis",
-    "type": "mnemonic",
-    "category": "Blood Draw",
     "difficulty": "unrated"
   },
   {
@@ -1746,7 +1634,7 @@
   {
     "id": "4e5c24a4-c6b3-4397-9a68-397d4790865b",
     "term": "Purulent",
-    "definition": "puss",
+    "definition": "Containing, consisting of, or discharging pus; indicative of bacterial infection. Purulent drainage is typically thick, yellow-green, and foul-smelling.",
     "type": "term",
     "category": "Dermatology",
     "difficulty": "unrated"
@@ -1898,7 +1786,7 @@
   {
     "id": "ec360c53-1fdd-4365-9355-275fe81c2350",
     "term": "Male: 0",
-    "definition": "17mm/hr",
+    "definition": "Erythrocyte Sedimentation Rate (ESR) normal range for males: 0–17 mm/hr. ESR measures how quickly red blood cells settle in a tube; elevated in inflammation.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -1906,7 +1794,7 @@
   {
     "id": "469cd728-ff5a-45a2-90ae-fafbe50d0dce",
     "term": "Female: 0",
-    "definition": "27mm/hr",
+    "definition": "Erythrocyte Sedimentation Rate (ESR) normal range for females: 0–27 mm/hr. Higher than male range; both increase with age and in inflammatory conditions.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -1954,7 +1842,7 @@
   {
     "id": "0f5acd52-2195-4b23-a61a-c2e49cc1b374",
     "term": "Drugs metabolize where",
-    "definition": "liver",
+    "definition": "Most drugs are metabolized (broken down) in the liver by cytochrome P450 enzymes. The kidneys then excrete the metabolites in urine.",
     "type": "term",
     "category": "Medications",
     "difficulty": "unrated"
@@ -2097,10 +1985,10 @@
   },
   {
     "id": "8bd6eda1-e62e-45c3-a3e1-f330d06ccf9a",
-    "term": "Green = lower right rib margin over bone",
-    "definition": "Green = lower right rib margin over bone",
-    "type": "note",
-    "category": "Anatomy & Terminology",
+    "term": "ECG limb lead — RL (Right Leg)",
+    "definition": "Green electrode = Right Leg (RL). Placed on the right lower leg/ankle area. Serves as a ground lead in the 12-lead ECG; does not record cardiac activity directly.",
+    "type": "term",
+    "category": "ECG/EKG",
     "difficulty": "unrated"
   },
   {
@@ -2162,7 +2050,7 @@
   {
     "id": "9c35b15b-b516-424e-8af1-f3bcb10a6eac",
     "term": "Precordial leads",
-    "definition": "V1-V6",
+    "definition": "The six chest (precordial) leads of an ECG: V1, V2, V3, V4, V5, and V6. They measure electrical activity of the heart in the horizontal plane.",
     "type": "term",
     "category": "ECG/EKG",
     "difficulty": "unrated"
@@ -2216,14 +2104,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "d7095a19-3539-4b85-b360-3edb3e87e5cd",
-    "term": "Peristalsis",
-    "definition": "involuntary wavelike movement of muscles",
-    "type": "term",
-    "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
     "id": "83f0c178-0dba-49cf-9c09-245dbf78f582",
     "term": "DTAP",
     "definition": "vaccine for diphtheria, TB, pertussis",
@@ -2245,14 +2125,6 @@
     "definition": "histology dept. is where you have it to send it to be test and read",
     "type": "term",
     "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "51252494-eb95-43da-b073-cb0ad7941291",
-    "term": "So study all departments in google doc",
-    "definition": "So study all departments in google doc",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
@@ -2293,14 +2165,6 @@
     "definition": "largest part of the brain",
     "type": "term",
     "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "5cd5a1a2-3189-4f82-bfdf-2fcd258acba2",
-    "term": "Presbyopia",
-    "definition": "loss of near sighted vision; referring to older patients",
-    "type": "term",
-    "category": "Ophthalmology",
     "difficulty": "unrated"
   },
   {
@@ -2402,7 +2266,7 @@
   {
     "id": "8e8cf187-1cf9-4406-9da2-90431398eaae",
     "term": "Colored part of the eye",
-    "definition": "iris",
+    "definition": "The iris — the pigmented ring-shaped membrane of the eye that controls the size of the pupil and thus the amount of light entering the eye.",
     "type": "term",
     "category": "Ophthalmology",
     "difficulty": "unrated"
@@ -2410,15 +2274,7 @@
   {
     "id": "46ba315d-9766-46bc-96b4-ef4e77aacf42",
     "term": "Bradycardia",
-    "definition": "slow HR",
-    "type": "term",
-    "category": "Vital Signs",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "6bc9e080-4ab3-4620-8b34-e597bc46901a",
-    "term": "Tachycardia",
-    "definition": "fast HR",
+    "definition": "Abnormally slow heart rate, defined as fewer than 60 beats per minute in adults. Symptoms may include fatigue, dizziness, syncope, and shortness of breath.",
     "type": "term",
     "category": "Vital Signs",
     "difficulty": "unrated"
@@ -2474,7 +2330,7 @@
   {
     "id": "be89265d-7bad-4f40-9cb6-99d3b05c5f9a",
     "term": "Stores urine",
-    "definition": "bladder",
+    "definition": "The urinary bladder stores urine produced by the kidneys until it is excreted through the urethra during urination (micturition).",
     "type": "term",
     "category": "Urinalysis",
     "difficulty": "unrated"
@@ -2506,7 +2362,7 @@
   {
     "id": "e158e542-9f95-4467-866f-f4b4ff7d66d9",
     "term": "Not part of the axial skeleton",
-    "definition": "scapula",
+    "definition": "The scapula (shoulder blade) is part of the appendicular skeleton, not the axial skeleton. The axial skeleton includes the skull, vertebral column, and rib cage.",
     "type": "term",
     "category": "Musculoskeletal",
     "difficulty": "unrated"
@@ -2544,14 +2400,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "837979d0-dc33-4349-aa6e-cdb2af92cace",
-    "term": "Rhinitis",
-    "definition": "inflammation of the nose",
-    "type": "term",
-    "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
     "id": "b2af46a4-74b7-417a-ab37-56aef4c3ea01",
     "term": "Stasis",
     "definition": "to stop/control",
@@ -2570,7 +2418,7 @@
   {
     "id": "b15d37ab-ad49-4410-bc80-dbf7cd921ef3",
     "term": "Steno",
-    "definition": "narrow",
+    "definition": "A prefix meaning narrow or constricted. Example: stenosis = abnormal narrowing of a passage or opening (e.g., aortic stenosis).",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -2629,14 +2477,6 @@
     "definition": "across the chest- internal bleeding in the pleural cavity",
     "type": "term",
     "category": "Respiratory",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "3acdbb75-af01-4a2a-b43c-2b7296032166",
-    "term": "Unilateral",
-    "definition": "one side of body",
-    "type": "term",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
@@ -2802,7 +2642,7 @@
   {
     "id": "cc61eb48-79fe-4eec-b122-46081b0aa582",
     "term": "ECG speed",
-    "definition": "25mm",
+    "definition": "Standard ECG paper speed is 25 mm/second. Each small square = 0.04 sec; each large square = 0.20 sec. Used to calculate heart rate and intervals.",
     "type": "term",
     "category": "ECG/EKG",
     "difficulty": "unrated"
@@ -2864,22 +2704,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "7f32cdcc-d8ab-4de9-a7e9-2adac3e49eed",
-    "term": "Know all Vitals and ranges",
-    "definition": "Know all Vitals and ranges",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "1dd3ccd3-8b33-4112-8edc-ef02473b8e61",
-    "term": "Study patient care",
-    "definition": "Study patient care",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "5436ba4b-897c-4453-b7b7-715abf94f5e7",
     "term": "They are NOT going to give you 6 second strip",
     "definition": "12 QRS X 10 = 120",
@@ -2929,14 +2753,6 @@
   },
   {
     "id": "a5d101eb-5edd-4ca1-935d-65ff3409741d",
-    "term": "unilateral",
-    "definition": "Meaning on one side",
-    "type": "term",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "ea4709f4-704f-444a-b5f9-56d90b6ba441",
     "term": "unilateral",
     "definition": "Meaning on one side",
     "type": "term",
@@ -2994,7 +2810,7 @@
   {
     "id": "9c210b5e-79fc-4d36-b677-44036543835d",
     "term": "the prefix ab",
-    "definition": "means",
+    "definition": "Ab- means away from (e.g., abduction = moving a limb away from the midline of the body).",
     "type": "term",
     "category": "Anatomy & Terminology",
     "difficulty": "unrated"
@@ -3010,7 +2826,7 @@
   {
     "id": "88c88a30-e501-40ac-b08b-a6781b32c87b",
     "term": "the prefix peri",
-    "definition": "means",
+    "definition": "Peri- means around or surrounding (e.g., pericardium = the sac surrounding the heart; periosteum = membrane around bone).",
     "type": "term",
     "category": "Anatomy & Terminology",
     "difficulty": "unrated"
@@ -3033,10 +2849,10 @@
   },
   {
     "id": "b3c72878-1fc9-4cd4-a18a-73bea7dbf5b9",
-    "term": "the term cervicofacial pretains to the",
-    "definition": "the term cervicofacial pretains to the",
-    "type": "note",
-    "category": "OB/GYN",
+    "term": "Cervicofacial",
+    "definition": "Pertaining to both the neck (cervic/o) and face (facial). Example: cervicofacial actinomycosis is a jaw/neck bacterial infection.",
+    "type": "term",
+    "category": "Medical Terminology",
     "difficulty": "unrated"
   },
   {
@@ -3145,10 +2961,10 @@
   },
   {
     "id": "02e4b200-9ae7-4e01-9748-a5c9548b4e06",
-    "term": "a term meaning a painful tendon is",
-    "definition": "a term meaning a painful tendon is",
-    "type": "note",
-    "category": "Musculoskeletal",
+    "term": "Tenodynia / Tenalgia",
+    "definition": "A term meaning painful tendon. Commonly caused by tendinitis or overuse. Examples: Achilles tendinitis, patellar tendinopathy.",
+    "type": "term",
+    "category": "Medical Terminology",
     "difficulty": "unrated"
   },
   {
@@ -3184,25 +3000,9 @@
     "difficulty": "unrated"
   },
   {
-    "id": "8b3e0d28-5b74-4542-8d60-2a4f48c423e3",
-    "term": "necrosis",
-    "definition": "Meaning death of tissue or bone",
-    "type": "term",
-    "category": "Regulatory Bodies",
-    "difficulty": "unrated"
-  },
-  {
     "id": "7eed8d41-d465-43d2-b4ec-823702018c74",
     "term": "anteroposterior",
     "definition": "Meaning passing from front to rear",
-    "type": "term",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "63c3c8c6-04e6-4674-99f1-0ffa4e7a56ae",
-    "term": "anteroposterior",
-    "definition": "Meaning passing from to rear",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -3280,14 +3080,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "9998eb04-141a-4545-ae00-81a34f4dce69",
-    "term": "transthorax",
-    "definition": "Meaning across the chest",
-    "type": "term",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "dd45b388-018b-4b8a-bf04-8683fd964687",
     "term": "hyperplasia",
     "definition": "Meaning excessive formation of cells or tissue",
@@ -3313,10 +3105,10 @@
   },
   {
     "id": "251be4dc-f5c1-4353-a111-d629897934bf",
-    "term": "the term nasopharynheal means pretaining to",
-    "definition": "the term nasopharynheal means pretaining to",
-    "type": "note",
-    "category": "General",
+    "term": "Nasopharyngeal",
+    "definition": "Pertaining to the nasopharynx — the upper part of the pharynx behind the nasal cavity. Example: nasopharyngeal airway (NPA), nasopharyngeal swab.",
+    "type": "term",
+    "category": "Medical Terminology",
     "difficulty": "unrated"
   },
   {
@@ -3353,10 +3145,10 @@
   },
   {
     "id": "f3c8aa8d-3521-422f-ad27-4a92b38bc37f",
-    "term": "the toracic and adbominal cavities of the body are separated by the",
-    "definition": "the toracic and adbominal cavities of the body are separated by the",
-    "type": "note",
-    "category": "General",
+    "term": "Diaphragm (thoracic/abdominal separator)",
+    "definition": "The thoracic and abdominal cavities are separated by the diaphragm — a dome-shaped muscular partition that also serves as the primary muscle of respiration.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3393,10 +3185,10 @@
   },
   {
     "id": "a29a419f-08d3-493b-bc38-3d137c547570",
-    "term": "the portion of skeletal bone that manufactures blood cells is the",
-    "definition": "the portion of skeletal bone that manufactures blood cells is the",
-    "type": "note",
-    "category": "Anatomy & Terminology",
+    "term": "Red bone marrow (blood cell production)",
+    "definition": "The portion of skeletal bone that manufactures blood cells via hematopoiesis. Found in flat bones (sternum, pelvis, ribs) and ends of long bones in adults.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3433,10 +3225,10 @@
   },
   {
     "id": "2cf94ffc-843a-4045-917f-eb1deb85ffe9",
-    "term": "a bone that is part of the pelvic gridle is the",
-    "definition": "a bone that is part of the pelvic gridle is the",
-    "type": "note",
-    "category": "Anatomy & Terminology",
+    "term": "Ischium (pelvic girdle bone)",
+    "definition": "A bone forming part of the pelvic girdle. The hip bone (os coxae) consists of three fused bones: ilium, ischium, and pubis.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3449,10 +3241,10 @@
   },
   {
     "id": "8df9bda5-9eec-49b5-b071-2641aa8c916a",
-    "term": "the cellular components of blood include",
-    "definition": "the cellular components of blood include",
-    "type": "note",
-    "category": "General",
+    "term": "Cellular components of blood (formed elements)",
+    "definition": "Erythrocytes (RBCs, carry O2), leukocytes (WBCs, fight infection), and thrombocytes (platelets, aid clotting). Together called formed elements.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3465,10 +3257,10 @@
   },
   {
     "id": "d278a5d0-964b-43fc-b2e6-b51a391b1c76",
-    "term": "the chambers of the heart are the",
-    "definition": "the chambers of the heart are the",
-    "type": "note",
-    "category": "Cardiovascular",
+    "term": "Chambers of the heart",
+    "definition": "Four chambers: right atrium and right ventricle (deoxygenated circuit to lungs); left atrium and left ventricle (oxygenated circuit to body).",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3481,10 +3273,10 @@
   },
   {
     "id": "ab22b03f-1445-40b4-bf35-880e530ba980",
-    "term": "an organ located in the left upper quadrant is the",
-    "definition": "an organ located in the left upper quadrant is the",
-    "type": "note",
-    "category": "Anatomy & Terminology",
+    "term": "Left upper quadrant (LUQ) organs",
+    "definition": "Contains the stomach, spleen, tail of pancreas, left kidney, and portions of the descending colon. Most prominent palpable organ: the spleen.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3505,10 +3297,10 @@
   },
   {
     "id": "7e351ce7-29aa-439e-a8a1-d931dbab8cd3",
-    "term": "the structure in the body also known as the voice box is the",
-    "definition": "the structure in the body also known as the voice box is the",
-    "type": "note",
-    "category": "Sensory Screening",
+    "term": "Larynx (voice box)",
+    "definition": "The structure in the neck known as the voice box. Houses the vocal cords and connects the pharynx to the trachea. Also protects the airway during swallowing.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3544,19 +3336,11 @@
     "difficulty": "unrated"
   },
   {
-    "id": "008d06d0-c0a1-4a53-a986-90448b894f55",
-    "term": "homeostasis",
-    "definition": "That means the body is in a state of equilibrium or balance",
-    "type": "term",
-    "category": "Medical Abbreviations",
-    "difficulty": "unrated"
-  },
-  {
     "id": "0fe723eb-a4b4-4ae2-a272-7c888838d661",
-    "term": "the funnel shaped basin that forms the upper end of the ureter is the",
-    "definition": "the funnel shaped basin that forms the upper end of the ureter is the",
-    "type": "note",
-    "category": "General",
+    "term": "Renal pelvis",
+    "definition": "The funnel-shaped basin forming the upper end of the ureter. Collects urine from the major and minor calyces and funnels it into the ureter for excretion.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3569,10 +3353,10 @@
   },
   {
     "id": "b4f62b52-02fa-480d-9189-04601128dc77",
-    "term": "in both males and females the entire pelvic floor is called the",
-    "definition": "in both males and females the entire pelvic floor is called the",
-    "type": "note",
-    "category": "General",
+    "term": "Perineum (pelvic floor)",
+    "definition": "In both males and females, the entire pelvic floor is called the perineum — the region between the external genitalia and the anus.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3601,34 +3385,18 @@
   },
   {
     "id": "7985bf9a-67c0-42fa-85e9-619c351beb0f",
-    "term": "which of the following body systems include the thyroid and pituitary glands",
-    "definition": "which of the following body systems include the thyroid and pituitary glands",
-    "type": "note",
-    "category": "Endocrine/Diabetes",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "76452fc5-1a62-483a-8be9-2c2375c29769",
-    "term": "Circulatory",
-    "definition": "Circulatory",
-    "type": "note",
-    "category": "General",
+    "term": "Endocrine system glands",
+    "definition": "The endocrine system includes the thyroid gland (regulates metabolism) and pituitary gland (\"master gland\" controlling other endocrine glands), plus adrenal glands, pancreas, and gonads.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
     "id": "3561e67f-c59c-4bcc-82e5-c1c0b50da3cd",
-    "term": "the term inguinal pertains to what area or structure of the body",
-    "definition": "the term inguinal pertains to what area or structure of the body",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "0314a1cf-844e-4ecc-9093-b42e40025945",
-    "term": "groin",
-    "definition": "groin",
-    "type": "note",
-    "category": "General",
+    "term": "Inguinal region",
+    "definition": "Pertains to the groin — the junction of the abdomen and thigh. Clinically important for assessing hernias and inguinal lymph nodes.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3665,10 +3433,10 @@
   },
   {
     "id": "8b67b7a4-9c0f-48cf-a11d-89b6e809003c",
-    "term": "the membrane that surrounds the heart is the",
-    "definition": "the membrane that surrounds the heart is the",
-    "type": "note",
-    "category": "Cardiovascular",
+    "term": "Pericardium (heart membrane)",
+    "definition": "The membrane surrounding and protecting the heart. Consists of a fibrous outer layer and a serous inner layer. Contains pericardial fluid to reduce friction during heartbeats.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3681,10 +3449,10 @@
   },
   {
     "id": "c7fec547-a6b0-40e2-844c-76ee5b1b4cb1",
-    "term": "the small tip of cartilage at the lower end of the sternum is the",
-    "definition": "the small tip of cartilage at the lower end of the sternum is the",
-    "type": "note",
-    "category": "ECG/EKG",
+    "term": "Xiphoid process",
+    "definition": "The small tip of cartilage at the lower end of the sternum. CPR landmark: heel of hand placed just above the xiphoid process during chest compressions.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3729,26 +3497,10 @@
   },
   {
     "id": "9efa1b9c-f422-47e9-a955-3b612653d089",
-    "term": "the space in the brain where cerebrospinal fluid is form are the",
-    "definition": "the space in the brain where cerebrospinal fluid is form are the",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "458508d3-8421-4b02-a034-6352a60dd98f",
-    "term": "Cardiac ventricles",
-    "definition": "Lower two chambers of the heart. Right ventricle: pumps deoxygenated blood to lungs via pulmonary artery. Left ventricle: pumps oxygenated blood to body via aorta (thicker wall, higher pressure). Ventricular fibrillation = life-threatening arrhythmia requiring AED/defibrillation.",
-    "type": "note",
-    "category": "Cardiovascular",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "2eb0ec95-c185-460c-b79c-a981c1a46253",
-    "term": "impulses from the receptors for smell are carried to the brain by the",
-    "definition": "impulses from the receptors for smell are carried to the brain by the",
-    "type": "note",
-    "category": "General",
+    "term": "Ventricles of the brain (CSF)",
+    "definition": "The ventricles (lateral, third, and fourth) are the spaces in the brain where cerebrospinal fluid (CSF) is formed. CSF cushions and nourishes the brain and spinal cord.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3761,10 +3513,10 @@
   },
   {
     "id": "64601308-6d9d-489f-81a2-d868aad4182a",
-    "term": "the hormone that is essential for growth is produced in the",
-    "definition": "the hormone that is essential for growth is produced in the",
-    "type": "note",
-    "category": "Endocrine/Diabetes",
+    "term": "Anterior pituitary — growth hormone source",
+    "definition": "Growth hormone (GH/somatotropin) is produced in the anterior pituitary gland. Stimulates growth of bone and muscle; regulates metabolism.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3777,18 +3529,10 @@
   },
   {
     "id": "b2e4a74a-7315-44a0-89ce-e987a9f747a4",
-    "term": "what represent the layers of the heart",
-    "definition": "what represent the layers of the heart",
-    "type": "note",
-    "category": "Cardiovascular",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "0d8a8a79-9581-4f17-aaf4-2abcd3cc0caf",
-    "term": "endocardium and myocardium",
-    "definition": "endocardium and myocardium",
-    "type": "note",
-    "category": "Anatomy & Terminology",
+    "term": "Layers of the heart",
+    "definition": "Three layers: endocardium (inner smooth lining), myocardium (middle muscular layer that pumps), and pericardium (outer sac). Endocardium and myocardium are the two main structural layers.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3809,10 +3553,10 @@
   },
   {
     "id": "61c1df1b-37ff-4434-aba0-8d68fb1cf21b",
-    "term": "what is the proper sequence for the flow of blood in the body",
-    "definition": "what is the proper sequence for the flow of blood in the body",
-    "type": "note",
-    "category": "General",
+    "term": "Blood flow sequence",
+    "definition": "Deoxygenated blood → right atrium → right ventricle → pulmonary artery → lungs → pulmonary veins → left atrium → left ventricle → aorta → body tissues → vena cava → right atrium.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3833,18 +3577,10 @@
   },
   {
     "id": "41a98bb6-463c-42cc-934c-cc6253ceb57f",
-    "term": "the lymphatic system includes the following organs and tissue",
-    "definition": "the lymphatic system includes the following organs and tissue",
-    "type": "note",
-    "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "2ace0361-1196-491b-a55a-a5c1163ba433",
-    "term": "thymus spleen tonsils adenoids",
-    "definition": "thymus spleen tonsils adenoids",
-    "type": "note",
-    "category": "GI/Digestive",
+    "term": "Lymphatic system organs",
+    "definition": "Thymus, spleen, tonsils, and adenoids — along with lymph nodes and lymphatic vessels distributed throughout the body.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3865,10 +3601,10 @@
   },
   {
     "id": "defa1f9f-50ac-4bac-ba79-ba9104d16b91",
-    "term": "the structure common too the respiratory and digestive systems is the",
-    "definition": "the structure common too the respiratory and digestive systems is the",
-    "type": "note",
-    "category": "Respiratory",
+    "term": "Pharynx (common structure, respiratory & digestive)",
+    "definition": "The pharynx (throat) is common to both respiratory and digestive systems — shared passageway for air (to trachea) and food/liquid (to esophagus).",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3897,10 +3633,10 @@
   },
   {
     "id": "d7b29e6d-3379-413b-9737-42f583bc3ba2",
-    "term": "the leaf shaped cartilage that covers the opening of the larynx is the",
-    "definition": "the leaf shaped cartilage that covers the opening of the larynx is the",
-    "type": "note",
-    "category": "Musculoskeletal",
+    "term": "Epiglottis",
+    "definition": "The leaf-shaped cartilage that covers the laryngeal opening during swallowing, preventing aspiration of food and liquid into the airway.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3913,10 +3649,10 @@
   },
   {
     "id": "56907940-40f7-4940-a8b3-658cdab1a9e6",
-    "term": "most of the digestive process occurs in the",
-    "definition": "most of the digestive process occurs in the",
-    "type": "note",
-    "category": "GI/Digestive",
+    "term": "Small intestine (digestive process)",
+    "definition": "Most of the digestive process (chemical digestion and nutrient absorption) occurs in the small intestine — duodenum, jejunum, and ileum.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3937,10 +3673,10 @@
   },
   {
     "id": "f0402b72-e4ff-4412-ba08-2d9bf1005ad1",
-    "term": "the first portion of the small intestine is the",
-    "definition": "the first portion of the small intestine is the",
-    "type": "note",
-    "category": "GI/Digestive",
+    "term": "Duodenum (first portion of small intestine)",
+    "definition": "The first and shortest segment of the small intestine (~25 cm). Receives chyme from the stomach, plus digestive enzymes from the pancreas and bile from the liver.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3977,10 +3713,10 @@
   },
   {
     "id": "a792a8d8-2934-49d3-ace4-b017e2b9aeb9",
-    "term": "the sex glands of the male and female reproductive system are the",
-    "definition": "the sex glands of the male and female reproductive system are the",
-    "type": "note",
-    "category": "General",
+    "term": "Gonads (sex glands)",
+    "definition": "Testes (male) produce sperm and testosterone; ovaries (female) produce eggs and estrogen/progesterone. The primary reproductive organs.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3993,10 +3729,10 @@
   },
   {
     "id": "38785aa7-b45a-4a98-83f2-f340848eb4fe",
-    "term": "the bone that lives between the hip and the knee is the",
-    "definition": "the bone that lives between the hip and the knee is the",
-    "type": "note",
-    "category": "Anatomy & Terminology",
+    "term": "Femur (thigh bone)",
+    "definition": "The bone between the hip and knee — the femur. Longest and strongest bone in the human body.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4009,10 +3745,10 @@
   },
   {
     "id": "bd5bf919-7fef-4fd1-a015-3289922c8435",
-    "term": "the largest artery in the body is the",
-    "definition": "the largest artery in the body is the",
-    "type": "note",
-    "category": "Cardiovascular",
+    "term": "Aorta (largest artery)",
+    "definition": "The largest artery in the body. Originates from the left ventricle and distributes oxygenated blood to the entire systemic circulation.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4025,10 +3761,10 @@
   },
   {
     "id": "d2538b10-046c-4a09-8b44-b743da35d0d9",
-    "term": "the term that refers to absence of menstrual flow",
-    "definition": "the term that refers to absence of menstrual flow",
-    "type": "note",
-    "category": "OB/GYN",
+    "term": "Amenorrhea",
+    "definition": "Absence of menstrual flow. Primary: never began by age 15. Secondary: ceased for 3+ months in someone who previously had regular periods.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4057,10 +3793,10 @@
   },
   {
     "id": "068951a3-e3d9-49d2-9b55-d6e3712c1653",
-    "term": "the left artioventricular (AV) valve in the heart is also known as the",
-    "definition": "the left artioventricular (AV) valve in the heart is also known as the",
-    "type": "note",
-    "category": "Cardiovascular",
+    "term": "Mitral valve (Bicuspid valve)",
+    "definition": "The left atrioventricular (AV) valve, also called the mitral or bicuspid valve (two leaflets). Controls flow from left atrium to left ventricle.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4073,10 +3809,10 @@
   },
   {
     "id": "3b27b232-ba06-4513-ad4a-5c5230ff107b",
-    "term": "the only artery in the body that carries",
-    "definition": "the only artery in the body that carries",
-    "type": "note",
-    "category": "Cardiovascular",
+    "term": "Pulmonary artery (deoxygenated blood)",
+    "definition": "The only artery in the body carrying deoxygenated blood — from the right ventricle to the lungs for oxygenation. All other arteries carry oxygenated blood.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4089,10 +3825,10 @@
   },
   {
     "id": "ed6757f5-8466-490c-b7cf-dfe385d983f9",
-    "term": "a localized dilation resulting from weakness of a blood vessel wall is a",
-    "definition": "a localized dilation resulting from weakness of a blood vessel wall is a",
-    "type": "note",
-    "category": "General",
+    "term": "Aneurysm",
+    "definition": "A localized dilation (bulge) of a blood vessel wall due to weakness. Most common: abdominal aortic and cerebral aneurysms. Rupture causes life-threatening hemorrhage.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4113,10 +3849,10 @@
   },
   {
     "id": "2ca40190-c915-4c2d-952f-83f43aab472a",
-    "term": "a portion of the large intestine is the",
-    "definition": "a portion of the large intestine is the",
-    "type": "note",
-    "category": "GI/Digestive",
+    "term": "Sigmoid colon (part of large intestine)",
+    "definition": "The S-shaped segment of the large intestine in the lower left abdomen connecting the descending colon to the rectum. Common site of diverticulosis.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4153,10 +3889,10 @@
   },
   {
     "id": "7b4ea7d7-5c5b-4ec9-8cee-3ad76f601b9d",
-    "term": "the innermost layer of the uterus is the",
-    "definition": "the innermost layer of the uterus is the",
-    "type": "note",
-    "category": "OB/GYN",
+    "term": "Endometrium (innermost uterus layer)",
+    "definition": "The innermost layer of the uterus. Thickens each cycle for potential embryo implantation; sheds during menstruation if fertilization does not occur.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4169,18 +3905,10 @@
   },
   {
     "id": "40f5d20b-8a1e-48eb-9de9-1d71a8e38774",
-    "term": "the frontal or coronal plane of the body divides the body into",
-    "definition": "the frontal or coronal plane of the body divides the body into",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "775155a3-b00a-406f-8095-f13b181f829a",
-    "term": "front and rear",
-    "definition": "front and rear",
-    "type": "note",
-    "category": "General",
+    "term": "Frontal (coronal) plane",
+    "definition": "Divides the body into anterior (front) and posterior (rear) sections.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4233,10 +3961,10 @@
   },
   {
     "id": "0097735c-7b7b-4be7-a88d-91aded3bb105",
-    "term": "which of the following is not one of the cranial bones",
-    "definition": "which of the following is not one of the cranial bones",
-    "type": "note",
-    "category": "Anatomy & Terminology",
+    "term": "Non-cranial bone (mandible)",
+    "definition": "The mandible (lower jaw) is NOT a cranial bone — it is a facial bone. The 8 cranial bones are: frontal, 2 parietal, 2 temporal, occipital, sphenoid, ethmoid.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4289,18 +4017,10 @@
   },
   {
     "id": "3be4997b-72de-412f-bfc9-d930ecf4091d",
-    "term": "the sympathetic system of the autonomic nervous system is responsible for",
-    "definition": "the sympathetic system of the autonomic nervous system is responsible for",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "46e26857-4b0c-491c-8450-159cc03a0605",
-    "term": "dilation of bronchi of the lungs",
-    "definition": "dilation of bronchi of the lungs",
-    "type": "note",
-    "category": "Respiratory",
+    "term": "Sympathetic nervous system (fight-or-flight)",
+    "definition": "Dilates bronchi of the lungs, increases heart rate, elevates blood pressure, dilates pupils, and decreases digestive activity.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4321,26 +4041,18 @@
   },
   {
     "id": "b69abc72-2e0d-43f2-b375-eae33e391294",
-    "term": "strabismus is condition of the eye causing",
-    "definition": "strabismus is condition of the eye causing",
-    "type": "note",
-    "category": "Ophthalmology",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "f3765e42-7d6b-4344-8029-c8e354fe4ad8",
-    "term": "cross eye appearance",
-    "definition": "cross eye appearance",
-    "type": "note",
-    "category": "General",
+    "term": "Strabismus",
+    "definition": "Eye misalignment causing cross-eye appearance; both eyes do not focus on the same point simultaneously. Treated with corrective lenses, patching, or surgery.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
     "id": "51a7a2e8-47f3-40fd-9e52-dcdc6acbafb3",
-    "term": "a structure found in the inner ear is the",
-    "definition": "a structure found in the inner ear is the",
-    "type": "note",
-    "category": "General",
+    "term": "Cochlea (inner ear structure)",
+    "definition": "A structure in the inner ear. The cochlea is the spiral-shaped organ responsible for hearing; the semicircular canals (also inner ear) control balance.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4353,10 +4065,10 @@
   },
   {
     "id": "9c5f154e-d8c4-4cc6-9e5a-3815c1aca92c",
-    "term": "the cluster of cells called the islets of Langerhans are located in the",
-    "definition": "the cluster of cells called the islets of Langerhans are located in the",
-    "type": "note",
-    "category": "General",
+    "term": "Islets of Langerhans location",
+    "definition": "Located in the pancreas. Alpha cells secrete glucagon (raises blood glucose); beta cells secrete insulin (lowers blood glucose).",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4369,10 +4081,10 @@
   },
   {
     "id": "c80b680b-ead2-4436-a3ec-8a5b61f15af2",
-    "term": "a goiter is associated with abnormal function of the",
-    "definition": "a goiter is associated with abnormal function of the",
-    "type": "note",
-    "category": "General",
+    "term": "Goiter (thyroid)",
+    "definition": "Enlargement of the thyroid gland. Associated with abnormal thyroid function — caused by iodine deficiency, Graves' disease (hyperthyroidism), or Hashimoto's (hypothyroidism).",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4393,10 +4105,10 @@
   },
   {
     "id": "1e0df51b-fee9-4918-992d-8838072dc25b",
-    "term": "the area of the heart that initiates a heartbeat is the",
-    "definition": "the area of the heart that initiates a heartbeat is the",
-    "type": "note",
-    "category": "Cardiovascular",
+    "term": "SA node (sinoatrial node) — heart pacemaker",
+    "definition": "The SA node, located in the right atrium, is the area that initiates each heartbeat. It is the heart's natural pacemaker, firing at 60–100 bpm at rest.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4417,10 +4129,10 @@
   },
   {
     "id": "a5109c81-029f-45fa-b68b-8af75319c9f6",
-    "term": "which of the following blood vessels is proximal to the heart",
-    "definition": "which of the following blood vessels is proximal to the heart",
-    "type": "note",
-    "category": "Cardiovascular",
+    "term": "Aorta/Vena cava (proximal to heart)",
+    "definition": "The aorta (largest artery, exits left ventricle) and superior/inferior vena cava (largest veins, enter right atrium) are the blood vessels most proximal to the heart.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4441,34 +4153,18 @@
   },
   {
     "id": "baee545d-5353-4953-a249-60ecca12ece4",
-    "term": "the human immunodeficiency virus is the cause of which disease",
-    "definition": "the human immunodeficiency virus is the cause of which disease",
-    "type": "note",
+    "term": "HIV (Human Immunodeficiency Virus)",
+    "definition": "The cause of AIDS (Acquired Immunodeficiency Syndrome). Attacks CD4+ T-helper cells, progressively weakening the immune system.",
+    "type": "term",
     "category": "Infection Control",
     "difficulty": "unrated"
   },
   {
-    "id": "6111fca8-7b0c-4f10-b286-ff46e1b8a11a",
-    "term": "acquired immunodeficiency syndrome",
-    "definition": "acquired immunodeficiency syndrome",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "40a766e1-6155-4955-8635-fb70a11aec5b",
-    "term": "what is the best accurate about the lungs",
-    "definition": "what is the best accurate about the lungs",
-    "type": "note",
-    "category": "Respiratory",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "a2dc90e1-7202-43ff-9eeb-0368bc67ce85",
-    "term": "the sac covering the lungs is the pleural sac",
-    "definition": "the sac covering the lungs is the pleural sac",
-    "type": "note",
-    "category": "Respiratory",
+    "term": "Pleural sac",
+    "definition": "The sac (pleura) covering the lungs. The pleural cavity contains thin fluid that reduces friction during breathing. The right lung has three lobes; the left has two.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4545,26 +4241,10 @@
   },
   {
     "id": "02eea9c8-3f1e-4e1d-b248-f13246dde423",
-    "term": "the region located directly below the umbilical region is the",
-    "definition": "the region located directly below the umbilical region is the",
-    "type": "note",
-    "category": "Musculoskeletal",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "15043114-7eaf-4f5f-bcd0-dfd7ae393fb2",
     "term": "Hypogastric (pubic) region",
-    "definition": "Central lower abdominal region below the umbilical region. Contains: urinary bladder, uterus (females), sigmoid colon. Pain here may indicate UTI, bladder infection, or reproductive organ issues.",
-    "type": "note",
-    "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "66d762c4-6883-4522-bcf3-5b6d87fbe5d0",
-    "term": "sebaceous glands",
-    "definition": "An example of exocrine glands",
+    "definition": "Located directly below the umbilical region in the lower middle abdomen. Contains the urinary bladder, uterus (in females), and sigmoid colon.",
     "type": "term",
-    "category": "General",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4593,10 +4273,10 @@
   },
   {
     "id": "013dfce3-8420-4726-be2d-b2ff67c615d2",
-    "term": "the artery located in the upper arm is the",
-    "definition": "the artery located in the upper arm is the",
-    "type": "note",
-    "category": "Cardiovascular",
+    "term": "Brachial artery (upper arm)",
+    "definition": "The major artery of the upper arm. Used to measure blood pressure with a sphygmomanometer; pulse felt in the antecubital fossa (elbow crease).",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4609,10 +4289,10 @@
   },
   {
     "id": "e2cf1b1d-3109-44f3-a85c-abc9f0ded16f",
-    "term": "any foregin substance that enters the body and induces an immune response is a",
-    "definition": "any foregin substance that enters the body and induces an immune response is a",
-    "type": "note",
-    "category": "General",
+    "term": "Antigen",
+    "definition": "Any foreign substance entering the body that triggers an immune response and stimulates antibody production. Examples: bacteria, viruses, pollen, incompatible blood type antigens.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4625,10 +4305,10 @@
   },
   {
     "id": "7baf9663-28e7-4b02-9a37-fc35ee781107",
-    "term": "the smaller leg bone lateral to the tibia is the",
-    "definition": "the smaller leg bone lateral to the tibia is the",
-    "type": "note",
-    "category": "Patient Positioning",
+    "term": "Fibula (lateral leg bone)",
+    "definition": "The smaller bone lateral to the tibia in the lower leg. Non-weight-bearing; provides muscle and ligament attachment points. Forms the lateral malleolus at the ankle.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4641,10 +4321,10 @@
   },
   {
     "id": "33503816-1679-427e-91d9-e01a4634218b",
-    "term": "the small pouch that is the first part of the large intestine is the",
-    "definition": "the small pouch that is the first part of the large intestine is the",
-    "type": "note",
-    "category": "GI/Digestive",
+    "term": "Cecum (first part of large intestine)",
+    "definition": "Small pouch at the beginning of the large intestine in the lower right abdomen (RLQ). The appendix (vermiform appendix) attaches to the cecum.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4689,10 +4369,10 @@
   },
   {
     "id": "3a734aaa-2b69-4530-875f-8fb3a9909c5a",
-    "term": "which of following statements is True",
-    "definition": "which of following statements is True",
-    "type": "note",
-    "category": "Medical Abbreviations",
+    "term": "Lung anatomy — true statements",
+    "definition": "Right lung: 3 lobes (upper, middle, lower). Left lung: 2 lobes (upper, lower) to accommodate the heart. Both lungs are covered by separate pleural sacs.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4721,10 +4401,10 @@
   },
   {
     "id": "b3590284-0bbe-4579-9e25-58119430f10f",
-    "term": "what is the most common condition of the eye associated with aging",
-    "definition": "what is the most common condition of the eye associated with aging",
-    "type": "note",
-    "category": "General",
+    "term": "Presbyopia (most common age-related eye condition)",
+    "definition": "Gradual loss of ability to focus on nearby objects due to lens hardening. Typically begins around age 40. Corrected with reading glasses or bifocals.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4737,10 +4417,10 @@
   },
   {
     "id": "a4475b86-379e-4228-881d-8346c08d024b",
-    "term": "what structure is at the neck of the bladder and surrounds the urethra",
-    "definition": "what structure is at the neck of the bladder and surrounds the urethra",
-    "type": "note",
-    "category": "Urinalysis",
+    "term": "Prostate gland (neck of bladder)",
+    "definition": "The structure at the neck of the bladder surrounding the urethra in males. Produces seminal fluid. Enlargement (BPH) can obstruct urinary flow.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4753,34 +4433,18 @@
   },
   {
     "id": "3087d5d5-44fc-49f0-96aa-19f5fd051b37",
-    "term": "the epigastric anatomical region of the abdomen is located",
-    "definition": "the epigastric anatomical region of the abdomen is located",
-    "type": "note",
-    "category": "Musculoskeletal",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "76ffaf5d-59c9-43e4-afe4-07ac36af5111",
-    "term": "distal to the sternum",
-    "definition": "distal to the sternum",
-    "type": "note",
-    "category": "ECG/EKG",
+    "term": "Epigastric region",
+    "definition": "Located in the upper middle abdomen, directly distal to (below) the sternum. Contains the stomach, upper liver, and portions of the pancreas.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
     "id": "a11c616b-1328-4d4d-b7fa-d8c38609db83",
-    "term": "Collagen, a substance found in the dermis, is a(n):",
-    "definition": "Collagen, a substance found in the dermis, is a(n):",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "2c297490-bd81-4836-a8e2-3ef8789c16bf",
-    "term": "fibrous protein",
-    "definition": "fibrous protein",
-    "type": "note",
-    "category": "General",
+    "term": "Collagen",
+    "definition": "A fibrous structural protein found in the dermis; the most abundant protein in the body. Provides tensile strength to skin, tendons, ligaments, and bone.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4800,19 +4464,11 @@
     "difficulty": "unrated"
   },
   {
-    "id": "c00c0a1f-6bed-4932-a6a4-8b7de3573a89",
-    "term": "abduction",
-    "definition": "When the foot is moved outward the joint movement",
-    "type": "term",
-    "category": "Musculoskeletal",
-    "difficulty": "unrated"
-  },
-  {
     "id": "321fd332-e787-4939-9022-2e80bcc4ef2b",
-    "term": "the master gland of the body is the",
-    "definition": "the master gland of the body is the",
-    "type": "note",
-    "category": "General",
+    "term": "Pituitary gland (\"master gland\")",
+    "definition": "The master gland of the body, located at the base of the brain in the sella turcica. Controls other endocrine glands via trophic hormones (TSH, ACTH, FSH, LH, GH, prolactin).",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4841,10 +4497,10 @@
   },
   {
     "id": "4a97f32b-b456-4043-9c1f-4e2ab1dfc4c7",
-    "term": "spermatozoa normally fertilize the female ovum in the",
-    "definition": "spermatozoa normally fertilize the female ovum in the",
-    "type": "note",
-    "category": "General",
+    "term": "Fallopian tube (fertilization site)",
+    "definition": "Spermatozoa normally fertilize the female ovum in the fallopian tube (uterine tube), typically in the ampulla. The fertilized egg then travels to the uterus for implantation.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4857,10 +4513,10 @@
   },
   {
     "id": "1cec842b-1624-4f54-be22-203ec4002272",
-    "term": "the glomerulus is a cluster of blood capillaries found in the",
-    "definition": "the glomerulus is a cluster of blood capillaries found in the",
-    "type": "note",
-    "category": "General",
+    "term": "Glomerulus location",
+    "definition": "A cluster of blood capillaries found in the renal cortex within each nephron. It filters blood under pressure to produce the filtrate that becomes urine.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4881,10 +4537,10 @@
   },
   {
     "id": "09aa909d-8c62-45f8-ae60-a36ccfc888fe",
-    "term": "the regulation of body temperature is controlled by the",
-    "definition": "the regulation of body temperature is controlled by the",
-    "type": "note",
-    "category": "Vital Signs",
+    "term": "Hypothalamus (thermoregulation)",
+    "definition": "The regulation of body temperature is controlled by the hypothalamus — the body's thermostat. Triggers sweating, shivering, vasodilation, and vasoconstriction.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4897,10 +4553,10 @@
   },
   {
     "id": "a82ec843-c030-4e60-b24f-61d890d1c751",
-    "term": "Which of the following substances is NOT a neurotransmitter?",
-    "definition": "Which of the following substances is NOT a neurotransmitter?",
-    "type": "note",
-    "category": "Anatomy & Terminology",
+    "term": "Which substance is NOT a neurotransmitter",
+    "definition": "Hemoglobin is NOT a neurotransmitter — it is an oxygen-carrying protein in RBCs. Neurotransmitters include acetylcholine, dopamine, serotonin, and norepinephrine.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4913,41 +4569,25 @@
   },
   {
     "id": "767f0aff-ba8b-41bd-94e2-4bd48ceabcdc",
-    "term": "cranial nerve I the olfactory nerve is related to the sense of",
-    "definition": "cranial nerve I the olfactory nerve is related to the sense of",
-    "type": "note",
-    "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "7d60819c-c576-41c9-8ce9-ec9b5d1c24eb",
-    "term": "smell",
-    "definition": "smell",
-    "type": "note",
-    "category": "General",
+    "term": "Olfactory nerve (Cranial Nerve I)",
+    "definition": "Carries impulses for the sense of smell from olfactory receptors in the nasal mucosa to the olfactory bulb and cerebral cortex.",
+    "type": "term",
+    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
     "id": "b6816404-f792-43c4-8da5-23161433174f",
-    "term": "A blood cell that carries oxygen and has no nucleus is a(n):",
-    "definition": "A blood cell that carries oxygen and has no nucleus is a(n):",
-    "type": "note",
+    "term": "Erythrocyte (RBC)",
+    "definition": "A blood cell that carries oxygen and has no nucleus. Contains hemoglobin, which binds O2 in the lungs and releases it to tissues. Lifespan ~120 days.",
+    "type": "term",
     "category": "Respiratory",
     "difficulty": "unrated"
   },
   {
-    "id": "bec268fc-efbc-4894-9d6d-27e7e18e3162",
-    "term": "Erythrocyte (RBC)",
-    "definition": "Red blood cell. Biconcave disc, no nucleus, lives ~120 days. Contains hemoglobin (Hgb) which carries oxygen. Normal count: males 4.5–5.5 million/µL; females 4.0–5.0 million/µL. Produced in red bone marrow. Destroyed by spleen/liver. Anemia = low RBC/Hgb.",
-    "type": "note",
-    "category": "Lab Values",
-    "difficulty": "unrated"
-  },
-  {
     "id": "a45b4cf1-7468-47e0-ac5d-7ef3a80de939",
-    "term": "during respiration exhaled air contains primarily",
-    "definition": "during respiration exhaled air contains primarily",
-    "type": "note",
+    "term": "Exhaled air composition",
+    "definition": "Exhaled air contains primarily carbon dioxide (CO2) and water vapor, along with nitrogen. It contains less oxygen (~16%) than inhaled air (~21%).",
+    "type": "term",
     "category": "Vital Signs",
     "difficulty": "unrated"
   },
@@ -4977,18 +4617,10 @@
   },
   {
     "id": "cbe59a1f-51b3-47c8-8762-59094717b0af",
-    "term": "which of the following is the best example of nonverbal communication",
-    "definition": "which of the following is the best example of nonverbal communication",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "99fdfcd4-f133-45e3-9acb-3900186f5a2b",
-    "term": "body language",
-    "definition": "body language",
-    "type": "note",
-    "category": "General",
+    "term": "Nonverbal communication",
+    "definition": "Communication without words. Best example: body language — facial expressions, posture, eye contact, gestures, and interpersonal distance.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5001,42 +4633,34 @@
   },
   {
     "id": "86dee4a1-5b89-4830-8962-1bd8480ce564",
-    "term": "stereotyping",
-    "definition": "stereotyping",
-    "type": "note",
-    "category": "General",
+    "term": "Stereotyping",
+    "definition": "Generalizing the behavior or characteristics of all members of a group based on one example. Stereotyping impairs objective patient care and professional communication.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
     "id": "02000d6f-d5ef-4b87-9673-94811fa8e7f1",
-    "term": "three elements necessary for basis communication include",
-    "definition": "three elements necessary for basis communication include",
-    "type": "note",
-    "category": "General",
+    "term": "Three elements of communication",
+    "definition": "All communication requires: a message (what is sent), a sender (who sends it), and a receiver (who receives it). All three must be present for communication to occur.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
     "id": "36688bd0-7563-473a-8f83-614acf9ca58f",
-    "term": "message, sender, receiver",
-    "definition": "message, sender, receiver",
-    "type": "note",
-    "category": "General",
+    "term": "Three elements of communication (message, sender, receiver)",
+    "definition": "Message, sender, and receiver are the three fundamental components of basic communication. The sender encodes the message; the receiver decodes it.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
     "id": "855f4294-f2ac-4af9-ade9-c6dd2d1e1068",
-    "term": "to have proper verbal communication with a patient you should use",
-    "definition": "to have proper verbal communication with a patient you should use",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "9f0dea91-fdf2-419b-89d8-777b4bcd3be1",
-    "term": "conversation at the patients educational level",
-    "definition": "conversation at the patients educational level",
-    "type": "note",
-    "category": "General",
+    "term": "Verbal communication with patients",
+    "definition": "Speak at the patient's educational level — avoid medical jargon, use clear simple language, and confirm understanding.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5049,10 +4673,10 @@
   },
   {
     "id": "b3cbaf5c-59b5-4110-be6c-b856b093affe",
-    "term": "denial",
-    "definition": "denial",
-    "type": "note",
-    "category": "Psychology",
+    "term": "Denial (grief/defense mechanism)",
+    "definition": "First stage of Kübler-Ross grief model. A person in denial refuses to accept a loss or diagnosis. Be empathetic, listen, and avoid challenging their feelings.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5081,26 +4705,18 @@
   },
   {
     "id": "cb91f357-5ca2-4f29-8ffe-3aae8b8f3a67",
-    "term": "will you tell me about your pain",
-    "definition": "will you tell me about your pain",
-    "type": "note",
-    "category": "General",
+    "term": "Open-ended question example (patient interview)",
+    "definition": "Example of an open-ended question: \"Will you tell me about your pain?\" — requires more than a yes/no answer, encouraging the patient to describe their experience in detail.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
     "id": "338815bb-cdc6-4cc8-bdc0-f9d3ebfcec0e",
-    "term": "when communicating with a difficult challenging patient you should",
-    "definition": "when communicating with a difficult challenging patient you should",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "dec14b4c-057c-4ada-8d2a-f02bef124fd8",
-    "term": "exhibit a diplomatic attitude",
-    "definition": "exhibit a diplomatic attitude",
-    "type": "note",
-    "category": "General",
+    "term": "Communicating with difficult patients",
+    "definition": "Exhibit a diplomatic attitude — remain calm, empathetic, and non-confrontational. Listen actively to understand the root of the patient's concern.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5113,10 +4729,10 @@
   },
   {
     "id": "6f75c1cf-6b14-4204-9074-e7c627ca3fbf",
-    "term": "leaning forward to listen",
-    "definition": "leaning forward to listen",
-    "type": "note",
-    "category": "General",
+    "term": "Open nonverbal communication — example",
+    "definition": "Leaning forward to listen is an example of open nonverbal communication, demonstrating engagement and attentiveness to the patient.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5129,18 +4745,18 @@
   },
   {
     "id": "d28638db-99a3-46af-9091-719d6f456a8a",
-    "term": "compensating",
-    "definition": "compensating",
-    "type": "note",
-    "category": "General",
+    "term": "Compensating (defense mechanism)",
+    "definition": "Overemphasizing behaviors or strengths in one area to make up for real or perceived deficiencies in another. Example: studying excessively to compensate for test anxiety.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
     "id": "30555c54-68ef-4927-9d3e-13086dc91314",
-    "term": "maslow's hierarchy of human needs is based on the concept that",
-    "definition": "maslow's hierarchy of human needs is based on the concept that",
-    "type": "note",
-    "category": "Psychology",
+    "term": "Maslow's hierarchy of human needs",
+    "definition": "Based on the concept that physiologic needs (air, water, food, shelter) are most basic and must be satisfied before higher-level needs (safety, belonging, esteem, self-actualization) can be pursued.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5153,18 +4769,18 @@
   },
   {
     "id": "273e7481-ef7b-4107-a0cd-92e1cb6b1b5d",
-    "term": "when communicating with pediatric patients you should",
-    "definition": "when communicating with pediatric patients you should",
-    "type": "note",
-    "category": "General",
+    "term": "Communicating with pediatric patients",
+    "definition": "Do not lie to a child; state the truth in age-appropriate language. Speak directly to the child when possible and involve parents/caregivers in explanations.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
     "id": "147a0b7b-d2fa-45aa-9509-b7046559f763",
-    "term": "not lie to a child but state the truth",
-    "definition": "not lie to a child but state the truth",
-    "type": "note",
-    "category": "Medical Abbreviations",
+    "term": "Pediatric communication — do not lie",
+    "definition": "A key principle: do not lie to a child but state the truth in age-appropriate terms. Honesty builds trust and reduces fear during medical encounters.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5193,10 +4809,10 @@
   },
   {
     "id": "9f0b998d-7c60-4aa6-94f0-0b31f300434d",
-    "term": "prejudice is a term that means",
-    "definition": "prejudice is a term that means",
-    "type": "note",
-    "category": "General",
+    "term": "Prejudice",
+    "definition": "A preconceived, usually unfavorable attitude about a person or group based on stereotypes or insufficient knowledge. Prejudice in healthcare impairs objective, equitable patient care.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5217,34 +4833,26 @@
   },
   {
     "id": "34826b28-6b63-490f-8d29-05def8e71b3e",
-    "term": "reflecting",
-    "definition": "reflecting",
-    "type": "note",
-    "category": "General",
+    "term": "Reflecting (communication technique)",
+    "definition": "Repeating or rephrasing key words/phrases the patient stated to encourage further elaboration and confirm you understood. Example: \"So the pain started about a week ago?\"",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
     "id": "e05fdf1a-e198-4e0e-bbd7-5ac7e7fd7702",
-    "term": "a patient who is withdrawn weeping and isolated from others may be experiencing",
-    "definition": "a patient who is withdrawn weeping and isolated from others may be experiencing",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "cca09ca4-0214-4554-a89c-2846a744816f",
-    "term": "depression",
-    "definition": "depression",
-    "type": "note",
-    "category": "Psychology",
+    "term": "Signs of depression in patients",
+    "definition": "Withdrawn behavior, weeping, and social isolation may indicate depression. Acknowledge feelings and refer to appropriate mental health resources.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
     "id": "43dfec7b-c926-42e3-befe-789dbd694a70",
-    "term": "maintaining a professional relationship with the patient means that you should",
-    "definition": "maintaining a professional relationship with the patient means that you should",
-    "type": "note",
-    "category": "General",
+    "term": "Professional relationship with patient",
+    "definition": "Maintaining professionalism means delivering care objectively, respecting personal and professional boundaries, and treating all patients with equal dignity regardless of personal feelings.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5257,18 +4865,10 @@
   },
   {
     "id": "e86ae98f-7be4-4e63-98c6-00cd8678d3d1",
-    "term": "proper flow of communication occurs in the following order",
-    "definition": "proper flow of communication occurs in the following order",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "ef39b135-53d4-4226-87f7-0c88a0576604",
-    "term": "message, response, clarification , feedback",
-    "definition": "message, response, clarification , feedback",
-    "type": "note",
-    "category": "General",
+    "term": "Proper flow of communication",
+    "definition": "Message → response → clarification → feedback. Each step ensures the message was received and understood correctly.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5281,42 +4881,34 @@
   },
   {
     "id": "ce2dd021-1c1b-4f44-9a1a-5e4256dce306",
-    "term": "to avoid breaching confidentiality you should",
-    "definition": "to avoid breaching confidentiality you should",
-    "type": "note",
+    "term": "Avoiding breach of confidentiality",
+    "definition": "Never discuss patient information in public areas (hallways, elevators, waiting rooms). Use private spaces and secure systems for all PHI communications.",
+    "type": "term",
     "category": "Legal/Consent",
     "difficulty": "unrated"
   },
   {
     "id": "49467e28-b1ea-4293-8bf6-f8b5e3b3c0e9",
-    "term": "avoid discussing patient problems in the office hallway",
-    "definition": "avoid discussing patient problems in the office hallway",
-    "type": "note",
-    "category": "General",
+    "term": "Confidentiality in practice",
+    "definition": "Avoid discussing patient problems in the office hallway or any area where others can overhear — a fundamental HIPAA requirement for protecting patient privacy.",
+    "type": "term",
+    "category": "Legal/Consent",
     "difficulty": "unrated"
   },
   {
     "id": "9157567a-686d-4df2-8869-990babc3d5b5",
-    "term": "communication techniques that are used when interviewing a patient include",
-    "definition": "communication techniques that are used when interviewing a patient include",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "88ed666a-cd4f-44b5-aa70-c8bc7b4b3eb8",
-    "term": "reflecting and summarizing",
-    "definition": "reflecting and summarizing",
-    "type": "note",
-    "category": "General",
+    "term": "Patient interview communication techniques",
+    "definition": "Reflecting (repeating key points back) and summarizing (condensing what was said) confirm understanding and encourage the patient to elaborate.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
     "id": "e707c326-3aa0-4158-9fd7-1df0c78abbcc",
-    "term": "to set the stage for successful communication you should",
-    "definition": "to set the stage for successful communication you should",
-    "type": "note",
-    "category": "General",
+    "term": "Setting stage for successful communication",
+    "definition": "A positive self-image and confident demeanor are the foundation for successful communication — how you perceive yourself affects how you interact with patients and colleagues.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5337,10 +4929,10 @@
   },
   {
     "id": "84b847fb-2014-4c26-b78f-df5d908e53b5",
-    "term": "self image",
-    "definition": "self image",
-    "type": "note",
-    "category": "General",
+    "term": "Self-image in professional communication",
+    "definition": "Self-image is the issue that becomes prominent during adolescence and affects communication style. A positive self-image enables open, confident interaction with patients.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5353,26 +4945,26 @@
   },
   {
     "id": "4cc6919d-ca95-4139-bf43-536e3c508210",
-    "term": "assessment",
-    "definition": "assessment",
-    "type": "note",
-    "category": "General",
+    "term": "Assessment (patient care / SOAP)",
+    "definition": "The process of acquiring information from a patient to determine health care needs. In SOAP documentation, A = Assessment (the provider's clinical diagnosis/impression).",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
     "id": "83b8e57c-5f99-4144-925b-472f69d64fa3",
-    "term": "properly written patient educational materials should",
-    "definition": "properly written patient educational materials should",
-    "type": "note",
-    "category": "General",
+    "term": "Patient educational materials — requirements",
+    "definition": "Should focus on key points, use 5th–6th grade reading level, plain language without jargon, culturally appropriate content, and visuals when helpful.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
     "id": "b527b91f-2296-49ec-b1dd-b43d59aadf01",
-    "term": "focus on key points",
-    "definition": "focus on key points",
-    "type": "note",
-    "category": "General",
+    "term": "Patient educational materials — key focus",
+    "definition": "Properly written materials focus on key points most important to the patient's health and safety, rather than comprehensive clinical detail.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5417,10 +5009,10 @@
   },
   {
     "id": "bc4958c9-dab7-4541-af69-ab5a74b04283",
-    "term": "refusing to follow prescribed orders",
-    "definition": "refusing to follow prescribed orders",
-    "type": "note",
-    "category": "General",
+    "term": "Patient refusing prescribed orders",
+    "definition": "A sign of a barrier to patient education. Document the refusal in the medical record, notify the physician, and continue to offer non-coercive support and education.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5433,10 +5025,10 @@
   },
   {
     "id": "d47374c2-b27a-448e-8e77-2ec64daf549d",
-    "term": "the patient cognitive level of understanding",
-    "definition": "the patient cognitive level of understanding",
-    "type": "note",
-    "category": "General",
+    "term": "Patient cognitive level (educational consideration)",
+    "definition": "The patient's cognitive level of understanding is the most important factor when developing written patient educational materials — determines vocabulary, complexity, and format.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5449,10 +5041,10 @@
   },
   {
     "id": "de722c5b-0514-49be-8e4b-bd9807ecb726",
-    "term": "braille materials",
-    "definition": "braille materials",
-    "type": "note",
-    "category": "General",
+    "term": "Braille materials (visually impaired patient education)",
+    "definition": "For patients who are blind, provide educational materials in braille format. Alternative accessible formats include large print, audio recordings, and screen-reader compatible digital files.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5465,10 +5057,10 @@
   },
   {
     "id": "47d8e375-daf7-4390-b640-b7368048e2fc",
-    "term": "multidisciplinary plan",
-    "definition": "multidisciplinary plan",
-    "type": "note",
-    "category": "General",
+    "term": "Multidisciplinary plan (patient education)",
+    "definition": "A team approach to patient education incorporating different fields of knowledge (medicine, nursing, physical therapy, nutrition, social work) to create a comprehensive, coordinated educational plan.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5489,10 +5081,10 @@
   },
   {
     "id": "5ef55dab-4ccb-47cd-8bea-e595133ee4d7",
-    "term": "national dairy council",
-    "definition": "national dairy council",
-    "type": "note",
-    "category": "General",
+    "term": "National Dairy Council (dietary education resource)",
+    "definition": "An organization providing nutrition education materials, particularly about dairy, calcium, and bone health. A resource for patient dietary education.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5513,10 +5105,10 @@
   },
   {
     "id": "24867016-29d4-4b30-88d6-70d39814b75e",
-    "term": "NCQA",
-    "definition": "NCQA",
-    "type": "note",
-    "category": "General",
+    "term": "NCQA (National Committee for Quality Assurance)",
+    "definition": "National accrediting body for healthcare organizations. Establishes quality standards and accredits health plans, physician practices, and managed care organizations.",
+    "type": "term",
+    "category": "Regulatory Bodies",
     "difficulty": "unrated"
   },
   {
@@ -5537,10 +5129,10 @@
   },
   {
     "id": "27cae1e1-ae8f-4320-97dd-9a7257b4a123",
-    "term": "implementation",
-    "definition": "implementation",
-    "type": "note",
-    "category": "General",
+    "term": "Implementation (patient education step)",
+    "definition": "The phase of the patient education process where the agreed teaching plan is carried out using appropriate methods (verbal instruction, written materials, demonstration).",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5561,10 +5153,10 @@
   },
   {
     "id": "6554282b-000a-4e53-bd9a-89c11de9a280",
-    "term": "substance abuse",
-    "definition": "substance abuse",
-    "type": "note",
-    "category": "General",
+    "term": "Substance abuse education resources",
+    "definition": "Patients needing information about drug addiction can receive education and help from substance abuse counselors, addiction treatment programs, and community health centers.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5577,10 +5169,10 @@
   },
   {
     "id": "646a1de1-9f13-4ac4-bee7-adc53c9b709c",
-    "term": "notify the patients physician for further assistance",
-    "definition": "notify the patients physician for further assistance",
-    "type": "note",
-    "category": "General",
+    "term": "Patient reluctant to learn insulin self-injection",
+    "definition": "If a diabetic patient refuses to learn self-injection, notify the physician for further assistance. The physician may modify the treatment plan or refer to a certified diabetes educator.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5593,10 +5185,10 @@
   },
   {
     "id": "2065acfc-8f2d-404a-9afe-8baa69df2287",
-    "term": "a patient who perceives the health care team as condescending",
-    "definition": "a patient who perceives the health care team as condescending",
-    "type": "note",
-    "category": "Sensory Screening",
+    "term": "Patient who perceives team as condescending",
+    "definition": "The patient least likely to respond to learning objectives. Approach with empathy, actively listen, acknowledge concerns, and adjust communication to build respect and trust.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5609,10 +5201,10 @@
   },
   {
     "id": "3cafc365-187b-4135-bdfb-a2414233866f",
-    "term": "documenting in the patient record whatever teaching is performed",
-    "definition": "documenting in the patient record whatever teaching is performed",
-    "type": "note",
-    "category": "General",
+    "term": "Documenting patient education",
+    "definition": "Always document whatever teaching is performed in the patient record: what was taught, method used, the patient's response, and demonstrated level of comprehension.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5649,18 +5241,18 @@
   },
   {
     "id": "a7c77124-680c-4a35-8bda-1605b45cb974",
-    "term": "when providing patient education you should",
-    "definition": "when providing patient education you should",
-    "type": "note",
-    "category": "General",
+    "term": "Providing patient education — best practice",
+    "definition": "Encourage questions from the patient, assess understanding by asking them to repeat instructions (teach-back method), and adjust teaching based on their response.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
     "id": "b0623613-9065-4b3c-9f6c-3c625a21d881",
-    "term": "encourage question from the patient",
-    "definition": "encourage question from the patient",
-    "type": "note",
-    "category": "General",
+    "term": "Encouraging patient questions (education)",
+    "definition": "Encouraging questions from patients ensures they understand instructions, increases compliance, and allows the provider to clarify misunderstandings.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5673,18 +5265,10 @@
   },
   {
     "id": "296fe642-ee6a-41ba-967f-7afa97873678",
-    "term": "the patient's mental and physical abilities are referred to as",
-    "definition": "the patient's mental and physical abilities are referred to as",
-    "type": "note",
-    "category": "Sensory Screening",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "c6d69ffc-ea39-466d-8d2c-d11c36787e95",
-    "term": "psychomotor",
-    "definition": "psychomotor",
-    "type": "note",
-    "category": "General",
+    "term": "Psychomotor domain of learning",
+    "definition": "The domain encompassing the patient's mental and physical abilities — hands-on skills and motor tasks such as self-injection technique or wound care.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5697,18 +5281,18 @@
   },
   {
     "id": "2d879f76-aefa-4fce-8538-13ca77e857f0",
-    "term": "affective",
-    "definition": "affective",
-    "type": "note",
-    "category": "General",
+    "term": "Affective domain of learning",
+    "definition": "The learning domain involving values, attitudes, beliefs, and opinions. Addresses emotional responses, motivation, and mindset — key to behavior change in patient education.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
     "id": "be754b8e-7765-4fbd-b66f-aa4dccbf7166",
-    "term": "when assigned to answering the telephone in physician office",
-    "definition": "when assigned to answering the telephone in physician office",
-    "type": "note",
-    "category": "General",
+    "term": "Telephone etiquette (physician office)",
+    "definition": "Answer by the third ring, identify the practice and yourself, speak with clear diction, ask before placing on hold, and maintain a professional and friendly tone.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5721,18 +5305,10 @@
   },
   {
     "id": "551394f8-722d-4519-a323-755165e784b3",
-    "term": "the style of speaking and enunciating words is referred to as",
-    "definition": "the style of speaking and enunciating words is referred to as",
-    "type": "note",
-    "category": "Sensory Screening",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "436632ef-da8a-48de-8a3f-528be6629b19",
-    "term": "diction",
-    "definition": "diction",
-    "type": "note",
-    "category": "General",
+    "term": "Diction",
+    "definition": "The style of speaking and clearly enunciating words. Good diction is essential for professional telephone communication and direct patient interaction.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5745,10 +5321,10 @@
   },
   {
     "id": "7732b4fc-0629-45c7-9767-9a717719bdfb",
-    "term": "will you please hold?",
-    "definition": "will you please hold?",
-    "type": "note",
-    "category": "General",
+    "term": "\"Will you please hold?\" (telephone etiquette)",
+    "definition": "Always ask the caller's permission before placing them on hold and wait for their response — they may have an emergency. Return to the call within 30 seconds.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5761,10 +5337,10 @@
   },
   {
     "id": "445d8851-2040-4d0e-b067-359ace066844",
-    "term": "a pharmacist calls to verify information written on a prescription form",
-    "definition": "a pharmacist calls to verify information written on a prescription form",
-    "type": "note",
-    "category": "Medications",
+    "term": "Pharmacist call — no physician needed",
+    "definition": "A pharmacist calling to verify prescription information does not ordinarily require the physician's participation; this can be handled by the medical assistant.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5777,10 +5353,10 @@
   },
   {
     "id": "ba4586f4-441b-4a03-baf3-5bcb597ce90c",
-    "term": "facsimile",
-    "definition": "facsimile",
-    "type": "note",
-    "category": "General",
+    "term": "Facsimile (fax) in medical offices",
+    "definition": "Transmission of a written document via phone line. Used for referrals, prescriptions, and records. Must include a HIPAA-compliant confidentiality cover page.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
@@ -5801,10 +5377,10 @@
   },
   {
     "id": "c7100fcf-1b41-43c1-9290-3f83c9e5b463",
-    "term": "try to reach the patient later but also send a letter with info",
-    "definition": "try to reach the patient later but also send a letter with info",
-    "type": "note",
-    "category": "General",
+    "term": "Contacting unreachable patient for appointment",
+    "definition": "If a patient cannot be reached by phone for a follow-up appointment, try again later AND send a letter with the information — documenting both attempts.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
@@ -5817,10 +5393,10 @@
   },
   {
     "id": "2cb7006f-ccee-4821-8fbc-cf5a4f49b11e",
-    "term": "by the third ring",
-    "definition": "by the third ring",
-    "type": "note",
-    "category": "General",
+    "term": "Telephone — answer by third ring",
+    "definition": "Answer the telephone by the third ring in a medical office. Letting it ring longer can frustrate callers and create a negative impression.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5833,26 +5409,18 @@
   },
   {
     "id": "e534d1e5-d7ea-4659-baae-aefbf19bbdd7",
-    "term": "Good Moring, Dr's office",
-    "definition": "Good Moring, Dr's office",
-    "type": "note",
-    "category": "General",
+    "term": "Medical office telephone greeting",
+    "definition": "Standard greeting: \"Good morning (afternoon), Dr. [Name]'s office, this is [your name], how may I help you?\" — professional, clear, and welcoming.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
     "id": "76a72a2a-051b-4b02-a86e-6a70e76570fa",
-    "term": "when transferring a patient call to the physician you should",
-    "definition": "when transferring a patient call to the physician you should",
-    "type": "note",
-    "category": "Patient Positioning",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "b033e977-0422-4076-9b85-063447e747ca",
-    "term": "have the patient's medical record available for the physician",
-    "definition": "have the patient's medical record available for the physician",
-    "type": "note",
-    "category": "General",
+    "term": "Transferring patient calls to physician",
+    "definition": "Have the patient's medical record available for the physician before transferring the call so the physician has context for the conversation.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5865,26 +5433,18 @@
   },
   {
     "id": "20b02cac-e120-4a2f-9bf2-67eb9f59bc5b",
-    "term": "30 seconds",
-    "definition": "30 seconds",
-    "type": "note",
-    "category": "General",
+    "term": "Maximum telephone hold time",
+    "definition": "Return to a caller placed on hold within 30 seconds. If the wait will be longer, offer to call the patient back rather than leaving them on hold indefinitely.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
     "id": "d26dbfcd-f0db-4733-935c-9edfbe93fef3",
-    "term": "when dealing with a difficult caller you should",
-    "definition": "when dealing with a difficult caller you should",
-    "type": "note",
-    "category": "Regulatory Bodies",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "7d6c12cd-b5e8-4fca-a90d-c340d7e5721c",
-    "term": "determine the problem and the appropriate staff member who can help the caller",
-    "definition": "determine the problem and the appropriate staff member who can help the caller",
-    "type": "note",
-    "category": "General",
+    "term": "Handling difficult callers",
+    "definition": "Determine the nature of the problem and identify the appropriate staff member who can best assist; remain calm and professional throughout.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5897,26 +5457,26 @@
   },
   {
     "id": "a8ed5ecd-08bd-44f1-aa0e-7544ad7af97c",
-    "term": "offer the patient an appointment to see physician",
-    "definition": "offer the patient an appointment to see physician",
-    "type": "note",
+    "term": "Difficult caller — offer appointment",
+    "definition": "When a caller cannot be fully assisted by phone (e.g., medical question or complaint), offer the patient an appointment to see the physician for proper evaluation.",
+    "type": "term",
     "category": "Administrative",
     "difficulty": "unrated"
   },
   {
     "id": "20bc8414-40f5-41d3-9b15-21235a84d745",
-    "term": "an electronic device that takes in stores retrieves and processes data is a",
-    "definition": "an electronic device that takes in stores retrieves and processes data is a",
-    "type": "note",
+    "term": "Computer (medical office definition)",
+    "definition": "An electronic device that takes in, stores, retrieves, and processes data. Used in medical offices for EHR management, scheduling, billing, and communications.",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "fe951cde-4697-480c-a6d7-55a9912e90a5",
-    "term": "computer",
-    "definition": "computer",
-    "type": "note",
-    "category": "General",
+    "term": "Computer (definition)",
+    "definition": "An electronic device that inputs, stores, retrieves, and processes data. Central to modern medical office operations for EHR, scheduling, billing, and communications.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
@@ -5936,14 +5496,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "3bec1b4a-13c5-4bd8-9f65-6e23471d31c0",
-    "term": "HIPAA",
-    "definition": "HIPAA",
-    "type": "note",
-    "category": "Legal/Consent",
-    "difficulty": "unrated"
-  },
-  {
     "id": "eba1cbda-4deb-43f7-94b1-6b1c4d22e90e",
     "term": "when you are focusing on the conversation of the telephone call and ignoring out",
     "definition": "when you are focusing on the conversation of the telephone call and ignoring outside distractions you are",
@@ -5953,18 +5505,18 @@
   },
   {
     "id": "54d855ad-1e75-4e6a-82ad-71719d9e92d5",
-    "term": "actively listening",
-    "definition": "actively listening",
-    "type": "note",
-    "category": "General",
+    "term": "Active listening",
+    "definition": "Fully concentrating on and responding to a speaker. Demonstrated by eye contact, nodding, avoiding interruption, and reflecting content back to confirm understanding.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
     "id": "13e51cb1-2601-4909-b039-e0a5199cc6bb",
-    "term": "when routing a caller to another person you should",
-    "definition": "when routing a caller to another person you should",
-    "type": "note",
-    "category": "General",
+    "term": "Routing a caller to another staff member",
+    "definition": "Inform the caller who they are being transferred to and why; then brief the receiving person on the caller's name and reason for calling before completing the transfer.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -5993,18 +5545,10 @@
   },
   {
     "id": "ef4ed418-42fe-4c76-a968-84e43019a095",
-    "term": "which of the following is a necessary quality for a good telephone voice",
-    "definition": "which of the following is a necessary quality for a good telephone voice",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "7dc17b95-2ae1-4dae-8c4b-9378a82b47dc",
-    "term": "speaking clearly and saying words correctly",
-    "definition": "speaking clearly and saying words correctly",
-    "type": "note",
-    "category": "General",
+    "term": "Good telephone voice quality",
+    "definition": "Speaking clearly and enunciating words correctly — essential qualities for a professional telephone voice in a medical office.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -6025,10 +5569,10 @@
   },
   {
     "id": "e6178165-4356-445f-b58c-628421bd51e2",
-    "term": "the proper way to deal with an emergency call is to",
-    "definition": "the proper way to deal with an emergency call is to",
-    "type": "note",
-    "category": "Regulatory Bodies",
+    "term": "Emergency telephone call — procedure",
+    "definition": "Stay calm, keep the caller on the line, obtain name and location, determine the emergency, and immediately alert the physician or call 911. Never place an emergency caller on hold.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
@@ -6065,34 +5609,26 @@
   },
   {
     "id": "b2cff5cd-bf0c-4f65-9d87-a77eab7be110",
-    "term": "give information only to authorized persons",
-    "definition": "give information only to authorized persons",
-    "type": "note",
-    "category": "General",
+    "term": "Releasing patient info by phone (authorization)",
+    "definition": "Provide information only to authorized persons — those with a signed patient release, legal authority (law enforcement with documentation), or treating healthcare providers.",
+    "type": "term",
+    "category": "Legal/Consent",
     "difficulty": "unrated"
   },
   {
     "id": "664d36be-5c5e-4b24-8f86-b06e5f8c0f73",
-    "term": "which of the following is not a device used to save computer data",
-    "definition": "which of the following is not a device used to save computer data",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "27d6deb1-c445-4fe4-af41-0b80ebf9dfcb",
-    "term": "yahoo is an example of an internet",
-    "definition": "yahoo is an example of an internet",
-    "type": "note",
-    "category": "General",
+    "term": "Internet search engine example",
+    "definition": "Yahoo is an example of an internet search engine. Search engines index web pages so users can find information with keywords. Other examples: Google, Bing.",
+    "type": "term",
+    "category": "Communication",
     "difficulty": "unrated"
   },
   {
     "id": "9ee21570-befb-4c13-b134-a85920ecceaa",
-    "term": "search engine",
-    "definition": "search engine",
-    "type": "note",
-    "category": "General",
+    "term": "Internet search engine",
+    "definition": "A tool (website) that indexes web content and allows users to find information by entering keywords. Examples: Yahoo, Google, Bing. Useful for researching medical information.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
@@ -6105,26 +5641,18 @@
   },
   {
     "id": "2fbd92fd-c4aa-4e43-9fb9-bbcb8cd13834",
-    "term": "DOC",
-    "definition": "DOC",
-    "type": "note",
-    "category": "General",
+    "term": ".DOC file format",
+    "definition": "Microsoft Word document format (.doc / .docx). Used in medical offices for letters, patient education handouts, forms, and correspondence.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
     "id": "705ccb7e-4550-4182-95a7-4c6276d8dc37",
-    "term": "equipment needed for medical transcription is a",
-    "definition": "equipment needed for medical transcription is a",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "23295fa7-3038-4a4d-9817-5e4df384b1d9",
-    "term": "computer",
-    "definition": "computer",
-    "type": "note",
-    "category": "General",
+    "term": "Medical transcription equipment",
+    "definition": "Required equipment: computer with word processing software, headset/earphones, foot pedal (hands-free audio playback control), and dictation/transcription software.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
@@ -6145,10 +5673,10 @@
   },
   {
     "id": "a3d4178e-357a-4878-abed-a3f5a25eba33",
-    "term": "matrix",
-    "definition": "matrix",
-    "type": "note",
-    "category": "General",
+    "term": "Appointment matrix",
+    "definition": "The schedule framework created by blocking off times the physician is unavailable (surgery, rounds, meetings, lunch) before patient appointments are added.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
@@ -6161,42 +5689,26 @@
   },
   {
     "id": "4b7b0ee9-079a-4dff-b0a7-33195bdc9599",
-    "term": "write or print clearly and make corrections neatly",
-    "definition": "write or print clearly and make corrections neatly",
-    "type": "note",
-    "category": "General",
+    "term": "Handwritten medical record corrections",
+    "definition": "Write or print clearly; correct errors by drawing a single line through the mistake, writing \"error\" above it, and adding your initials and date. Never use correction fluid.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
     "id": "fea05134-8a9d-4215-a728-455c2211bef7",
-    "term": "what is one constitutes a higher level of urgency appointment",
-    "definition": "what is one constitutes a higher level of urgency appointment",
-    "type": "note",
+    "term": "Higher-urgency appointment",
+    "definition": "A 55-year-old man with difficulty breathing constitutes a higher level of urgency and should be seen immediately or directed to emergency services.",
+    "type": "term",
     "category": "Administrative",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "3bf782cc-eb62-4d92-a473-0f03ccfa9a41",
-    "term": "a 55 years old man with difficulty breathing",
-    "definition": "a 55 years old man with difficulty breathing",
-    "type": "note",
-    "category": "Respiratory",
     "difficulty": "unrated"
   },
   {
     "id": "0f82a892-16af-4381-acbe-c1d4b1047845",
-    "term": "the process a double booking in appointment scheduling means that",
-    "definition": "the process a double booking in appointment scheduling means that",
-    "type": "note",
+    "term": "Double booking (appointment scheduling)",
+    "definition": "Two or more patients are scheduled at the same appointment time slot. Used in practices with high no-show rates but can cause wait time issues.",
+    "type": "term",
     "category": "Administrative",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "c29fde05-349b-4070-a48d-19bc235233bb",
-    "term": "two or more patients are scheduled at the same time",
-    "definition": "two or more patients are scheduled at the same time",
-    "type": "note",
-    "category": "Medications",
     "difficulty": "unrated"
   },
   {
@@ -6209,10 +5721,10 @@
   },
   {
     "id": "f48f27e9-e8e6-4cc4-99f5-c46df805f128",
-    "term": "offer the waiting patients an opportunity to reschedule",
-    "definition": "offer the waiting patients an opportunity to reschedule",
-    "type": "note",
-    "category": "General",
+    "term": "Managing patient wait times",
+    "definition": "If there is an unexpected delay, offer waiting patients an opportunity to reschedule. Keep patients informed of the wait and apologize for the inconvenience.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
@@ -6225,9 +5737,9 @@
   },
   {
     "id": "d612afa7-3ea7-435d-8ea1-78d547e64798",
-    "term": "patients insurance provider",
-    "definition": "patients insurance provider",
-    "type": "note",
+    "term": "Patient insurance info at check-in",
+    "definition": "Collect the patient's insurance provider information at each visit: copy of the insurance card, policy number, group number, and subscriber details.",
+    "type": "term",
     "category": "Administrative",
     "difficulty": "unrated"
   },
@@ -6241,17 +5753,17 @@
   },
   {
     "id": "1c5153e6-1ae2-407b-9353-0f261190d1bc",
-    "term": "wave scheduling",
-    "definition": "wave scheduling",
-    "type": "note",
+    "term": "Wave scheduling",
+    "definition": "Multiple patients are booked at the start of each hour and seen in order of arrival. Accommodates no-shows/late arrivals but may create initial waiting for punctual patients.",
+    "type": "term",
     "category": "Administrative",
     "difficulty": "unrated"
   },
   {
     "id": "b9d028b7-4703-496f-8f20-8aa76b7eebc0",
-    "term": "when setting a series of repeat appointments for a patient it is best to",
-    "definition": "when setting a series of repeat appointments for a patient it is best to",
-    "type": "note",
+    "term": "Setting a series of repeat appointments",
+    "definition": "Schedule all appointments in a series at the time of the first visit to ensure the patient's preferred times are reserved in advance.",
+    "type": "term",
     "category": "Administrative",
     "difficulty": "unrated"
   },
@@ -6265,18 +5777,10 @@
   },
   {
     "id": "c56792f8-b6b9-4eba-8d83-6f08dfb7aeb3",
-    "term": "the most critical aspect of the appointment book is that",
-    "definition": "the most critical aspect of the appointment book is that",
-    "type": "note",
+    "term": "Appointment book — legal importance",
+    "definition": "The appointment book is treated as a legal document because it may be subpoenaed in legal proceedings. Corrections must follow proper procedure.",
+    "type": "term",
     "category": "Administrative",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "75c3c106-988a-4cb2-bdcd-43e705e569b9",
-    "term": "the book is treated as a legal document because it may be subpoenaed",
-    "definition": "the book is treated as a legal document because it may be subpoenaed",
-    "type": "note",
-    "category": "Legal/Consent",
     "difficulty": "unrated"
   },
   {
@@ -6329,9 +5833,9 @@
   },
   {
     "id": "a0048694-b620-4616-91a9-da5f5e50b4e3",
-    "term": "the amount of insurance copay",
-    "definition": "the amount of insurance copay",
-    "type": "note",
+    "term": "Insurance copay — when to collect",
+    "definition": "Collect the copay amount at the time of each visit. Inform patients of their copay when scheduling so they arrive prepared with the correct amount.",
+    "type": "term",
     "category": "Administrative",
     "difficulty": "unrated"
   },
@@ -6345,10 +5849,10 @@
   },
   {
     "id": "5e3c3615-50ad-48a2-84ee-fdd66822f609",
-    "term": "what are your symptoms and how long have you had them",
-    "definition": "what are your symptoms and how long have you had them",
-    "type": "note",
-    "category": "General",
+    "term": "Scheduling triage question",
+    "definition": "Key scheduling question: \"What are your symptoms and how long have you had them?\" — determines appointment urgency, type, and appropriate duration.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
@@ -6361,9 +5865,9 @@
   },
   {
     "id": "3d01c35e-ab02-41e5-860b-9094065aa6bf",
-    "term": "what are the scheduling duties",
-    "definition": "what are the scheduling duties",
-    "type": "note",
+    "term": "Medical office scheduling duties",
+    "definition": "Maintaining the appointment matrix, scheduling/confirming/cancelling appointments, sending reminders, managing no-shows, and coordinating referrals and follow-ups.",
+    "type": "term",
     "category": "Administrative",
     "difficulty": "unrated"
   },
@@ -6385,26 +5889,18 @@
   },
   {
     "id": "140b2155-6633-4ae1-8958-a61faa549f5f",
-    "term": "patient insurance copayment",
-    "definition": "patient insurance copayment",
-    "type": "note",
+    "term": "Patient insurance copayment",
+    "definition": "Fixed dollar amount the patient pays at each visit as their cost-share per their insurance plan. Distinct from coinsurance (a percentage) and deductible (an annual threshold).",
+    "type": "term",
     "category": "Administrative",
     "difficulty": "unrated"
   },
   {
     "id": "142a83da-2009-4e87-96c9-026db297a870",
-    "term": "a tickler file is a",
-    "definition": "a tickler file is a",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "c54889fa-083f-4d82-a07e-dc3efaa72285",
-    "term": "filing system used as a reminder of things to do by a certain date and time",
-    "definition": "filing system used as a reminder of things to do by a certain date and time",
-    "type": "note",
-    "category": "Sensory Screening",
+    "term": "Tickler file",
+    "definition": "A filing system used as a reminder of tasks to be completed by a certain date and time. Organized chronologically to prompt follow-up on pending matters.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
@@ -6417,9 +5913,9 @@
   },
   {
     "id": "c5bffd44-2923-4099-b63e-13bd92d5a1cd",
-    "term": "arrives at the office without an appointment but wants to be seen",
-    "definition": "arrives at the office without an appointment but wants to be seen",
-    "type": "note",
+    "term": "Walk-in patient without appointment",
+    "definition": "A patient who arrives without an appointment. Assess urgency: see immediately if emergent; work into schedule if time permits; offer the next available slot for non-urgent cases.",
+    "type": "term",
     "category": "Administrative",
     "difficulty": "unrated"
   },
@@ -6441,18 +5937,10 @@
   },
   {
     "id": "db281382-bfef-45ac-99b3-93dd17578f9f",
-    "term": "what type of scheduling is typical of an urgent care center",
-    "definition": "what type of scheduling is typical of an urgent care center",
-    "type": "note",
+    "term": "Tidal wave scheduling",
+    "definition": "A scheduling method typical of urgent care centers: multiple patients arrive at the start of each time block and are seen in order of arrival.",
+    "type": "term",
     "category": "Administrative",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "40cf4d38-e784-4f03-97bf-36b0b8b50a32",
-    "term": "tidal wave scheduling",
-    "definition": "tidal wave scheduling",
-    "type": "note",
-    "category": "Medical Abbreviations",
     "difficulty": "unrated"
   },
   {
@@ -6473,10 +5961,10 @@
   },
   {
     "id": "fef476a0-f4e5-4d17-b360-a93c09d5f081",
-    "term": "reserve hospital bed",
-    "definition": "reserve hospital bed",
-    "type": "note",
-    "category": "General",
+    "term": "Reserving hospital bed (scheduling duty)",
+    "definition": "Reserving a hospital bed is one of the scheduling duties of a medical assistant — coordinating admissions and procedures with the hospital as directed by the physician.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
@@ -6489,10 +5977,10 @@
   },
   {
     "id": "071486f6-726c-4d6f-98ee-2753109e05a2",
-    "term": "when adding medical records to a patient's chart you should",
-    "definition": "when adding medical records to a patient's chart you should",
-    "type": "note",
-    "category": "General",
+    "term": "Adding records to patient chart",
+    "definition": "When adding medical records, file in reverse chronological order (most recent on top); verify the patient's name and ID on each document before filing.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
@@ -6521,26 +6009,18 @@
   },
   {
     "id": "e24eab58-87fe-4aea-9717-62feb90b7e0b",
-    "term": "831140,381249, 105449, 943650",
-    "definition": "831140,381249, 105449, 943650",
-    "type": "note",
-    "category": "General",
+    "term": "Numeric filing example (color-coded)",
+    "definition": "Example of numeric filing codes: 831140, 381249, 105449, 943650. Each number corresponds to a patient file in a numeric (rather than alphabetical) filing system.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
     "id": "09cf619a-45d1-406d-9fba-5404b4814ca2",
-    "term": "what are the guide lines for alphabetical filing",
-    "definition": "what are the guide lines for alphabetical filing",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "442c01fe-6150-459d-bfb2-27a126cfa7cc",
-    "term": "when a last name has a hyphen it is filed as the hype were not there",
-    "definition": "when a last name has a hyphen it is filed as the hype were not there",
-    "type": "note",
-    "category": "Sensory Screening",
+    "term": "Alphabetical filing — hyphenated names",
+    "definition": "When a last name has a hyphen, it is filed as if the hyphen were not there (treated as one continuous name).",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
@@ -6553,42 +6033,26 @@
   },
   {
     "id": "0a42e7e0-ccfa-46d7-83e1-aa3bce07d314",
-    "term": "out guide",
-    "definition": "out guide",
-    "type": "note",
-    "category": "General",
+    "term": "Out guide (medical record tracking)",
+    "definition": "A placeholder inserted in a filing system when a chart is removed, indicating who has the record and when it was taken out — essential for locating records.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
     "id": "4ad654f0-d22f-4983-ba09-d192a738e547",
-    "term": "one of the \"Cs\" of charting includes",
-    "definition": "one of the \"Cs\" of charting includes",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "9e83b991-1ce5-4ae8-83b1-671ce3c4d47d",
-    "term": "clear",
-    "definition": "clear",
-    "type": "note",
-    "category": "General",
+    "term": "One of the Cs of charting",
+    "definition": "Clear — one of the Cs of good charting. The Cs include: complete, concise, clear, chronological, and confidential.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
     "id": "c9210089-dff8-47d0-9a07-59a87542ecb6",
-    "term": "the \"p\" in the SOAP method of charting includes",
-    "definition": "the \"p\" in the SOAP method of charting includes",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "8758b552-28af-4e24-bacd-0d7df4a9b1c9",
-    "term": "plan for tests and treatments",
-    "definition": "plan for tests and treatments",
-    "type": "note",
-    "category": "General",
+    "term": "SOAP charting — P (Plan)",
+    "definition": "The P in SOAP stands for Plan: the plan for tests, treatments, medications, referrals, and follow-up based on the assessment.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
@@ -6601,10 +6065,10 @@
   },
   {
     "id": "33204e30-be55-445c-9064-e55c60fa5974",
-    "term": "office visit entries from June 2010 would be in front visit from December 2008",
-    "definition": "office visit entries from June 2010 would be in front visit from December 2008",
-    "type": "note",
-    "category": "General",
+    "term": "Chronological order in medical records",
+    "definition": "Records are filed in reverse chronological order (most recent entry on top). Example: a June 2010 office visit entry is placed in front of a December 2008 entry.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
@@ -6617,34 +6081,26 @@
   },
   {
     "id": "d7651371-1a10-42a0-a3ac-52716d0e99b5",
-    "term": "of the following which would come first in alphabetic filing? fisher. bill",
-    "definition": "of the following which would come first in alphabetic filing? fisher. bill",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "fcb8e96e-1307-4e42-8256-d052fd79b2cd",
-    "term": "fischer, William",
-    "definition": "fischer, William",
-    "type": "note",
-    "category": "General",
+    "term": "Alphabetical filing — example order",
+    "definition": "In alphabetical filing, Fishar comes before Fischer (A before C), and Fischer, Bob comes before Fischer, William (B before W). Compare letter-by-letter.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
     "id": "0d7cef29-b3e9-43f5-bfb3-ed087d184257",
-    "term": "fishar. bob",
-    "definition": "fishar. bob",
-    "type": "note",
-    "category": "General",
+    "term": "Alphabetical filing — Fishar, Bob",
+    "definition": "Fishar, Bob comes before Fischer, Bob in alphabetical filing — A comes before C after the shared prefix F-I-S-H-. Compare letter by letter.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
     "id": "bc502d4f-61ad-4b96-b9f2-dbbbfeeffdb4",
-    "term": "fischer,bob",
-    "definition": "fischer,bob",
-    "type": "note",
-    "category": "General",
+    "term": "Alphabetical filing — Fischer, Bob",
+    "definition": "Fischer, Bob: filed after Fishar (A<C) and before Fischer, William (B<W). In strict alphabetical filing, compare each character in sequence after the comma.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
@@ -6665,26 +6121,18 @@
   },
   {
     "id": "6d508025-355f-490b-86c0-ed9d4710e632",
-    "term": "type of practice",
-    "definition": "type of practice",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "97c9d2bb-1807-406a-b1d4-b9f1bf109bf6",
-    "term": "physician preference",
-    "definition": "physician preference",
-    "type": "note",
-    "category": "General",
+    "term": "Medical record system — type of practice factor",
+    "definition": "Type of practice (specialty vs. primary care), physician preference, and frequency of access to records all determine the best medical record filing and storage system.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
     "id": "e43ab786-ca8b-4b83-a6a7-df57baf41ef3",
-    "term": "frequency of access",
-    "definition": "frequency of access",
-    "type": "note",
-    "category": "General",
+    "term": "Frequency of access (record system factor)",
+    "definition": "Active patient records need to be readily accessible; inactive/archived charts may be stored off-site or in less accessible areas. Frequency of access guides filing system design.",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
@@ -6705,10 +6153,10 @@
   },
   {
     "id": "636eef72-7f8b-4d50-beae-bd0305395d5e",
-    "term": "physician",
-    "definition": "physician",
-    "type": "note",
-    "category": "General",
+    "term": "Physician (record system factor)",
+    "definition": "Physician specialty and workflow preferences influence the choice of filing system — alphabetical, numeric (color-coded), or electronic health records (EHR).",
+    "type": "term",
+    "category": "Administrative",
     "difficulty": "unrated"
   },
   {
@@ -6721,10 +6169,10 @@
   },
   {
     "id": "bef27035-c4f9-4db7-a0bc-2255fbc19d6b",
-    "term": "Advertisement",
-    "definition": "Advertisement",
-    "type": "note",
-    "category": "General",
+    "term": "Medical advertising guidelines (AMA)",
+    "definition": "Medical advertising must be truthful, non-deceptive, and comply with AMA and FTC guidelines. Cannot make unsubstantiated claims about clinical outcomes or treatment effectiveness.",
+    "type": "term",
+    "category": "Legal/Consent",
     "difficulty": "unrated"
   },
   {
@@ -6757,14 +6205,6 @@
     "definition": "what each medication is for, what type of medication it is, and what general symptoms you’d expect (one or two questions).",
     "type": "term",
     "category": "Medications",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "6ec8fd56-1fd5-4685-b2e4-3fca88b1863d",
-    "term": "What kind of doctor treats xyz disease?",
-    "definition": "What kind of doctor treats xyz disease?",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
@@ -6816,22 +6256,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "ef441812-2f1a-4528-a4d3-acb5a1178abb",
-    "term": "When vitals are bad (normal vs critical values).",
-    "definition": "When vitals are bad (normal vs critical values).",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "c568c2f7-781b-496b-bcea-79d4a5270a78",
-    "term": "How to give CPR, how many compressions, breaths, etc.",
-    "definition": "How to give CPR, how many compressions, breaths, etc.",
-    "type": "note",
-    "category": "Cardiovascular",
-    "difficulty": "unrated"
-  },
-  {
     "id": "39e61c00-17d0-4090-8749-6f4e87ab459b",
     "term": "How to write a letter in",
     "definition": "Block, Modified Block, Simplified Block, and Modified Block with Indented Paragraphs. Know where the letterhead, date (formatted January 1, 2020), inside address, salutation, body, complimentary close, and signature block goes on each and how much spacing is in between.",
@@ -6856,14 +6280,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "467ed728-2b5b-4c1e-ac4f-838ffa30c3af",
-    "term": "Always reflect the patient’s point of view back to them for active listening",
-    "definition": "Always reflect the patient’s point of view back to them for active listening",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "fb8072a3-736e-4cff-883b-d77fb7bfa2f6",
     "term": "Know EKG from the NHA Study Guide in detail. Know leads I, II, III, AVR, AVF, AV",
     "definition": "Know EKG from the NHA Study Guide in detail. Know leads I, II, III, AVR, AVF, AVL, and V1, V2, V3, V4, V5, V6. Know their color and where they go. Which ones are unipolar, bipolar, and precordial? Know all the arrythmias and in what circumstances they happen. Know how to get HR from a EKG strip (The 1500 Method: Count the number of small boxes between two successive R waves and divide this number into 1500 to obtain heart rate) If that is too hard, try this video instead.",
@@ -6877,14 +6293,6 @@
     "definition": "6 links: (1) Infectious agent, (2) Reservoir (source — human, animal, environment), (3) Portal of exit (cough, wound, feces), (4) Mode of transmission (contact/droplet/airborne/vector/vehicle), (5) Portal of entry (mucous membranes, breaks in skin, GI tract, respiratory tract), (6) Susceptible host. Breaking any link stops spread.",
     "type": "note",
     "category": "Infection Control",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "ae0224d1-2b31-4b49-baa3-ba33036f96dd",
-    "term": "Drug testing, DNA paternity testing, what that is called and special precautions",
-    "definition": "Drug testing, DNA paternity testing, what that is called and special precautions",
-    "type": "note",
-    "category": "Medications",
     "difficulty": "unrated"
   },
   {
@@ -6907,14 +6315,6 @@
     "id": "e213b5cf-9a4e-42f7-a7cd-33a7b773494d",
     "term": "ACO vs PCMH. We have to know the outreach programs to give to patients if they n",
     "definition": "ACO vs PCMH. We have to know the outreach programs to give to patients if they need help because of the shift to PCMH and ACO.",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "84cb0878-fc10-4add-a4ae-00acf552f6aa",
-    "term": "At what age and how often are routine exams done?",
-    "definition": "At what age and how often are routine exams done?",
     "type": "note",
     "category": "General",
     "difficulty": "unrated"
@@ -6968,14 +6368,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "15e9b43e-2d80-4e9c-a80a-1a6880082946",
-    "term": "Confine the area by closing all doors.",
-    "definition": "Confine the area by closing all doors.",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "e272cc96-7f16-4e9f-90d1-d97291e92744",
     "term": "Extinguish the fire if the fire is small (use P.A.S.S). Evacuate patients from t",
     "definition": "Extinguish the fire if the fire is small (use P.A.S.S). Evacuate patients from the area if instructed to do so by fire officials or hospital leadership.",
@@ -6984,123 +6376,11 @@
     "difficulty": "unrated"
   },
   {
-    "id": "2129c851-52e9-4012-8cd3-0199bba39925",
-    "term": "What organization governs emergencies?",
-    "definition": "What organization governs emergencies?",
-    "type": "note",
-    "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "fcf2bec4-29cd-4b02-81f9-41bf1d24d6ed",
-    "term": "Major Content Area Performance",
-    "definition": "Major Content Area Performance",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "aa32b7b6-1b33-4d15-87d6-f3765f9ba2a5",
     "term": "Summary Major Content Area Number of Items Performance Category Foundational Kno",
     "definition": "Summary Major Content Area Number of Items Performance Category Foundational Knowledge and",
     "type": "note",
     "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "9183570d-c5eb-47c5-b46d-ed9f1c26c906",
-    "term": "Basic Science                                               15 questions",
-    "definition": "Basic Science                                               15 questions",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "5c389511-b1ff-4267-a077-964c97c5f491",
-    "term": "Anatomy and Physiology                           12 questions",
-    "definition": "Anatomy and Physiology                           12 questions",
-    "type": "note",
-    "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "e9e7254d-840e-41fb-8aad-67dc29994bbf",
-    "term": "Clinical Patient Care                                    81 questions",
-    "definition": "Clinical Patient Care                                    81 questions",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "81e86497-60bb-4ed5-9f2f-4b554d2f5797",
-    "term": "General Patient Care                                   46 questions",
-    "definition": "General Patient Care                                   46 questions",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "c853229b-7f08-4c57-b964-15be37ebe1a4",
-    "term": "Infection Control                                         12 questions",
-    "definition": "Infection Control                                         12 questions",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "f84c9932-f799-4ed0-9663-97cc46f2856e",
-    "term": "Testing and Laboratory Procedures           8 questions",
-    "definition": "Testing and Laboratory Procedures           8 questions",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "2192a237-d738-4c12-b70e-f79c632d7a4f",
-    "term": "Phlebotomy                                                   10 questions",
-    "definition": "Phlebotomy                                                   10 questions",
-    "type": "note",
-    "category": "Blood Draw",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "26704f26-c194-4744-bdec-f64e89108167",
-    "term": "EKG and Cardiovascular Testing                  8 questions",
-    "definition": "EKG and Cardiovascular Testing                  8 questions",
-    "type": "note",
-    "category": "ECG/EKG",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "6787b1f7-7ec0-44a3-968b-756849f2d9b0",
-    "term": "Patient Care Coordination and Education  25 questions",
-    "definition": "Patient Care Coordination and Education  25 questions",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "dbcf9c47-ca45-4ff8-99ff-2f518ddbbbd3",
-    "term": "Administrative Assisting                                 20 questions",
-    "definition": "Administrative Assisting                                 20 questions",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "f2f40c81-3e51-4d4e-8936-24712293d46e",
-    "term": "Communication and Customer Service       8 questions",
-    "definition": "Communication and Customer Service       8 questions",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "45ceef14-728f-4260-94d3-e5ea93c1af3b",
-    "term": "Medical Law and Ethics                                 7 questions",
-    "definition": "Medical Law and Ethics                                 7 questions",
-    "type": "note",
-    "category": "Legal/Consent",
     "difficulty": "unrated"
   },
   {
