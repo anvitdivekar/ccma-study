@@ -105,10 +105,10 @@
   },
   {
     "id": "39bf45bf-aa64-4d7f-82b0-6d2c59e86446",
-    "term": "Know the signs of infections in term of color, (Blk, gray, green, orange, purple",
-    "definition": "Know the signs of infections in term of color, (Blk, gray, green, orange, purple, blue)",
-    "type": "note",
-    "category": "General",
+    "term": "Signs of infection — wound drainage colors",
+    "definition": "Black: necrotic/dead tissue (gangrene). Gray: Pseudomonas or fungal. Green: Pseudomonas aeruginosa bacterial infection. Orange: mixed infection or Staph. Purple: hemorrhagic or fungal. Blue: Pseudomonas. Yellow/tan: Staph aureus. Clear/serous: normal healing. Purulent (pus) of any color = infection.",
+    "type": "term",
+    "category": "Infection Control",
     "difficulty": "unrated"
   },
   {
@@ -6169,9 +6169,9 @@
   },
   {
     "id": "fb8072a3-736e-4cff-883b-d77fb7bfa2f6",
-    "term": "Know EKG from the NHA Study Guide in detail. Know leads I, II, III, AVR, AVF, AV",
-    "definition": "Know EKG from the NHA Study Guide in detail. Know leads I, II, III, AVR, AVF, AVL, and V1, V2, V3, V4, V5, V6. Know their color and where they go. Which ones are unipolar, bipolar, and precordial? Know all the arrythmias and in what circumstances they happen. Know how to get HR from a EKG strip (The 1500 Method: Count the number of small boxes between two successive R waves and divide this number into 1500 to obtain heart rate) If that is too hard, try this video instead.",
-    "type": "note",
+    "term": "ECG leads overview (12-lead)",
+    "definition": "Limb leads I, II, III (bipolar). Augmented leads aVR, aVL, aVF (unipolar). Precordial/chest leads V1–V6 (unipolar). Heart rate via 1500 Method: count small boxes between two R waves, divide into 1500. Know electrode colors and placement for each lead.",
+    "type": "term",
     "category": "ECG/EKG",
     "difficulty": "unrated"
   },
