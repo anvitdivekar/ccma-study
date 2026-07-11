@@ -97,9 +97,9 @@
   },
   {
     "id": "69f82f1d-4f11-42fb-8f2b-c545acf72d98",
-    "term": "For all hematomas one must apply direct pressure or if associated with edema mus",
-    "definition": "For all hematomas one must apply direct pressure or if associated with edema must apply pressure and ice",
-    "type": "note",
+    "term": "Hematoma — management",
+    "definition": "A hematoma is a collection of blood outside blood vessels caused by blunt trauma. Treatment: apply direct pressure to control bleeding. If associated with swelling/edema, apply ice (20 min on/off). Elevate the affected limb. Do NOT apply heat acutely. Monitor for expanding hematoma requiring medical evaluation.",
+    "type": "term",
     "category": "Blood Draw",
     "difficulty": "unrated"
   },
@@ -113,8 +113,8 @@
   },
   {
     "id": "ffc24cc0-fd80-4183-80b2-4929e5b24344",
-    "term": "Hemolysis",
-    "definition": "broken RBC. Can happen if you shake blood collection tube rather than",
+    "term": "Hemolysis (specimen)",
+    "definition": "Breakdown (lysis) of red blood cells releasing hemoglobin into the serum — causes serum to appear pink/red. Occurs when: shaking a blood tube instead of gently inverting it, using a needle too small, or poor venipuncture. Hemolyzed specimens cause falsely elevated potassium, AST, and LDH. Must be recollected.",
     "type": "term",
     "category": "Blood Draw",
     "difficulty": "unrated"
@@ -217,9 +217,9 @@
   },
   {
     "id": "be7cbc35-06eb-4d4f-b6f6-d5307046458c",
-    "term": "Baby only have length not height. Most important when measuring an infant length",
-    "definition": "Baby only have length not height. Most important when measuring an infant length is to hold down the knee to extend the leg",
-    "type": "note",
+    "term": "Infant measurement — length vs. height",
+    "definition": "Infants and children under 2 years are measured lying down (recumbent length), NOT standing height. Standing height is used for children ≥2 years. Recumbent length is ~1 cm longer than standing height. Length and weight are plotted on growth charts to track infant development.",
+    "type": "term",
     "category": "Vital Signs",
     "difficulty": "unrated"
   },
@@ -289,8 +289,8 @@
   },
   {
     "id": "13943211-d6ae-4023-a7c5-d44ccfbf6ff7",
-    "term": "Manual blood pressure",
-    "definition": "review the BP section in Ch 1.",
+    "term": "Manual blood pressure — procedure",
+    "definition": "Measure BP using a sphygmomanometer and stethoscope. Steps: (1) Patient seated, arm at heart level. (2) Apply cuff 2–3 cm above antecubital fossa. (3) Palpate brachial artery; inflate to ~30 mmHg above where pulse disappears. (4) Deflate at 2–3 mmHg/sec; first Korotkoff sound = systolic, last = diastolic. Normal: <120/<80 mmHg.",
     "type": "term",
     "category": "Vital Signs",
     "difficulty": "unrated"
@@ -530,7 +530,7 @@
   {
     "id": "67a0c394-71e7-4b60-acac-de9582162fc0",
     "term": "CCMA duties",
-    "definition": "greet and instruct ☹",
+    "definition": "Clinical duties: vital signs, patient intake/triage, specimen collection (blood, urine, throat), ECG, medication/injection administration, CLIA-waived lab tests, physician procedure assistance. Administrative duties: scheduling, medical records, billing/coding, telephone triage, patient education.",
     "type": "term",
     "category": "Administrative",
     "difficulty": "unrated"
@@ -737,9 +737,9 @@
   },
   {
     "id": "3b3941b4-8515-461a-ae09-ba9487a3d627",
-    "term": "TSH",
-    "definition": "Thyroid stimulating hormone.",
-    "type": "mnemonic",
+    "term": "TSH (Thyroid Stimulating Hormone)",
+    "definition": "Hormone released by the anterior pituitary that stimulates the thyroid to produce T3 and T4. Normal range: 0.4–4.0 mIU/L. Elevated TSH = hypothyroidism (underactive thyroid). Low TSH = hyperthyroidism (overactive thyroid). Primary test for thyroid function screening.",
+    "type": "term",
     "category": "Endocrine/Diabetes",
     "difficulty": "unrated"
   },
@@ -769,9 +769,9 @@
   },
   {
     "id": "5d1cef73-2a65-4054-8c26-8554c03f98dd",
-    "term": "Parkinson Disease how can one identify the disease along with somatic tremors, w",
-    "definition": "Parkinson Disease how can one identify the disease along with somatic tremors, with association of shuffled gait(walk)",
-    "type": "note",
+    "term": "Parkinson's disease",
+    "definition": "Chronic progressive neurodegenerative disorder caused by loss of dopamine-producing neurons in the substantia nigra. Classic signs: resting tremor (\"pill-rolling\"), cogwheel rigidity, bradykinesia (slowness), postural instability. Shuffling gait, facial masking. Managed with levodopa/carbidopa. No cure; progressive.",
+    "type": "term",
     "category": "ECG/EKG",
     "difficulty": "unrated"
   },
@@ -1041,9 +1041,9 @@
   },
   {
     "id": "87f5ed49-61e4-4458-bca5-682ded63045f",
-    "term": "GTT can be obtained by a drink, capillary puncture such as the glucometer or A1C",
-    "definition": "GTT can be obtained by a drink, capillary puncture such as the glucometer or A1C assay or whole blood.",
-    "type": "note",
+    "term": "GTT (Glucose Tolerance Test)",
+    "definition": "Screens for gestational diabetes and prediabetes. Patient fasts 8–12 hours, ingests a glucose solution, then blood glucose is drawn at intervals (1, 2, 3 hours). Can use capillary puncture (glucometer) for 1-hour screen. A1C measures average glucose over 2–3 months — separate from GTT. Abnormal 2-hour GTT: ≥200 mg/dL.",
+    "type": "term",
     "category": "Blood Draw",
     "difficulty": "unrated"
   },
@@ -1601,8 +1601,8 @@
   },
   {
     "id": "9dca3df0-8e51-4f0a-aee3-01333dba93d3",
-    "term": "Hemoccult test. Hidden blood in stool",
-    "definition": "the card of the test guaiac card",
+    "term": "Hemoccult (guaiac) test — fecal occult blood",
+    "definition": "Fecal occult blood test (FOBT) using guaiac paper cards that turn blue when hidden blood is present in stool. Used to screen for colorectal cancer and GI bleeding. Patient must avoid red meat, aspirin, and vitamin C before testing. Positive result requires further workup (colonoscopy). The stool sample is applied to a guaiac card with a developer solution.",
     "type": "term",
     "category": "Lab Values",
     "difficulty": "unrated"
@@ -2001,16 +2001,16 @@
   },
   {
     "id": "c3b1df09-6042-4940-aa04-5d8e0785d629",
-    "term": "PR = .012",
-    "definition": ".20 seconds",
+    "term": "PR interval (ECG)",
+    "definition": "Time from the start of the P wave to the start of the QRS complex — represents atrial depolarization and AV node conduction delay. Normal: 0.12–0.20 seconds (3–5 small boxes at 25 mm/sec). Prolonged PR (>0.20 sec) = first-degree AV block. Short PR = pre-excitation syndrome (e.g., WPW).",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "065c93f3-6d51-4fa4-ab07-9d92782d3c0a",
-    "term": "QRS = .04",
-    "definition": ".10 seconds",
+    "term": "QRS complex (ECG)",
+    "definition": "Represents ventricular depolarization — electrical activation of both ventricles. Normal duration: 0.04–0.10 seconds (1–2.5 small boxes at 25 mm/sec). Wide QRS (>0.12 sec) = bundle branch block, ventricular arrhythmia, or hyperkalemia. Follows immediately after the PR interval.",
     "type": "term",
     "category": "ECG/EKG",
     "difficulty": "unrated"
@@ -2114,7 +2114,7 @@
   {
     "id": "7acbab04-36e1-4c10-bc74-17a7bfca4795",
     "term": "Tissue biopsy",
-    "definition": "histology dept. is where you have it to send it to be test and read",
+    "definition": "Removal of a small tissue sample for microscopic examination to detect disease. Types: excisional (removes entire lesion), incisional (removes part), needle (core or fine-needle aspiration). Specimens are sent to the histology/pathology department where they are processed, sectioned, stained, and examined by a pathologist.",
     "type": "term",
     "category": "Anatomy & Terminology",
     "difficulty": "unrated"
@@ -2649,8 +2649,8 @@
   },
   {
     "id": "8d2ff1b6-d7a7-4297-8640-067c181ad46e",
-    "term": "AVL_ AVR",
-    "definition": "AVF- V1-V6_ RA, RL, LL, LA",
+    "term": "ECG augmented and precordial leads",
+    "definition": "Augmented limb leads: aVR (right arm), aVL (left arm), aVF (left foot/inferior). Precordial chest leads V1–V6 placed across the chest. With limb leads I, II, III, these form the standard 12-lead ECG. Electrode placement: RA (right arm), LA (left arm), RL (right leg — ground), LL (left leg).",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -2664,27 +2664,11 @@
     "difficulty": "unrated"
   },
   {
-    "id": "c0579042-bc81-4c48-862d-7a47b15919fb",
-    "term": "Study calculations, lbs to oz. ht or  ekg’s 1500, 300 cal,,  cc=ml, Fahrenheit t",
-    "definition": "Study calculations, lbs to oz. ht or  ekg’s 1500, 300 cal,,  cc=ml, Fahrenheit to Celsius",
-    "type": "note",
-    "category": "ECG/EKG",
-    "difficulty": "unrated"
-  },
-  {
     "id": "976b51e6-953c-4cdc-9f10-fb2a97eaa306",
     "term": "EKG artifacts",
     "definition": "Somatic tremor: irregular baseline from patient movement/shaking (e.g., Parkinson's, shivering). 60-cycle (AC) interference: thick fuzzy baseline from electrical equipment. Wandering baseline: gradual baseline drift from poor electrode contact or breathing. Fix: reposition electrodes, ask patient to relax, remove interfering devices.",
     "type": "note",
     "category": "ECG/EKG",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "c48cb2df-3748-41c8-a553-6b4359eb92e2",
-    "term": "Study stress test, chapter 1, Ex",
-    "definition": "treadmill, elliptical bike ( standstill for pt who can not run)",
-    "type": "term",
-    "category": "Lab Values",
     "difficulty": "unrated"
   },
   {
@@ -3185,8 +3169,8 @@
   },
   {
     "id": "ed07e007-2df9-4ec7-ac40-d7185a0d39b4",
-    "term": "produce tears to lubricate the eye",
-    "definition": "The function of the lacrimal apparatus is",
+    "term": "Lacrimal apparatus",
+    "definition": "Produces and drains tears to lubricate and protect the eye. Includes: lacrimal gland (produces tears), lacrimal ducts, lacrimal sac, and nasolacrimal duct (drains tears into the nose). Tears contain lysozyme (antibacterial). Lacrimal gland is in the superolateral orbit.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -3281,18 +3265,10 @@
   },
   {
     "id": "25a5c234-69e8-4d29-85ef-1e83ca79e12e",
-    "term": "peristalsis",
-    "definition": "The wavelike movement that propels food through the digestive tract is",
+    "term": "Peristalsis",
+    "definition": "Involuntary wave-like smooth muscle contractions of the GI tract wall that propel food from the esophagus through the intestines to the rectum. Controlled by the enteric nervous system. Absent bowel sounds indicate ileus. Also occurs in the ureters (moving urine to bladder).",
     "type": "term",
     "category": "GI/Digestive",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "53f8a5ff-8b4c-4b60-ab52-d7e9ec2dce08",
-    "term": "the process that does not require oxygen for the breakdown of glucose is referre",
-    "definition": "the process that does not require oxygen for the breakdown of glucose is referred to as being",
-    "type": "note",
-    "category": "Respiratory",
     "difficulty": "unrated"
   },
   {
@@ -3328,14 +3304,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "5dd29742-4d6c-439c-a213-daf4f000985e",
-    "term": "a pregnancy that develops in a location outside the uterine cavity is referred t",
-    "definition": "a pregnancy that develops in a location outside the uterine cavity is referred to as",
-    "type": "note",
-    "category": "OB/GYN",
-    "difficulty": "unrated"
-  },
-  {
     "id": "b5410c4f-0488-4c5e-8fcd-199ffa4c097d",
     "term": "Ectopic pregnancy",
     "definition": "Fertilized egg implants outside the uterus, most commonly in the fallopian tube. Signs: sharp one-sided pelvic pain, vaginal bleeding, positive HCG. Medical emergency — can cause tube rupture and internal hemorrhage. Treated with methotrexate or surgery.",
@@ -3361,18 +3329,10 @@
   },
   {
     "id": "b61611a3-e158-4b2d-a363-551025e02c9f",
-    "term": "pH",
-    "definition": "The measure of acidity or alkanlinity of a solution is",
+    "term": "pH (acidity/alkalinity)",
+    "definition": "Scale from 0–14 measuring acidity or alkalinity. pH 7.0 = neutral; <7.0 = acidic; >7.0 = alkaline (basic). Normal blood pH: 7.35–7.45. Acidosis (<7.35): respiratory (high CO2) or metabolic (low HCO3). Alkalosis (>7.45): respiratory (low CO2) or metabolic (high HCO3). Maintained by lungs, kidneys, and buffer systems.",
     "type": "term",
     "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "2b59f6c5-ddd0-4abe-8f8e-f4ba3487cc1c",
-    "term": "a term that describes a solution that has the same concentration as cell fluids ",
-    "definition": "a term that describes a solution that has the same concentration as cell fluids is",
-    "type": "note",
-    "category": "Sensory Screening",
     "difficulty": "unrated"
   },
   {
@@ -3416,27 +3376,11 @@
     "difficulty": "unrated"
   },
   {
-    "id": "7f848325-b323-43db-bfa3-f57688eb5898",
-    "term": "a major muscle in the body that assists in raising the arm away from the body is",
-    "definition": "a major muscle in the body that assists in raising the arm away from the body is the",
-    "type": "note",
-    "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
     "id": "b5fa0d1e-6150-4965-a6bf-fc9d7a6c7e0a",
     "term": "Deltoid muscle",
     "definition": "Large triangular muscle of the shoulder. Primary IM injection site in adults (deltoid IM: 1–3 inch, 23 gauge, 90°). Landmark: 2–3 finger widths below the acromion process. Can give 1–2 mL. Not used for infants/toddlers (underdeveloped).",
     "type": "note",
     "category": "Medications",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "109dcc97-af95-4314-aad4-98a18bb91cab",
-    "term": "cells that carry or transmit impulses toward the central nervous system are call",
-    "definition": "cells that carry or transmit impulses toward the central nervous system are called",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
@@ -3488,14 +3432,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "5bd7a3a6-b645-4aa5-a7bd-86c5d1178c9d",
-    "term": "the blood vessel that brings blood from the head chest and arms back to the hear",
-    "definition": "the blood vessel that brings blood from the head chest and arms back to the heart is the",
-    "type": "note",
-    "category": "Cardiovascular",
-    "difficulty": "unrated"
-  },
-  {
     "id": "2af5998f-b96e-48d6-83c4-0be0548339ec",
     "term": "Superior vena cava (SVC)",
     "definition": "Large vein that drains deoxygenated blood from the upper body (head, neck, arms, thorax) into the right atrium. Inferior vena cava (IVC) drains lower body. Together = venae cavae. SVC syndrome: compression causing facial swelling, seen in lung cancer.",
@@ -3513,16 +3449,16 @@
   },
   {
     "id": "22bb4196-2550-477c-9286-be88e4e291e9",
-    "term": "artery",
-    "definition": "arteriole-capillary",
+    "term": "Artery → arteriole → capillary (blood flow)",
+    "definition": "Blood flows from arteries → arterioles → capillaries (gas/nutrient exchange) → venules → veins → heart. Arteries carry blood away from the heart under high pressure. Capillaries are one cell thick — site of O2/CO2 exchange. Veins carry blood toward the heart under low pressure with valves to prevent backflow.",
     "type": "term",
     "category": "Blood Draw",
     "difficulty": "unrated"
   },
   {
     "id": "2f8de85f-0fdd-4095-9e2e-fefd1cb6424c",
-    "term": "lymphangitis",
-    "definition": "The condition of inflammation of the lymphatic vessels is",
+    "term": "Lymphangitis",
+    "definition": "Inflammation of the lymphatic vessels, usually caused by bacterial infection (typically Streptococcus). Appears as red streaks extending from an infected wound toward regional lymph nodes. Signs: red streaks, warmth, tenderness, fever, chills. A serious condition — can progress to septicemia. Treated with IV antibiotics.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -3533,14 +3469,6 @@
     "definition": "Thymus, spleen, tonsils, and adenoids — along with lymph nodes and lymphatic vessels distributed throughout the body.",
     "type": "term",
     "category": "Anatomy",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "038aa588-6320-45ab-ac1b-2e97d45f9900",
-    "term": "The process in which white blood cells take in and destroy waste and foreign mat",
-    "definition": "The process in which white blood cells take in and destroy waste and foreign material is called:",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
@@ -3565,14 +3493,6 @@
     "definition": "Throat — muscular tube connecting nasal/oral cavities to larynx and esophagus. Three sections: nasopharynx (behind nose), oropharynx (behind mouth), laryngopharynx (connects to larynx/esophagus). Site of tonsils, adenoids. Pharyngitis = strep throat.",
     "type": "note",
     "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "dc1e2904-0bc2-4707-bc55-4c89e83e6965",
-    "term": "an accumulation of air in the pleural space that may lead to collapse of the lun",
-    "definition": "an accumulation of air in the pleural space that may lead to collapse of the lungs is called",
-    "type": "note",
-    "category": "ECG/EKG",
     "difficulty": "unrated"
   },
   {
@@ -3609,8 +3529,8 @@
   },
   {
     "id": "48249623-1439-4cfc-ab31-44a127b4ab03",
-    "term": "rugae",
-    "definition": "The lining of the stomach has many folds",
+    "term": "Rugae (stomach)",
+    "definition": "Large longitudinal folds (wrinkles) in the mucosal lining of the stomach allowing it to expand when food enters. When empty, rugae are prominent; they flatten as the stomach fills. The small intestine has villi (not rugae) for nutrient absorption. Mucosa of the urinary bladder also has rugae.",
     "type": "term",
     "category": "GI/Digestive",
     "difficulty": "unrated"
@@ -3633,24 +3553,24 @@
   },
   {
     "id": "9a47bd04-f0e1-4127-a49d-57f5648e8ea7",
-    "term": "edema",
-    "definition": "An abnormal accumulation of excessive fluid in the intercellular space is",
+    "term": "Edema",
+    "definition": "Abnormal accumulation of excess fluid in the interstitial (intercellular) space causing swelling. Pitting edema: pressing leaves an indentation. Causes: heart failure, kidney disease, liver disease, venous insufficiency, hypoalbuminemia. Graded 1+ to 4+. Treated with diuretics and addressing the underlying cause.",
     "type": "term",
     "category": "Patient Positioning",
     "difficulty": "unrated"
   },
   {
     "id": "7909a7f2-a246-4010-87c0-54b093b83772",
-    "term": "retroperitoneal space",
-    "definition": "The kidneys are located in",
+    "term": "Retroperitoneal space",
+    "definition": "The space posterior to the peritoneum in the abdominal cavity. Retroperitoneal structures: kidneys, ureters, adrenal glands, aorta, inferior vena cava, pancreas (body/head), and portions of the duodenum and colon. Retroperitoneal bleeding (hematoma) can occur with kidney trauma or aortic aneurysm.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "c7c3b9b4-3cb7-48b8-b3ad-709c432026a5",
-    "term": "distention of the renal pelvis resulting from obstructed flow of urine",
-    "definition": "Hydronephrosis",
+    "term": "Hydronephrosis",
+    "definition": "Distension (swelling) of the renal pelvis and calyces due to obstruction of urine outflow. Causes: kidney stones, ureteral stricture, BPH, tumor. Signs: flank pain, decreased urine output. Diagnosed by ultrasound. Untreated hydronephrosis leads to permanent kidney damage. \"Distention of the renal pelvis resulting from obstructed flow of urine.\"",
     "type": "term",
     "category": "Urinalysis",
     "difficulty": "unrated"
@@ -3713,16 +3633,16 @@
   },
   {
     "id": "44973b54-5c5d-4aa9-bfe9-8f8756faf047",
-    "term": "human chronic gonadotropin hormone",
-    "definition": "The hormone produced by the embryonic cells of the fetus",
+    "term": "hCG (Human Chorionic Gonadotropin)",
+    "definition": "Hormone produced by placental trophoblast cells after implantation. Detected in blood and urine — basis for pregnancy tests (home and lab). Maintains the corpus luteum (which produces progesterone) in early pregnancy. Also elevated in ectopic pregnancy and molar pregnancy. Doubles every 48–72 hours in normal early pregnancy.",
     "type": "term",
     "category": "Endocrine/Diabetes",
     "difficulty": "unrated"
   },
   {
     "id": "e7c1ccdf-4501-46ea-b7ee-b694e71f6079",
-    "term": "albumin",
-    "definition": "A substance necessary for proper formation of a blood clot",
+    "term": "Albumin (plasma protein)",
+    "definition": "Most abundant plasma protein, synthesized by the liver. Functions: (1) maintains oncotic (osmotic) pressure keeping fluid in blood vessels; (2) transports hormones, drugs, fatty acids, and bilirubin. Low albumin (hypoalbuminemia) causes edema and ascites. Note: albumin is NOT a clotting factor — clotting requires fibrinogen and prothrombin. Normal: 3.5–5.0 g/dL.",
     "type": "term",
     "category": "Cardiovascular",
     "difficulty": "unrated"
@@ -3761,8 +3681,8 @@
   },
   {
     "id": "7b170849-d323-41f6-af9e-d9714d7b422b",
-    "term": "emphysema",
-    "definition": "An example of chronic obstructive pulmonary disease",
+    "term": "Emphysema",
+    "definition": "COPD characterized by permanent destruction of alveolar walls and air space enlargement, reducing surface area for gas exchange. Caused primarily by long-term smoking. Signs: barrel chest, pursed-lip breathing, hyperresonance, dyspnea, decreased breath sounds. \"Pink puffer.\" Diagnosed with PFTs (reduced FEV1/FVC). Irreversible; managed with bronchodilators, O2.",
     "type": "term",
     "category": "Respiratory",
     "difficulty": "unrated"
@@ -3785,18 +3705,10 @@
   },
   {
     "id": "64232cd6-1cd2-4170-9f06-70f2805d9dd4",
-    "term": "cirrhosis",
-    "definition": "A chronic degenerative disease of the liver",
+    "term": "Cirrhosis",
+    "definition": "Chronic progressive liver disease in which normal hepatic tissue is replaced by fibrous scar tissue, impairing function. Causes: alcohol abuse (most common in US), hepatitis B/C, NAFLD. Complications: portal hypertension, esophageal varices, ascites, hepatic encephalopathy, hepatorenal syndrome, hepatocellular carcinoma. Managed with supportive care and treating the cause.",
     "type": "term",
     "category": "GI/Digestive",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "e09804e8-3443-4206-a0df-7caaac8acf05",
-    "term": "the tube that permits urine to pass from the bladder to the outside of the body ",
-    "definition": "the tube that permits urine to pass from the bladder to the outside of the body is the",
-    "type": "note",
-    "category": "Blood Draw",
     "difficulty": "unrated"
   },
   {
@@ -3833,26 +3745,18 @@
   },
   {
     "id": "7a21387d-e7a9-4d7e-a373-22683043a768",
-    "term": "visceral layer",
-    "definition": "The membrane a attached to internal organs is",
+    "term": "Visceral layer (serous membrane)",
+    "definition": "The inner layer of a serous membrane that is directly attached to the surface of an organ. Contrasted with the parietal layer (lines the body cavity wall). Examples: visceral pleura covers lung surface; visceral pericardium (epicardium) covers the heart; visceral peritoneum covers abdominal organs. Visceral layer has no somatic pain receptors.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "ee6b213d-ab8f-4c4d-9a54-1b7d7bdabf0c",
-    "term": "degenerative",
-    "definition": "That describes a disorder that breaks down tissues in a body system",
+    "term": "Degenerative disorder",
+    "definition": "A disorder that progressively breaks down or deteriorates tissues in a body system, reducing function over time. Examples: osteoarthritis (cartilage), Alzheimer's disease (neurons), macular degeneration (retina), Parkinson's disease (dopaminergic neurons). Often chronic, age-related, and progressive. Treatment focuses on slowing progression and managing symptoms.",
     "type": "term",
     "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "c387316c-0dd4-401d-ab12-ac65d0800a72",
-    "term": "the study of the cause of any disease or of all factors that may be involved in ",
-    "definition": "the study of the cause of any disease or of all factors that may be involved in the development if a disease is",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
@@ -3861,14 +3765,6 @@
     "definition": "The cause or origin of a disease or condition. Etiology of hypertension: often idiopathic (unknown); secondary causes include kidney disease, adrenal tumors. Knowing etiology guides treatment. Unknown etiology = idiopathic.",
     "type": "note",
     "category": "Medical Abbreviations",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "95b6622e-1907-4c0d-8f26-4fccbb856060",
-    "term": "the chronic skin condition characterized by a red, flat area covered with silver",
-    "definition": "the chronic skin condition characterized by a red, flat area covered with silvery scales is",
-    "type": "note",
-    "category": "Dermatology",
     "difficulty": "unrated"
   },
   {
@@ -3896,14 +3792,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "9488d2cb-9a3c-4745-8ffb-ff2db791c64c",
-    "term": "the bone that is part of the shoulder girdle and is between the sternum and the ",
-    "definition": "the bone that is part of the shoulder girdle and is between the sternum and the scapula is the",
-    "type": "note",
-    "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
     "id": "c191155c-56ec-4d4d-8c9c-bf8cd4508445",
     "term": "Clavicle",
     "definition": "Collarbone. Connects sternum (breastbone) to scapula (shoulder blade). Most commonly fractured bone in the body (fall on outstretched hand or direct blow). \"S\"-shaped bone. Landmark for subclavian central line insertion.",
@@ -3920,14 +3808,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "3ae0d19a-cc43-4e3b-963c-ff8b012e5974",
-    "term": "the type of joint motion that allows movement away from the midline of the body,",
-    "definition": "the type of joint motion that allows movement away from the midline of the body, such as moving the arms straight out to the side, is",
-    "type": "note",
-    "category": "Sensory Screening",
-    "difficulty": "unrated"
-  },
-  {
     "id": "f0daaa22-0559-4a14-b2f9-f4df6ab2439d",
     "term": "Abduction",
     "definition": "Movement of a limb away from the midline of the body. Opposite: adduction (toward midline). Example: raising arm to the side = shoulder abduction. Hip abductors prevent Trendelenburg gait. Prefix: ab- = away from.",
@@ -3941,14 +3821,6 @@
     "definition": "Dilates bronchi of the lungs, increases heart rate, elevates blood pressure, dilates pupils, and decreases digestive activity.",
     "type": "term",
     "category": "Anatomy",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "1241dbf0-d891-4044-a3dd-316ee33d735b",
-    "term": "the portion of the brain that aids in the coordination of voluntary muscle actio",
-    "definition": "the portion of the brain that aids in the coordination of voluntary muscle action is the",
-    "type": "note",
-    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -4017,8 +3889,8 @@
   },
   {
     "id": "5cbf83e6-3424-450e-80ef-e03ff0e3b2d5",
-    "term": "an antigen that affects a person's blood type",
-    "definition": "The Rh factor in blood",
+    "term": "Rh factor (blood antigen)",
+    "definition": "A protein antigen on the surface of red blood cells. Rh-positive: ~85% of people. Rh-negative: lack the antigen. An Rh-negative mother pregnant with an Rh-positive fetus can develop anti-Rh antibodies (sensitization) — causing hemolytic disease of the newborn in future pregnancies. Prevented with RhoGAM (Rh immunoglobulin) injection.",
     "type": "term",
     "category": "Hematology",
     "difficulty": "unrated"
@@ -4065,8 +3937,8 @@
   },
   {
     "id": "4b81f7d4-e695-4a56-9f80-cf3a8ed7a33f",
-    "term": "contracting the disease",
-    "definition": "Acquired natural active immunity is achieved",
+    "term": "Natural active immunity — acquired by contracting disease",
+    "definition": "Immunity that develops when the body is infected by a pathogen and produces its own antibodies. The most durable immunity. Distinguished from: artificial active immunity (vaccines), natural passive immunity (maternal antibodies via placenta/breast milk), artificial passive immunity (injected antibodies). Produces long-lasting memory cells (B and T cells).",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -4089,50 +3961,42 @@
   },
   {
     "id": "e94e911f-ccde-4d87-a491-5f8c58d90c12",
-    "term": "tuberculosis",
-    "definition": "A communicable infectious disease of the lungs",
+    "term": "Tuberculosis (TB)",
+    "definition": "Communicable infectious lung disease caused by Mycobacterium tuberculosis. Transmitted via airborne droplets. Symptoms: chronic productive cough, hemoptysis, night sweats, fever, weight loss. Diagnosed with Mantoux skin test (PPD), chest X-ray, sputum culture. Treated with RIPE regimen (rifampin, isoniazid, pyrazinamide, ethambutol) for 6–9 months. Requires airborne precautions.",
     "type": "term",
     "category": "Blood Draw",
     "difficulty": "unrated"
   },
   {
     "id": "824576ff-2eba-49ad-98bd-d11f66fc748b",
-    "term": "Crohn disease",
-    "definition": "An example of inflammatory bowel disease",
+    "term": "Crohn's disease",
+    "definition": "Chronic inflammatory bowel disease (IBD) affecting any GI segment from mouth to anus, most commonly terminal ileum and colon. Transmural inflammation, skip lesions, cobblestone mucosa. Symptoms: abdominal pain, diarrhea, weight loss, bloody stool. Complications: fistulas, strictures, malabsorption. Treated with 5-ASA, steroids, biologics. Differs from ulcerative colitis (colon only, mucosal only).",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "59240b0b-1199-404f-976c-e2ab6f2b3444",
-    "term": "detoxify harmful substances such as alcohol and certain drug",
-    "definition": "A function of the liver is",
+    "term": "Liver — detoxification function",
+    "definition": "One major liver function is to detoxify harmful substances including alcohol, drugs, and metabolic waste. The liver uses cytochrome P450 enzymes to metabolize drugs. Converts ammonia (from protein breakdown) to urea for renal excretion. Other liver functions: bile production, glucose storage (glycogen), albumin synthesis, clotting factor production, lipid metabolism.",
     "type": "term",
     "category": "Medications",
     "difficulty": "unrated"
   },
   {
     "id": "9760275c-a7b7-4d2f-b8b6-e03f7e9808c5",
-    "term": "intracellular fluid",
-    "definition": "The fluid contained within the body cells is",
+    "term": "Intracellular fluid (ICF)",
+    "definition": "Fluid within body cells — the largest fluid compartment (~60–65% of total body water; ~40% of body weight). High in potassium (K+) and phosphate. Separated from extracellular fluid (ECF) by the cell membrane. Regulated by osmosis. Hyponatremia shifts water INTO cells (cells swell); hypernatremia shifts water OUT (cells shrink).",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "a3a0c0af-5e5c-4722-b27b-eee617847be2",
-    "term": "sodium and potassium",
-    "definition": "The two important electrolytes found in the body",
+    "term": "Key electrolytes: sodium and potassium",
+    "definition": "Sodium (Na+) and potassium (K+) are the two most important electrolytes. Sodium: primary extracellular cation; regulates fluid balance and osmolarity (normal 136–145 mEq/L). Potassium: primary intracellular cation; essential for cardiac conduction and muscle function (normal 3.5–5.0 mEq/L). Imbalances cause serious arrhythmias and neuromuscular dysfunction.",
     "type": "term",
     "category": "Lab Values",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "51e536c5-6e24-4603-af56-a5ff8976375a",
-    "term": "a condition resulting from renal failure and causing high levels of blood urea n",
-    "definition": "a condition resulting from renal failure and causing high levels of blood urea nitrogen is",
-    "type": "note",
-    "category": "Urinalysis",
     "difficulty": "unrated"
   },
   {
@@ -4145,8 +4009,8 @@
   },
   {
     "id": "28451e93-db42-49b7-a827-ed90c6b56731",
-    "term": "gestation",
-    "definition": "The period of pregnancy is",
+    "term": "Gestation (pregnancy period)",
+    "definition": "The period of pregnancy from fertilization to birth. Normal human gestation: ~40 weeks (280 days) from the first day of the last menstrual period (LMP). Divided into three trimesters. Term: 37–42 weeks. Preterm: <37 weeks. Post-term: >42 weeks. Gestational age is measured from LMP, not from conception.",
     "type": "term",
     "category": "OB/GYN",
     "difficulty": "unrated"
@@ -4161,18 +4025,10 @@
   },
   {
     "id": "8a476f2f-18cf-452d-8fdf-a9edafbff9a4",
-    "term": "cervical, thoracic, lumbar, sacral, coccyx",
-    "definition": "The order of the vertebral column from top to bottom",
+    "term": "Vertebral column — regions (top to bottom)",
+    "definition": "Five regions: (1) Cervical — 7 vertebrae (C1–C7, neck); (2) Thoracic — 12 vertebrae (T1–T12, articulate with ribs); (3) Lumbar — 5 vertebrae (L1–L5, largest); (4) Sacral — 5 fused vertebrae (sacrum); (5) Coccygeal — 4 fused vertebrae (coccyx/tailbone). Total: 33 vertebrae (26 after fusion). Mnemonic: \"Cervical Tickles, Lumbar Stands, Coccyx Crouches.\"",
     "type": "term",
     "category": "OB/GYN",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "103cbaa9-b74d-4adb-ba94-11a9c185b264",
-    "term": "the muscle located on the anterior thigh and that function to extend the leg is ",
-    "definition": "the muscle located on the anterior thigh and that function to extend the leg is the",
-    "type": "note",
-    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -4248,14 +4104,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "a6c502a8-e229-43e5-91ef-e4e3def0dfd4",
-    "term": "an excessive curvature in the thoracic portion of the spinal column also known a",
-    "definition": "an excessive curvature in the thoracic portion of the spinal column also known as hunchback is",
-    "type": "note",
-    "category": "Sensory Screening",
-    "difficulty": "unrated"
-  },
-  {
     "id": "4d4d5dbd-8e1e-41ea-b67b-5a2956ddbe58",
     "term": "Kyphosis",
     "definition": "Excessive posterior curvature of the thoracic spine — \"hunchback.\" Common in elderly osteoporosis. Distinguished from scoliosis (lateral curve) and lordosis (excessive lumbar curve/\"swayback\"). Can restrict breathing if severe. Seen from the side.",
@@ -4265,8 +4113,8 @@
   },
   {
     "id": "e1c10129-c24a-48a6-b45e-0734f696ed2a",
-    "term": "eyes",
-    "definition": "Diabetic retinopathy is a result of damage to",
+    "term": "Diabetic retinopathy",
+    "definition": "Damage to retinal blood vessels caused by chronically elevated blood glucose. Leading cause of blindness in working-age adults. Stages: non-proliferative (microaneurysms, dot hemorrhages) → proliferative (new fragile vessel growth → vitreous hemorrhage, retinal detachment). Screen with annual dilated fundoscopy. Prevented by tight glucose and BP control.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -4281,18 +4129,10 @@
   },
   {
     "id": "887fc604-d627-4c06-8e5b-d92df72637a7",
-    "term": "type 2 diabetes is non",
-    "definition": "insulin-dependent diabetes",
+    "term": "Type 2 diabetes mellitus (non-insulin-dependent)",
+    "definition": "Chronic metabolic disorder characterized by insulin resistance and relative insulin deficiency. Pancreas still produces insulin (unlike Type 1). Risk factors: obesity, sedentary lifestyle, family history, age >45. First-line treatment: metformin + lifestyle changes. Insulin added if needed. Complications: neuropathy, retinopathy, nephropathy, cardiovascular disease.",
     "type": "term",
     "category": "Medications",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "fb8c98e7-22a3-4dd5-a0fa-56d39f134f3c",
-    "term": "which of the following is a protein found in the epidermis that makes the skin w",
-    "definition": "which of the following is a protein found in the epidermis that makes the skin waterproof",
-    "type": "note",
-    "category": "Dermatology",
     "difficulty": "unrated"
   },
   {
@@ -4344,14 +4184,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "a820b754-b2b3-4372-b120-c6d47c78d6ac",
-    "term": "which of the following glands are located on the sides of vaginal opening and pr",
-    "definition": "which of the following glands are located on the sides of vaginal opening and produce mucus",
-    "type": "note",
-    "category": "OB/GYN",
-    "difficulty": "unrated"
-  },
-  {
     "id": "3b32f3d9-4e1a-473a-b924-616a3c6ef329",
     "term": "Bartholin glands",
     "definition": "Two small glands located on either side of the vaginal opening. Secrete mucus to lubricate the vagina. Bartholin cyst/abscess: duct blockage causing painful swelling, treated with warm soaks or incision and drainage.",
@@ -4373,14 +4205,6 @@
     "definition": "Anterior: GH (growth), TSH (thyroid-stimulating), ACTH (adrenal-stimulating), FSH (follicle-stimulating), LH (luteinizing), prolactin (milk production). Posterior: ADH/vasopressin (water retention), oxytocin (uterine contraction, bonding). Controlled by hypothalamus via releasing hormones.",
     "type": "note",
     "category": "Endocrine/Diabetes",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "9f4b1d26-957a-4cb8-a33e-481249815918",
-    "term": "a fracture of the radius characterized by bending of the bone with the skin left",
-    "definition": "a fracture of the radius characterized by bending of the bone with the skin left intact is referred to as",
-    "type": "note",
-    "category": "Sensory Screening",
     "difficulty": "unrated"
   },
   {
@@ -4488,14 +4312,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "4913700a-4d47-4b4c-b93a-5bdd4fe15273",
-    "term": "a condition causing a back flow of stomach acid through an incompetent esophagea",
-    "definition": "a condition causing a back flow of stomach acid through an incompetent esophageal sphincter is called",
-    "type": "note",
-    "category": "GI/Digestive",
-    "difficulty": "unrated"
-  },
-  {
     "id": "cb53b90c-1802-467c-b7bd-2b0584faf35b",
     "term": "GERD (Gastroesophageal Reflux Disease)",
     "definition": "Chronic condition where stomach acid flows back (reflux) into the esophagus, causing heartburn, regurgitation, and esophageal damage. Treated with lifestyle changes, antacids, H2 blockers (Zantac), or PPIs (omeprazole). Complications: Barrett's esophagus, esophageal cancer.",
@@ -4509,14 +4325,6 @@
     "definition": "Communication without words. Best example: body language — facial expressions, posture, eye contact, gestures, and interpersonal distance.",
     "type": "term",
     "category": "Communication",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "8bf995b3-e795-498a-8b77-05265f2a60ea",
-    "term": "when a person generalizes the behavior or characteristic of all members of a par",
-    "definition": "when a person generalizes the behavior or characteristic of all members of a particular culture race or religion it is referred to as",
-    "type": "note",
-    "category": "Sensory Screening",
     "difficulty": "unrated"
   },
   {
@@ -4552,14 +4360,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "320bfbf0-9c8f-4333-b08a-e000193518fa",
-    "term": "communicating with someone who is grieving the loss of a loved one is difficult ",
-    "definition": "communicating with someone who is grieving the loss of a loved one is difficult when the person refuses to acknowledge the loss. this type of behavior is referred to as",
-    "type": "note",
-    "category": "Sensory Screening",
-    "difficulty": "unrated"
-  },
-  {
     "id": "b3cbaf5c-59b5-4110-be6c-b856b093affe",
     "term": "Denial (grief/defense mechanism)",
     "definition": "First stage of Kübler-Ross grief model. A person in denial refuses to accept a loss or diagnosis. Be empathetic, listen, and avoid challenging their feelings.",
@@ -4569,24 +4369,24 @@
   },
   {
     "id": "5ff17046-5033-4fa5-9848-34a175ac335d",
-    "term": "tell the patient each time before you touch him or her",
-    "definition": "To communicate with a sight impaired patient it is important",
+    "term": "Communicating with a visually impaired patient",
+    "definition": "Key principle: always announce yourself and tell the patient before you touch them. Speak directly to the patient (not to a companion). Guide rather than pull — offer your arm. Use verbal descriptions in place of visual cues. Provide educational materials in braille, large print, or audio format. Knock and identify yourself each time you enter.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "09554154-648f-4f20-b56c-a114bf433bee",
-    "term": "speak slowly and distinctly to the patient",
-    "definition": "To communicate with a hearing impaired patient it would be advisable",
+    "term": "Communicating with a hearing-impaired patient",
+    "definition": "Face the patient directly (facilitates lip-reading). Speak slowly and distinctly — do not shout. Reduce background noise. Use written notes, a whiteboard, or visual aids. If patient uses sign language, use a professional interpreter (not family). Ensure hearing aids are in place and working. Confirm comprehension using teach-back.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "c812dfbd-e744-4b09-9cd9-4ddfc81e1545",
-    "term": "which of the following is an example of an open",
-    "definition": "ended question you would ask a patient",
+    "term": "Open-ended question (patient interview)",
+    "definition": "A question requiring more than a yes/no answer, encouraging patients to describe in their own words. Example: \"Can you describe your pain?\" or \"Tell me about your symptoms.\" Contrast with closed-ended: \"Is the pain sharp?\" Open-ended questions gather richer information and are used at the start of an interview. Paired with \"reflecting\" to confirm understanding.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -4608,27 +4408,11 @@
     "difficulty": "unrated"
   },
   {
-    "id": "3f99c120-b1c1-4528-a4cc-68c24908691e",
-    "term": "which of the following is an example of behavior that demonstrates open nonverba",
-    "definition": "which of the following is an example of behavior that demonstrates open nonverbal communication",
-    "type": "note",
-    "category": "Psychology",
-    "difficulty": "unrated"
-  },
-  {
     "id": "6f75c1cf-6b14-4204-9074-e7c627ca3fbf",
     "term": "Open nonverbal communication — example",
     "definition": "Leaning forward to listen is an example of open nonverbal communication, demonstrating engagement and attentiveness to the patient.",
     "type": "term",
     "category": "Communication",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "1c7838ae-3fbc-46b4-9be4-6afc48deacf5",
-    "term": "when an individual is overemphasizing certain behaviors to accommodate for real ",
-    "definition": "when an individual is overemphasizing certain behaviors to accommodate for real or imaged weaknesses, he or she is",
-    "type": "note",
-    "category": "Psychology",
     "difficulty": "unrated"
   },
   {
@@ -4645,14 +4429,6 @@
     "definition": "Based on the concept that physiologic needs (air, water, food, shelter) are most basic and must be satisfied before higher-level needs (safety, belonging, esteem, self-actualization) can be pursued.",
     "type": "term",
     "category": "Communication",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "6b586ade-7f70-4dda-8ec5-be15e2732fd7",
-    "term": "physiologic needs are the most basic but are necessary for a person to progress ",
-    "definition": "physiologic needs are the most basic but are necessary for a person to progress any further towards reaching self actualization",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
@@ -4689,8 +4465,8 @@
   },
   {
     "id": "c655ed85-a9e7-4f20-a5d6-dd0f972e1e37",
-    "term": "use gestures to demonstrate information",
-    "definition": "When communicating with a non english speaking patient it is appropriate",
+    "term": "Communicating with a non-English-speaking patient",
+    "definition": "When a professional interpreter is unavailable, use gestures and body language to demonstrate information. Do NOT rely on family members (especially children) as medical interpreters. Speak slowly and simply. Use visual aids and translated materials when available. Document the language barrier and any interpreter used in the chart.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -4705,18 +4481,10 @@
   },
   {
     "id": "3c7f0fa1-55b3-4ade-ada1-5eea6138b882",
-    "term": "you hold an opinion or bias concerning an individual because of his or her affil",
-    "definition": "you hold an opinion or bias concerning an individual because of his or her affiliation with a specific group",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "bef29816-06bd-4731-907a-b9e261dbdf5f",
-    "term": "to encourage further comments from a patient the interviewer can repeat what the patient has said using open",
-    "definition": "ended statements that require the patient to respond. this technique is called",
+    "term": "Prejudice (healthcare)",
+    "definition": "Holding a preconceived, unfavorable opinion about an individual based on their affiliation with a group (race, culture, religion, gender) rather than individual assessment. Prejudice in healthcare leads to unequal treatment and poor outcomes. Healthcare workers must recognize their own biases and deliver objective, respectful, equitable care to every patient.",
     "type": "term",
-    "category": "Medical Abbreviations",
+    "category": "General",
     "difficulty": "unrated"
   },
   {
@@ -4744,27 +4512,11 @@
     "difficulty": "unrated"
   },
   {
-    "id": "d8136152-7d89-4c3e-a17b-f81cdc3cbf0f",
-    "term": "deliver patient care that allows you to continue to provide objective medical ca",
-    "definition": "deliver patient care that allows you to continue to provide objective medical care",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "e86ae98f-7be4-4e63-98c6-00cd8678d3d1",
     "term": "Proper flow of communication",
     "definition": "Message → response → clarification → feedback. Each step ensures the message was received and understood correctly.",
     "type": "term",
     "category": "Communication",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "5ecd52bf-054b-49d5-ac63-01f1ef21d299",
-    "term": "the progression of a person's needs from basic survival to reaching one's pinnac",
-    "definition": "the progression of a person's needs from basic survival to reaching one's pinnacle or self actualization is known as maslow's hierarchy",
-    "type": "note",
-    "category": "Sensory Screening",
     "difficulty": "unrated"
   },
   {
@@ -4801,17 +4553,9 @@
   },
   {
     "id": "81655cfc-3b99-41a6-a552-8661264a8b78",
-    "term": "sit at the patient's level eye to eye and maintain eye contact with patient if c",
-    "definition": "sit at the patient's level eye to eye and maintain eye contact with patient if culturally appropriate",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "131f473a-87a9-47d4-ada0-d5a64107b3c6",
-    "term": "which of the following is an issue that becomes predominant during the adolescen",
-    "definition": "which of the following is an issue that becomes predominant during the adolescent stage of development",
-    "type": "note",
+    "term": "Nonverbal communication — patient positioning",
+    "definition": "Sit at the patient's level (eye-to-eye) and maintain appropriate eye contact to demonstrate respect and engagement. Lean slightly forward to show attentiveness. Maintain culturally appropriate distance (~3–4 feet). Avoid crossed arms. Open body posture conveys empathy and interest. Mirror patient's posture to build rapport.",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -4821,14 +4565,6 @@
     "definition": "Self-image is the issue that becomes prominent during adolescence and affects communication style. A positive self-image enables open, confident interaction with patients.",
     "type": "term",
     "category": "Communication",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "df90bec5-8f2a-4bd0-92f9-83dd559b8a52",
-    "term": "the process of acquiring info from a patient to determine health care needs and ",
-    "definition": "the process of acquiring info from a patient to determine health care needs and abilities is called",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
@@ -4857,42 +4593,34 @@
   },
   {
     "id": "1776375e-80b6-4df0-b960-f605e3d29887",
-    "term": "provide the patient with written instructions",
-    "definition": "The best way to reinforce verbal instructions for a patient is",
+    "term": "Reinforcing verbal patient instructions",
+    "definition": "The best way to reinforce verbal instructions is to also provide written instructions for the patient to take home. Research shows patients forget up to 80% of verbal information. Written materials should use plain language (5th–6th grade level), cover key points, be culturally appropriate, and be reviewed with the patient before discharge.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "c430e909-b679-4c82-b70d-270e784884ab",
-    "term": "as the best way to document that a patient received written instructions to take",
-    "definition": "as the best way to document that a patient received written instructions to take home you should",
-    "type": "note",
+    "term": "Documenting receipt of patient education materials",
+    "definition": "Best practice: have the patient sign a document confirming they received written educational materials. This documentation is placed in the patient's chart, confirms what was taught, protects the practice legally, and demonstrates compliance with patient education standards required by accrediting bodies.",
+    "type": "term",
     "category": "Sensory Screening",
     "difficulty": "unrated"
   },
   {
     "id": "336e836d-f3c6-4f8a-ac79-abf295d99dde",
-    "term": "have the patient sign a document to be placed in the patient's chart vitrifying ",
-    "definition": "have the patient sign a document to be placed in the patient's chart vitrifying receipt of the materials",
-    "type": "note",
+    "term": "Patient signature for educational materials",
+    "definition": "Have the patient sign a document to be placed in their chart verifying receipt of written educational materials. This documents that materials were provided, confirms patient acknowledgment, is required by many accrediting bodies as proof of patient education, and serves as a legal record.",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "a42a60c2-242d-40e6-b759-4d622204bc85",
-    "term": "privacy",
-    "definition": "An environment conductive to learning is characterized",
+    "term": "Privacy (learning environment)",
+    "definition": "An environment conducive to patient learning is characterized by privacy — a quiet, private space without interruptions or observation by others. Patients are more likely to ask questions, disclose sensitive information, and engage with teaching when they feel private. Close doors, ensure confidential space, and minimize interruptions during education sessions.",
     "type": "term",
     "category": "Legal/Consent",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "5eef37c6-0df4-4c37-8a2e-2636e9b11c19",
-    "term": "when evaluating a patient's progress in a patient educational program if you dis",
-    "definition": "when evaluating a patient's progress in a patient educational program if you discover noncompliance this means that the patient is",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
@@ -4904,14 +4632,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "39049f20-9ea9-4187-bb42-0d85eca5079a",
-    "term": "when developing written patient educational materials it is most important to co",
-    "definition": "when developing written patient educational materials it is most important to consider",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "d47374c2-b27a-448e-8e77-2ec64daf549d",
     "term": "Patient cognitive level (educational consideration)",
     "definition": "The patient's cognitive level of understanding is the most important factor when developing written patient educational materials — determines vocabulary, complexity, and format.",
@@ -4920,27 +4640,11 @@
     "difficulty": "unrated"
   },
   {
-    "id": "f038c930-98a1-4885-973e-9156d3170856",
-    "term": "to provide patient education for a patient who is blind which of the following f",
-    "definition": "to provide patient education for a patient who is blind which of the following formats of training materials would be most helpful",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "de722c5b-0514-49be-8e4b-bd9807ecb726",
     "term": "Braille materials (visually impaired patient education)",
     "definition": "For patients who are blind, provide educational materials in braille format. Alternative accessible formats include large print, audio recordings, and screen-reader compatible digital files.",
     "type": "term",
     "category": "Communication",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "0da2e2da-5e91-4c51-b184-84f8435b5e35",
-    "term": "a team approach to patient education that includes different fields of knowledge",
-    "definition": "a team approach to patient education that includes different fields of knowledge and expertise is referred to as a",
-    "type": "note",
-    "category": "Sensory Screening",
     "difficulty": "unrated"
   },
   {
@@ -4953,18 +4657,10 @@
   },
   {
     "id": "7ac1261f-e522-4a8f-bac7-bc6f796e07d6",
-    "term": "identify the purpose and topic of the educational program",
-    "definition": "The first step in development of a patient educational program is",
+    "term": "First step in patient education program development",
+    "definition": "The first step is to identify the purpose and topic of the educational program — what the patient needs to learn and why. Subsequent steps: assess patient learning needs/barriers → plan content and method → implement (teach) → evaluate comprehension. Mirrors the nursing process: assess, plan, implement, evaluate.",
     "type": "term",
     "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "053836b2-d5c1-41c1-9524-492edd9f6219",
-    "term": "when asked to provide dietary information for a patient an organization that cou",
-    "definition": "when asked to provide dietary information for a patient an organization that could provide the most valuable materials is the",
-    "type": "note",
-    "category": "Anatomy & Terminology",
     "difficulty": "unrated"
   },
   {
@@ -4977,18 +4673,10 @@
   },
   {
     "id": "c1bd28a8-4661-47f0-89e0-014a073217cf",
-    "term": "materials are discussed with the patient",
-    "definition": "Patient educational materials are best implemented when",
+    "term": "Implementing patient educational materials",
+    "definition": "Patient educational materials are best implemented when they are discussed with the patient — not simply handed over. Walk through key points, invite questions, use the teach-back method to confirm understanding. Materials given without explanation are far less effective and unlikely to improve patient compliance or health outcomes.",
     "type": "term",
     "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "86dc9420-0717-412e-93b2-8653aa08e0e2",
-    "term": "a national accrediting body for health care organization that has established st",
-    "definition": "a national accrediting body for health care organization that has established standards and requirements for patient education is the",
-    "type": "note",
-    "category": "Regulatory Bodies",
     "difficulty": "unrated"
   },
   {
@@ -5001,17 +4689,9 @@
   },
   {
     "id": "613627c7-8d1a-4cf9-9155-17f3fab8eb16",
-    "term": "comprehension",
-    "definition": "The cognitive domain of learning refers to",
+    "term": "Cognitive domain of learning",
+    "definition": "The domain of learning related to comprehension, knowledge, and thinking. Includes memorization of facts, conceptual understanding, and applying knowledge to new situations. Bloom's taxonomy: remember, understand, apply, analyze, evaluate, create. Examples: memorizing drug names, understanding disease pathophysiology. Contrasts with affective (values) and psychomotor (skills) domains.",
     "type": "term",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "381d29b5-8dd4-4da3-8139-c71ef57ec55b",
-    "term": "the process used to carry out the agreed teaching plan in patient education is c",
-    "definition": "the process used to carry out the agreed teaching plan in patient education is called",
-    "type": "note",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -5025,18 +4705,10 @@
   },
   {
     "id": "76496043-6918-4193-9490-38cc54bec0bf",
-    "term": "improve patient health",
-    "definition": "The overall purpose of patient education is",
+    "term": "Purpose of patient education",
+    "definition": "The overall purpose of patient education is to improve patient health by increasing knowledge, promoting healthy behaviors, improving self-management of chronic conditions, and increasing compliance with treatment plans. Effective patient education leads to fewer hospitalizations, better outcomes, and empowered patients who participate in their own care.",
     "type": "term",
     "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "a0e3fdc5-ee6c-40a0-b9c5-99bc8a7923b9",
-    "term": "a patient who needs info about drug addiction could receive education and help f",
-    "definition": "a patient who needs info about drug addiction could receive education and help from an organization that specializes in",
-    "type": "note",
-    "category": "Medications",
     "difficulty": "unrated"
   },
   {
@@ -5048,14 +4720,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "99463ac4-f428-43d7-b15b-a0b72271d672",
-    "term": "if a diabetic patient is reluctant to learn how to give him or herself insulin i",
-    "definition": "if a diabetic patient is reluctant to learn how to give him or herself insulin injection the first thing you should do is",
-    "type": "note",
-    "category": "Medications",
-    "difficulty": "unrated"
-  },
-  {
     "id": "646a1de1-9f13-4ac4-bee7-adc53c9b709c",
     "term": "Patient reluctant to learn insulin self-injection",
     "definition": "If a diabetic patient refuses to learn self-injection, notify the physician for further assistance. The physician may modify the treatment plan or refer to a certified diabetes educator.",
@@ -5064,27 +4728,11 @@
     "difficulty": "unrated"
   },
   {
-    "id": "cb8a493a-7fe4-43c0-bfb5-c3f4bd3d1d78",
-    "term": "of the following which patient is the least likely to respond to learning object",
-    "definition": "of the following which patient is the least likely to respond to learning objectives.",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "2065acfc-8f2d-404a-9afe-8baa69df2287",
     "term": "Patient who perceives team as condescending",
     "definition": "The patient least likely to respond to learning objectives. Approach with empathy, actively listen, acknowledge concerns, and adjust communication to build respect and trust.",
     "type": "term",
     "category": "Communication",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "ef54eb75-c9a2-4b99-b37b-61094b15cd71",
-    "term": "the following which is the most important for the person who is performing patie",
-    "definition": "the following which is the most important for the person who is performing patient education",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
@@ -5097,17 +4745,17 @@
   },
   {
     "id": "1e868221-64c9-47fb-a4d3-ee9f847c5bd0",
-    "term": "a positive emotional outlook",
-    "definition": "One of the factors that helps the most in promoting patient learning",
+    "term": "Positive emotional outlook (learning factor)",
+    "definition": "A positive emotional outlook is one of the strongest factors promoting patient learning. A motivated, optimistic patient engages more effectively with health education. Other positive factors: family support, readiness to learn, manageable pain/anxiety, and trust in the healthcare team. Barriers to learning: fear, denial, pain, depression, language differences, low health literacy.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "77e00ed5-cf25-4b09-b5dd-0096bb5d8776",
-    "term": "to ensure that a patient follows if with appointments for evaluation of the pres",
-    "definition": "to ensure that a patient follows if with appointments for evaluation of the prescribed plan of treatment you should",
-    "type": "note",
+    "term": "Ensuring patient follow-up appointment compliance",
+    "definition": "To ensure patients follow up: provide a written appointment slip with date, time, location, and purpose. Call patients to confirm upcoming appointments (reminder call). Document missed appointments and rescheduling attempts in the chart. Use tickler files for tracking follow-ups. Verbal reminders alone are insufficient for ensuring compliance.",
+    "type": "term",
     "category": "Administrative",
     "difficulty": "unrated"
   },
@@ -5121,8 +4769,8 @@
   },
   {
     "id": "f58a9e7e-bb40-48cb-b1a3-396cfa617938",
-    "term": "ask for feedback from the patient",
-    "definition": "A way to evaluate the patient's understanding of educational information is",
+    "term": "Evaluating patient understanding (teach-back)",
+    "definition": "Best way to evaluate patient understanding: ask for feedback using the teach-back method — have the patient repeat instructions in their own words (\"Can you show me how you will take this medication?\"). Simply asking \"Do you understand?\" is ineffective. For motor skills, observe return demonstration. Document the patient's demonstrated level of comprehension.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -5145,8 +4793,8 @@
   },
   {
     "id": "e2057624-29dc-47eb-b4eb-cc17e1936917",
-    "term": "having family support",
-    "definition": "One factor that is a positive contribution to the patient's learning process",
+    "term": "Family support (positive learning factor)",
+    "definition": "Having family or caregiver support is among the strongest positive contributors to patient learning and treatment compliance. Family members reinforce instructions at home, assist with medication management, provide encouragement, and can attend educational sessions. Include family/caregivers in patient education when the patient consents.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -5157,14 +4805,6 @@
     "definition": "The domain encompassing the patient's mental and physical abilities — hands-on skills and motor tasks such as self-injection technique or wound care.",
     "type": "term",
     "category": "Communication",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "867ddca6-050a-4e28-a335-9e46c6f741fa",
-    "term": "the domain of learning that includes values attitudes and opinions is referred t",
-    "definition": "the domain of learning that includes values attitudes and opinions is referred to as",
-    "type": "note",
-    "category": "Sensory Screening",
     "difficulty": "unrated"
   },
   {
@@ -5185,8 +4825,8 @@
   },
   {
     "id": "6c6cdd10-ba7d-4bd4-91ad-ae1311d4158f",
-    "term": "you should be able to determine which calls are routine non",
-    "definition": "emergent situations",
+    "term": "Routine vs. emergent telephone calls",
+    "definition": "Medical assistants must determine which calls are routine (non-emergent) vs. requiring immediate physician attention. Routine: scheduling, billing, prescription refill authorization. Emergent (physician/911 immediately): chest pain, difficulty breathing, severe bleeding, altered consciousness, signs of stroke, suicidal ideation. Effective screening protects patient safety and office efficiency.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -5200,14 +4840,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "7daa357b-aec2-4c5d-ad56-d5f45f745424",
-    "term": "when answering phones during a busy time of day it is only appropriate to place ",
-    "definition": "when answering phones during a busy time of day it is only appropriate to place a caller on hold after you ask the following",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "7732b4fc-0629-45c7-9767-9a717719bdfb",
     "term": "\"Will you please hold?\" (telephone etiquette)",
     "definition": "Always ask the caller's permission before placing them on hold and wait for their response — they may have an emergency. Return to the call within 30 seconds.",
@@ -5216,27 +4848,11 @@
     "difficulty": "unrated"
   },
   {
-    "id": "948a93e6-6ea3-475c-a12d-b6bd3b5c9b91",
-    "term": "which of the following is a phone call that ordinarily does not require the part",
-    "definition": "which of the following is a phone call that ordinarily does not require the party to speak directly to the physician",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "445d8851-2040-4d0e-b067-359ace066844",
     "term": "Pharmacist call — no physician needed",
     "definition": "A pharmacist calling to verify prescription information does not ordinarily require the physician's participation; this can be handled by the medical assistant.",
     "type": "term",
     "category": "Communication",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "2b5935bb-787a-4aba-986c-7c81f5d13ea8",
-    "term": "the transmission of hard copy of a written document through a phone line is call",
-    "definition": "the transmission of hard copy of a written document through a phone line is called",
-    "type": "note",
-    "category": "Infection Control",
     "difficulty": "unrated"
   },
   {
@@ -5249,18 +4865,10 @@
   },
   {
     "id": "6bd0cc05-0ff3-4635-af23-84678e20dd9f",
-    "term": "a mange the physician time by referring only necessary calls",
-    "definition": "The primary purpose of screening telephone calls is",
+    "term": "Screening telephone calls — primary purpose",
+    "definition": "The primary purpose of screening (triaging) incoming calls is to manage the physician's time by routing only necessary calls to the physician. The medical assistant handles routine matters independently (scheduling, billing, refill authorizations per standing orders) and identifies calls requiring the physician's direct attention.",
     "type": "term",
     "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "2f9f3e6c-7d9f-4ba0-b08a-ee7dbe962c80",
-    "term": "the physician has asked you to contact a patient to schedule a return office vis",
-    "definition": "the physician has asked you to contact a patient to schedule a return office visit to discuss laboratory results. the patient is not available when you call. it is appropriate to.",
-    "type": "note",
-    "category": "Medications",
     "difficulty": "unrated"
   },
   {
@@ -5272,27 +4880,11 @@
     "difficulty": "unrated"
   },
   {
-    "id": "2562253c-bc12-426d-91b9-b798fcbd3211",
-    "term": "when assigned to work in the reception area of the office you should attempt to ",
-    "definition": "when assigned to work in the reception area of the office you should attempt to answer all incoming telephone calls",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "2cb7006f-ccee-4821-8fbc-cf5a4f49b11e",
     "term": "Telephone — answer by third ring",
     "definition": "Answer the telephone by the third ring in a medical office. Letting it ring longer can frustrate callers and create a negative impression.",
     "type": "term",
     "category": "Communication",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "d63c6c6d-5a7a-430d-99c8-55a332b4bb8b",
-    "term": "which of the following is an appropriate standard opening for an incoming call t",
-    "definition": "which of the following is an appropriate standard opening for an incoming call to the physician's office",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
@@ -5369,26 +4961,18 @@
   },
   {
     "id": "0ef57912-07e0-4f4d-b335-d15ba69e098d",
-    "term": "Software",
-    "definition": "A computer program that tells the computer what to do is",
+    "term": "Software (computer)",
+    "definition": "Programs and instructions that tell computer hardware what to do. Types: operating system (Windows, macOS — manages hardware), application software (EHR, word processing, scheduling — used for specific tasks), utility software (security, maintenance). In medical offices, EHR software is the primary application for patient records, billing, and scheduling.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "4608eb86-1cde-49a9-bd8f-9aa448aae80f",
-    "term": "the federal Gov. enacted a standard practice for confidentiality and release of ",
-    "definition": "the federal Gov. enacted a standard practice for confidentiality and release of patient information as it applies to computers. this information is found in the federal register under the abbreviation",
-    "type": "note",
+    "term": "HIPAA — federal standard for patient information (computers)",
+    "definition": "The federal government enacted HIPAA (Health Insurance Portability and Accountability Act) as the national standard for confidentiality and release of patient health information including electronic records (ePHI). The Privacy Rule protects PHI; the Security Rule protects ePHI. Violations can result in civil and criminal penalties.",
+    "type": "term",
     "category": "Legal/Consent",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "eba1cbda-4deb-43f7-94b1-6b1c4d22e90e",
-    "term": "when you are focusing on the conversation of the telephone call and ignoring out",
-    "definition": "when you are focusing on the conversation of the telephone call and ignoring outside distractions you are",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
@@ -5417,17 +5001,17 @@
   },
   {
     "id": "36436b67-bc1c-4db7-b4e2-be3819b51d9a",
-    "term": "to comply with the HIPAA requirements when using a computer you should remember ",
-    "definition": "to comply with the HIPAA requirements when using a computer you should remember to do the following",
-    "type": "note",
+    "term": "HIPAA computer security — required actions",
+    "definition": "To comply with HIPAA computer security: (1) Change passwords frequently; (2) Use strong passwords and never share login credentials; (3) Protect computers from unauthorized access (firewalls, screen locks); (4) Ensure screens are not visible to unauthorized persons (screen filters); (5) Log off or lock the computer when leaving the workstation.",
+    "type": "term",
     "category": "Legal/Consent",
     "difficulty": "unrated"
   },
   {
     "id": "e976dee4-a986-4342-9fcc-5fcd380de6ff",
-    "term": "change passwords frequently. protect computers from illegal access with appropri",
-    "definition": "change passwords frequently. protect computers from illegal access with appropriate security devices. ensure computer screen are not in view of unauthorized persons. turn off the computer when not in use",
-    "type": "note",
+    "term": "HIPAA computer security practices (complete list)",
+    "definition": "HIPAA-required security practices: change passwords frequently; protect computers from illegal access with appropriate security devices; ensure computer screens cannot be viewed by unauthorized persons; turn off or lock the computer when not in use. Violations carry fines up to $50,000 per incident and possible criminal charges.",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -5440,18 +5024,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "5e77f900-5214-45ce-b5ef-b564faf38d22",
-    "term": "when an unidentified callers insists on speaking with the physician the medical ",
-    "definition": "when an unidentified callers insists on speaking with the physician the medical assistants should",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "aae96857-3535-4b28-9633-a5516944490d",
-    "term": "tell the caller that the physician is with a patient and you need a name and num",
-    "definition": "tell the caller that the physician is with a patient and you need a name and number do the call can be returned",
-    "type": "note",
+    "term": "Unidentified caller requesting physician",
+    "definition": "When an unidentified caller insists on speaking with the physician, the medical assistant should politely explain that the physician is currently with a patient and request the caller's name and callback number so the physician can return the call. This protects the physician's time, screens non-urgent calls, and maintains professional protocol.",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -5465,34 +5041,18 @@
   },
   {
     "id": "eabae3f4-80ed-4867-b47a-583c67b26011",
-    "term": "keep the caller on the line while contacting the emergency medical system on ano",
-    "definition": "keep the caller on the line while contacting the emergency medical system on another phone line if the office has multiple phone line",
-    "type": "note",
+    "term": "Emergency telephone call — keep caller on line",
+    "definition": "During a telephone emergency: keep the caller on the line while contacting emergency medical services (911) on another phone line if available. This ensures the caller remains calm, you can gather ongoing information, and dispatch can hear what is happening. Never place an emergency caller on hold. Alert the physician immediately.",
+    "type": "term",
     "category": "Emergency/CPR",
     "difficulty": "unrated"
   },
   {
-    "id": "89797faf-7bf9-467e-a64c-eda9d5cde382",
-    "term": "telephone calls that the medical assistant or medical administrative specialist ",
-    "definition": "telephone calls that the medical assistant or medical administrative specialist may handle including the following",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "82dff21a-ea19-4079-9d60-397f5887b37e",
-    "term": "refilling prescriptions verified by the physician. scheduling procedures at othe",
-    "definition": "refilling prescriptions verified by the physician. scheduling procedures at other medical facilities. answering patient financial statement question. confirming the time of an appointment for a patient.",
-    "type": "note",
+    "term": "Telephone calls the medical assistant may handle",
+    "definition": "Medical assistants may independently handle: refilling prescriptions authorized by the physician; scheduling procedures at other facilities; answering patient billing/financial questions; confirming appointment times. Calls requiring physician involvement: test result interpretation, medical advice, new prescriptions, and all emergencies.",
+    "type": "term",
     "category": "Medications",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "8ef23c4d-b1c5-45fa-bb85-49e14a8f35e5",
-    "term": "to maintain telephone confidentiality the medical assistant or medical administr",
-    "definition": "to maintain telephone confidentiality the medical assistant or medical administrative specialist must",
-    "type": "note",
-    "category": "Legal/Consent",
     "difficulty": "unrated"
   },
   {
@@ -5552,14 +5112,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "c8d97ed1-5045-4834-b44e-d45fff772a40",
-    "term": "when setting up the appointment book by crossing off all times that will not be ",
-    "definition": "when setting up the appointment book by crossing off all times that will not be used for patient visits this is known as setting up the",
-    "type": "note",
-    "category": "Sensory Screening",
-    "difficulty": "unrated"
-  },
-  {
     "id": "a3d4178e-357a-4878-abed-a3f5a25eba33",
     "term": "Appointment matrix",
     "definition": "The schedule framework created by blocking off times the physician is unavailable (surgery, rounds, meetings, lunch) before patient appointments are added.",
@@ -5600,14 +5152,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "17ff1a8b-c2e8-4166-b9cf-fce9996c5936",
-    "term": "if the physician is delayed in arriving at the office for appointments you shoul",
-    "definition": "if the physician is delayed in arriving at the office for appointments you should",
-    "type": "note",
-    "category": "Administrative",
-    "difficulty": "unrated"
-  },
-  {
     "id": "f48f27e9-e8e6-4cc4-99f5-c46df805f128",
     "term": "Managing patient wait times",
     "definition": "If there is an unexpected delay, offer waiting patients an opportunity to reschedule. Keep patients informed of the wait and apologize for the inconvenience.",
@@ -5617,9 +5161,9 @@
   },
   {
     "id": "1fa0e105-98d6-4ac7-9c24-c62035a07d2c",
-    "term": "when making an appointment over the telephone for a new patient it is important ",
-    "definition": "when making an appointment over the telephone for a new patient it is important to secure the following information",
-    "type": "note",
+    "term": "New patient appointment — information to collect",
+    "definition": "When scheduling a new patient by phone: (1) Full legal name and date of birth; (2) Address and contact number; (3) Chief complaint/reason for visit; (4) Insurance provider, ID and group number; (5) Referring physician if applicable; (6) Preferred time. Instruct the patient to arrive early for new patient paperwork and to bring insurance card and photo ID.",
+    "type": "term",
     "category": "Administrative",
     "difficulty": "unrated"
   },
@@ -5629,14 +5173,6 @@
     "definition": "Collect the patient's insurance provider information at each visit: copy of the insurance card, policy number, group number, and subscriber details.",
     "type": "term",
     "category": "Administrative",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "4a08582e-27e5-4d72-843c-3e3f54de77fa",
-    "term": "when a specific number of patients usually four is scheduled at the beginning of",
-    "definition": "when a specific number of patients usually four is scheduled at the beginning of the same hour this is known as",
-    "type": "note",
-    "category": "Medications",
     "difficulty": "unrated"
   },
   {
@@ -5656,14 +5192,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "bbb88b52-b68a-4051-a035-7f197026616d",
-    "term": "set the appointments at the same time on the same day of the week to enhance pat",
-    "definition": "set the appointments at the same time on the same day of the week to enhance patient compliance",
-    "type": "note",
-    "category": "Administrative",
-    "difficulty": "unrated"
-  },
-  {
     "id": "c56792f8-b6b9-4eba-8d83-6f08dfb7aeb3",
     "term": "Appointment book — legal importance",
     "definition": "The appointment book is treated as a legal document because it may be subpoenaed in legal proceedings. Corrections must follow proper procedure.",
@@ -5677,14 +5205,6 @@
     "definition": "The most common type of scheduling",
     "type": "term",
     "category": "Administrative",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "6a6a5dc6-2021-402a-9ed8-149823cf6edc",
-    "term": "the abbreviation used in scheduling to designate a patient who has never been se",
-    "definition": "the abbreviation used in scheduling to designate a patient who has never been seen in the office before is",
-    "type": "note",
-    "category": "Medical Abbreviations",
     "difficulty": "unrated"
   },
   {
@@ -5713,9 +5233,9 @@
   },
   {
     "id": "acce3fbf-0feb-4336-b57c-63a7be7e938f",
-    "term": "which of the following is the least important concern when scheduling special pr",
-    "definition": "which of the following is the least important concern when scheduling special procedures.",
-    "type": "note",
+    "term": "Scheduling special procedures — least important concern",
+    "definition": "When scheduling a special procedure, the patient's insurance copayment amount is the least important scheduling concern. The primary concerns are clinical appropriateness, equipment/facility availability, patient preparation requirements, and physician availability. Copay collection is an administrative step handled separately at check-in, not a factor in procedure scheduling.",
+    "type": "term",
     "category": "Administrative",
     "difficulty": "unrated"
   },
@@ -5724,14 +5244,6 @@
     "term": "Insurance copay — when to collect",
     "definition": "Collect the copay amount at the time of each visit. Inform patients of their copay when scheduling so they arrive prepared with the correct amount.",
     "type": "term",
-    "category": "Administrative",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "9014c035-38d7-4845-85f6-eeafaa3bd5b8",
-    "term": "a patient calls and requests an appointment immediately. what should be the firs",
-    "definition": "a patient calls and requests an appointment immediately. what should be the first question you ask",
-    "type": "note",
     "category": "Administrative",
     "difficulty": "unrated"
   },
@@ -5745,8 +5257,8 @@
   },
   {
     "id": "71fa8b11-f6ad-4ed0-84e6-4bc5547657fd",
-    "term": "offer the patient a specific time and date",
-    "definition": "When setting a return appointment for a patient it is best",
+    "term": "Setting a return appointment — best practice",
+    "definition": "When scheduling a return appointment, offer the patient a specific time and date rather than asking them to call back later. Providing a definite slot improves compliance, reduces no-shows, and ensures continuity of care. Provide a written appointment slip with date, time, and location. Document the scheduled return visit in the chart.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -5760,18 +5272,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "7b04edd1-36d8-4d44-9ff0-fe4c9dab5dda",
-    "term": "setting up the matrix of the appointment book. ' calling patients to remind them",
-    "definition": "setting up the matrix of the appointment book. ' calling patients to remind them of their appointments. documenting any missed or rescheduled appointment in the patient record",
-    "type": "note",
-    "category": "Administrative",
-    "difficulty": "unrated"
-  },
-  {
     "id": "14f3f8b3-1d0b-4e9e-903f-5af1d7cfea37",
-    "term": "when calling a hospital to schedule inpatient surgery the information not necess",
-    "definition": "when calling a hospital to schedule inpatient surgery the information not necessary to have before the call is",
-    "type": "note",
+    "term": "Scheduling hospital inpatient surgery — information not needed",
+    "definition": "When calling a hospital to schedule inpatient surgery, the patient's insurance copayment amount is NOT needed before the call. Required information: patient name, DOB, diagnosis/procedure code, surgeon name and contact, insurance authorization number, and preferred date/time. The copay is handled by the hospital at patient admission.",
+    "type": "term",
     "category": "Medications",
     "difficulty": "unrated"
   },
@@ -5792,14 +5296,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "c1f6f05d-6196-4cf8-a387-368f0b633976",
-    "term": "a \"walk",
-    "definition": "in\" patient is one who",
-    "type": "term",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "c5bffd44-2923-4099-b63e-13bd92d5a1cd",
     "term": "Walk-in patient without appointment",
     "definition": "A patient who arrives without an appointment. Assess urgency: see immediately if emergent; work into schedule if time permits; offer the next available slot for non-urgent cases.",
@@ -5808,18 +5304,10 @@
     "difficulty": "unrated"
   },
   {
-    "id": "d74380a1-b3a2-4139-a3e7-97b424ccfab8",
-    "term": "when a patient needs a return appointment  to discuss laboratory or x",
-    "definition": "ray finding with physician, you should",
-    "type": "term",
-    "category": "Administrative",
-    "difficulty": "unrated"
-  },
-  {
     "id": "86a329e7-7197-4b30-91f0-9c67796689f5",
-    "term": "call the lab to find out when the results will be available and make the return ",
-    "definition": "call the lab to find out when the results will be available and make the return visit based on that date",
-    "type": "note",
+    "term": "Return visit for lab/X-ray results — scheduling",
+    "definition": "When a patient needs a return appointment to discuss lab or radiology results with the physician, first call the lab/radiology department to determine when results will be available, then schedule the return visit based on that date. Never schedule the appointment before results are available — the physician needs results in hand for a meaningful consultation.",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -5833,17 +5321,17 @@
   },
   {
     "id": "ad595394-13c3-4dab-a147-01c1f8ddcd99",
-    "term": "determine the efficiency of the practice",
-    "definition": "The primary purpose of a patient flow analysis is",
+    "term": "Patient flow analysis — primary purpose",
+    "definition": "The primary purpose of a patient flow analysis is to determine the efficiency of the practice by analyzing how patients move through the office from arrival to checkout. Identifies wait times, bottlenecks, staffing gaps, and workflow inefficiencies. Results guide scheduling optimization, staffing adjustments, and process improvements to reduce delays.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "85e4b4cf-6707-4dc2-8f7e-04adb1d1bec1",
-    "term": "when scheduling an in patients procedure the reason for scheduling the admission",
-    "definition": "when scheduling an in patients procedure the reason for scheduling the admission separate from the actual procedure is to",
-    "type": "note",
+    "term": "Inpatient procedure — admission scheduled separately",
+    "definition": "When scheduling an inpatient procedure, the admission is scheduled on a separate date from the actual procedure to allow time for pre-admission testing, medical evaluation (labs, EKG, anesthesia consult), consent signing, and completion of paperwork. This ensures the patient is medically cleared and the surgical team has all necessary information before the procedure date.",
+    "type": "term",
     "category": "Administrative",
     "difficulty": "unrated"
   },
@@ -5873,9 +5361,9 @@
   },
   {
     "id": "e2040c6c-f647-4096-af13-99afbe96dcad",
-    "term": "ensure that the physician’s  has initiated all reported before they are inserted",
-    "definition": "ensure that the physician’s  has initiated all reported before they are inserted into the chart",
-    "type": "note",
+    "term": "Adding records to patient chart — physician review",
+    "definition": "Before inserting reports or documents into a patient's chart, ensure the physician has initialed (signed off on) all reports to confirm they were reviewed. Uninitiated/unreviewed reports should not be filed — the physician must review and initial first. Reports are then filed in reverse chronological order (most recent on top).",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -5884,14 +5372,6 @@
     "term": "SOAP",
     "definition": "The most common method of documentation for a patient medical record",
     "type": "term",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "ed13797c-cee0-4ef7-aa29-3e232b4a0392",
-    "term": "when filling numerically using the terminal digit filing method what is the prop",
-    "definition": "when filling numerically using the terminal digit filing method what is the proper sequence for filing these numbers",
-    "type": "note",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -5909,14 +5389,6 @@
     "definition": "When a last name has a hyphen, it is filed as if the hyphen were not there (treated as one continuous name).",
     "type": "term",
     "category": "Administrative",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "1c40180c-8cf0-4106-8410-669ac56191d8",
-    "term": "when a paper medical record is in use a folder inserted on the shelf in place of",
-    "definition": "when a paper medical record is in use a folder inserted on the shelf in place of the medical record file is a",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
@@ -5944,14 +5416,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "e22df01a-2207-43e9-9447-f1314930dbea",
-    "term": "if filing using reverse chronological order, which of the following is in the co",
-    "definition": "if filing using reverse chronological order, which of the following is in the correct sequence",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
     "id": "33204e30-be55-445c-9064-e55c60fa5974",
     "term": "Chronological order in medical records",
     "definition": "Records are filed in reverse chronological order (most recent entry on top). Example: a June 2010 office visit entry is placed in front of a December 2008 entry.",
@@ -5961,8 +5425,8 @@
   },
   {
     "id": "08dd96b8-d9e8-4cca-83da-02b649ab81ed",
-    "term": "a date and sign the correction",
-    "definition": "The proper procedure to correct an error in a patient's chart is",
+    "term": "Correcting an error in a patient's chart",
+    "definition": "Proper procedure: draw a single line through the error (so it remains legible), write \"error\" above it, add your initials and the date of correction, then document the correct information. Never use correction fluid, erase, or black out the original entry. In electronic records, use the designated amendment/addendum function. The original entry must always remain visible.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -6000,14 +5464,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "9774119a-8065-4e60-89d0-3ecd14d54e9b",
-    "term": "determining the organization of the medical record and sequence of filing is dep",
-    "definition": "determining the organization of the medical record and sequence of filing is dependent on",
-    "type": "note",
-    "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
     "id": "6d508025-355f-490b-86c0-ed9d4710e632",
     "term": "Medical record system — type of practice factor",
     "definition": "Type of practice (specialty vs. primary care), physician preference, and frequency of access to records all determine the best medical record filing and storage system.",
@@ -6033,9 +5489,9 @@
   },
   {
     "id": "0f5bf068-1443-41ea-94cd-d8171440319c",
-    "term": "the pages of the medical record contained within the patient file are the proper",
-    "definition": "the pages of the medical record contained within the patient file are the property of the",
-    "type": "note",
+    "term": "Ownership of the medical record",
+    "definition": "The pages of the medical record (physical or electronic) are the property of the physician or healthcare organization. However, the information belongs to the patient, who has the legal right under HIPAA to access and obtain copies. Patients can request copies; a reasonable copying fee may apply. Records must be retained per state law (typically 7–10 years minimum).",
+    "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
@@ -6049,8 +5505,8 @@
   },
   {
     "id": "bc177f0b-733c-4103-b86f-3a4ff9faf1e1",
-    "term": "treat",
-    "definition": "Indexing rules for alphabetic filing",
+    "term": "Alphabetical filing — indexing rules",
+    "definition": "Rules for alphabetical indexing: (1) File by last name first, then first name, then middle; (2) Treat hyphenated names as one word (ignore hyphen); (3) Prefixes (Mc, Mac, O') filed as spelled; (4) Numbers spelled out alphabetically; (5) Titles (Dr., Jr.) filed last and ignored for comparison; (6) \"Nothing comes before something\" — shorter names precede longer ones with same beginning.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -6061,102 +5517,6 @@
     "definition": "Medical advertising must be truthful, non-deceptive, and comply with AMA and FTC guidelines. Cannot make unsubstantiated claims about clinical outcomes or treatment effectiveness.",
     "type": "term",
     "category": "Legal/Consent",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "7200611b-f177-4994-b6eb-4fde48e407f9",
-    "term": "Be able to describe each procedure from start to finish as if you’ve done it yourself. Watch videos for all of them: all CLIA",
-    "definition": "waived tests, all ways of taking blood (capillary, venipuncture), injections, allergy tests, and the methods for each age group.",
-    "type": "term",
-    "category": "Blood Draw",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "88f325d9-20d6-4912-ba6d-a9fa7ceb90dc",
-    "term": "Forget about the numerical values you learned from your textbook. Instead, memor",
-    "definition": "Forget about the numerical values you learned from your textbook. Instead, memorize the values in the NHA Study Guide and on my quizlets linked above.",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "343b3318-abf8-4e85-8f41-ac45648ea57b",
-    "term": "Know vitamins and minerals, what foods you can get them from, and their purpose ",
-    "definition": "Know vitamins and minerals, what foods you can get them from, and their purpose (spend time sparingly on this because it will only be one or two questions). For example: Would you get more fiber from fruit or cereal? What mineral/vitamin/diet would you recommend for someone who has xyz disease?",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "e9f0de9c-b36e-4d2e-acf1-df7324a28b9a",
-    "term": "Know your medications",
-    "definition": "what each medication is for, what type of medication it is, and what general symptoms you’d expect (one or two questions).",
-    "type": "term",
-    "category": "Medications",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "be3737fc-1f43-4e99-8a64-5d5db27cdbec",
-    "term": "What pathogen causes each disease, its type (fungal, bacterial, parasitic, viral",
-    "definition": "What pathogen causes each disease, its type (fungal, bacterial, parasitic, viral), how it is transmitted (contact, bloodborne, airborne), what PPE you would need, and its symptoms.",
-    "type": "note",
-    "category": "Infection Control",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "ff2743d8-7bf9-4dc4-a4b1-b3aa788cf7eb",
-    "term": "Know your medical terminology to figure out if a given surgery is a removal of, ",
-    "definition": "Know your medical terminology to figure out if a given surgery is a removal of, creation of, etc.",
-    "type": "note",
-    "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "73f19ca3-789b-4d8d-9da4-f79f06aeac1f",
-    "term": "Use your medical terminology to describe a disease given the meaning of its suff",
-    "definition": "Use your medical terminology to describe a disease given the meaning of its suffix and prefix. Do you know what a suffix and prefix is?",
-    "type": "note",
-    "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "e2413421-3906-47d1-8e24-303eda0aa8f7",
-    "term": "What supplies would you need for a test or procedure? For example: suturing, rem",
-    "definition": "What supplies would you need for a test or procedure? For example: suturing, removal of sutures, CLIA waived tests, cryosurgery, and physical exam. What are the different kinds of tools for surgical procedures (e.g., forceps, probe, scissors)?",
-    "type": "note",
-    "category": "Regulatory Bodies",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "b757403f-eeff-4464-9c4d-cd0da27e2f9d",
-    "term": "What position to be in for every procedure and in what circumstances do you chan",
-    "definition": "What position to be in for every procedure and in what circumstances do you change into what position (e.g., supine, fowlers, sims, knee chest, recumbent).",
-    "type": "note",
-    "category": "Patient Positioning",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "9a0b6e0b-1734-4f0c-97ef-ff564a74ff77",
-    "term": "Know each quadrant and what organs are in each quadrant (RUQ, LUQ, RLQ, LLQ), an",
-    "definition": "Know each quadrant and what organs are in each quadrant (RUQ, LUQ, RLQ, LLQ), anatomical positions, planes, and what organ belongs to what system. For example: Pancreas (digestion and endocrine), Thymus (endocrine and immune).",
-    "type": "note",
-    "category": "Patient Positioning",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "39e61c00-17d0-4090-8749-6f4e87ab459b",
-    "term": "How to write a letter in",
-    "definition": "Block, Modified Block, Simplified Block, and Modified Block with Indented Paragraphs. Know where the letterhead, date (formatted January 1, 2020), inside address, salutation, body, complimentary close, and signature block goes on each and how much spacing is in between.",
-    "type": "term",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "52ce3a86-bbae-44ee-b6e1-7c235c6d6ac9",
-    "term": "Know the exact purpose of ICD",
-    "definition": "10 vs CPT, modifiers, fraud, and how many letters and alphanumeric items are present in each place. Upcoding (code creep, overbilling, overcoding), bundled coding, usual fee, customary fee, reasonable fee, capitation, category I, II, III codes, and phantom billing. Who do you report to for fraud? Who do you report to for unsecured PHI? What is the difference between ePHI and PHI? Who governs both? This is just the bare minimum for what you should know with admin!",
-    "type": "term",
-    "category": "Cardiovascular",
     "difficulty": "unrated"
   },
   {
@@ -6181,30 +5541,6 @@
     "definition": "6 links: (1) Infectious agent, (2) Reservoir (source — human, animal, environment), (3) Portal of exit (cough, wound, feces), (4) Mode of transmission (contact/droplet/airborne/vector/vehicle), (5) Portal of entry (mucous membranes, breaks in skin, GI tract, respiratory tract), (6) Susceptible host. Breaking any link stops spread.",
     "type": "note",
     "category": "Infection Control",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "d58eb99c-738c-4ace-9c46-f566dafcad5c",
-    "term": "Study the administrative section. Questions tend to be random and not all the in",
-    "definition": "Study the administrative section. Questions tend to be random and not all the information can be found in your Study Guide for this particular section.",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "09e590c0-4de6-4077-893f-820ec3e7c340",
-    "term": "Know different organizations and their target population. HHS, CMS, OSHA, Red cr",
-    "definition": "Know different organizations and their target population. HHS, CMS, OSHA, Red cross, legal aid society, TJC, Hospice, Meals on Wheels, NAACLS, ACS, AHA, to name a few.",
-    "type": "note",
-    "category": "Infection Control",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "e213b5cf-9a4e-42f7-a7cd-33a7b773494d",
-    "term": "ACO vs PCMH. We have to know the outreach programs to give to patients if they n",
-    "definition": "ACO vs PCMH. We have to know the outreach programs to give to patients if they need help because of the shift to PCMH and ACO.",
-    "type": "note",
-    "category": "General",
     "difficulty": "unrated"
   },
   {
@@ -6237,46 +5573,6 @@
     "definition": "R = Rescue (rescue people in danger). A = Alarm (pull fire alarm, call 911). C = Contain (close doors to contain fire/smoke). E = Extinguish/Evacuate (use fire extinguisher if safe, or evacuate). PASS for extinguisher: Pull pin, Aim, Squeeze, Sweep.",
     "type": "note",
     "category": "OSHA/Safety",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "27bd5027-cd21-41f7-a510-6150973ae3d6",
-    "term": "Rescue all patients, visitors, employees, staff and volunteers from immediate da",
-    "definition": "Rescue all patients, visitors, employees, staff and volunteers from immediate danger.",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "8ec5ead4-09fe-4c6c-8082-bed4ebb4aec6",
-    "term": "Alarm by pulling the closest fire pull",
-    "definition": "station and by dialing 811 or 77 (or 911 in offcampus and leased facilities) and reporting the location of the fire.",
-    "type": "term",
-    "category": "Medical Abbreviations",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "e272cc96-7f16-4e9f-90d1-d97291e92744",
-    "term": "Extinguish the fire if the fire is small (use P.A.S.S). Evacuate patients from t",
-    "definition": "Extinguish the fire if the fire is small (use P.A.S.S). Evacuate patients from the area if instructed to do so by fire officials or hospital leadership.",
-    "type": "note",
-    "category": "ECG/EKG",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "aa32b7b6-1b33-4d15-87d6-f3765f9ba2a5",
-    "term": "Summary Major Content Area Number of Items Performance Category Foundational Kno",
-    "definition": "Summary Major Content Area Number of Items Performance Category Foundational Knowledge and",
-    "type": "note",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "191354b2-d352-4b9d-adbb-9d33772233bd",
-    "term": "Under HIPAA  EX",
-    "definition": "libel defamation tort law, slander",
-    "type": "term",
-    "category": "Legal/Consent",
     "difficulty": "unrated"
   }
 ]
