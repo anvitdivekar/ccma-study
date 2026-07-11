@@ -185,16 +185,16 @@
   },
   {
     "id": "40e578df-b2f1-4647-b62e-baa5f4532554",
-    "term": "Diaphoretic",
-    "definition": "excessive sweating",
+    "term": "Diaphoresis / Diaphoretic",
+    "definition": "Excessive sweating. A diaphoretic patient is sweating profusely, often seen in shock, MI, fever, hypoglycemia, or anxiety. Sign of sympathetic nervous system activation.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
   },
   {
     "id": "7122b46b-f8e2-430e-bd3e-e02c64c4e437",
-    "term": "Lupus",
-    "definition": "autoimmune disorder",
+    "term": "Lupus (SLE — Systemic Lupus Erythematosus)",
+    "definition": "A chronic autoimmune disorder where the immune system attacks healthy tissue. Features: butterfly malar rash, joint pain, fatigue, photosensitivity, and multi-organ involvement.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -225,8 +225,8 @@
   },
   {
     "id": "88e21753-10e1-41a2-b3f9-248893ad1126",
-    "term": "Auscultate",
-    "definition": "to listen",
+    "term": "Auscultation",
+    "definition": "The act of listening (to listen) to internal body sounds using a stethoscope — heart, lung, and bowel sounds. One of the four physical examination techniques.",
     "type": "term",
     "category": "General",
     "difficulty": "unrated"
@@ -266,7 +266,7 @@
   {
     "id": "0788ea1d-bc13-4046-aed9-ce5f8a218278",
     "term": "Alopecia",
-    "definition": "baldness",
+    "definition": "Baldness or hair loss from any cause. Can be localized (alopecia areata, autoimmune) or diffuse (androgenetic alopecia/male pattern baldness, chemotherapy, nutritional deficiency).",
     "type": "term",
     "category": "Dermatology",
     "difficulty": "unrated"
@@ -609,8 +609,8 @@
   },
   {
     "id": "e4e6d193-895f-4653-a894-93316bedbfa3",
-    "term": "Phlebotomy",
-    "definition": "15-30 deg",
+    "term": "Phlebotomy needle insertion angle",
+    "definition": "Venipuncture is performed at a 15–30 degree angle to the skin, bevel up, to enter the vein cleanly without passing through the posterior wall.",
     "type": "term",
     "category": "Blood Draw",
     "difficulty": "unrated"
@@ -729,8 +729,8 @@
   },
   {
     "id": "e8b441fd-02f1-4a17-8322-52edb52a8959",
-    "term": "Thyroid produces",
-    "definition": "hormones,",
+    "term": "Thyroid gland — hormones produced",
+    "definition": "The thyroid produces T3 (triiodothyronine) and T4 (thyroxine) — regulating metabolism, growth, and body temperature — and calcitonin, which lowers blood calcium.",
     "type": "term",
     "category": "Endocrine/Diabetes",
     "difficulty": "unrated"
@@ -921,8 +921,8 @@
   },
   {
     "id": "a79a4b2c-62ad-45ed-b991-fb8faeb3bbbf",
-    "term": "Cyanotic/cyanosis",
-    "definition": "lack of circulation",
+    "term": "Cyanosis",
+    "definition": "Bluish discoloration of skin and mucous membranes due to insufficient oxygenation of the blood. Causes: respiratory failure, cardiac issues, or poor circulation.",
     "type": "term",
     "category": "Cardiovascular",
     "difficulty": "unrated"
@@ -2065,8 +2065,8 @@
   },
   {
     "id": "0f50bf26-057c-4219-888c-e78e1eae2585",
-    "term": "Augmented leads",
-    "definition": "Limb Leads",
+    "term": "Augmented limb leads (aVR, aVL, aVF)",
+    "definition": "Three unipolar augmented leads in a 12-lead ECG: aVR (right arm view), aVL (left arm view), aVF (left foot/inferior view). Used with standard limb leads to assess the frontal plane.",
     "type": "term",
     "category": "ECG/EKG",
     "difficulty": "unrated"
@@ -2076,14 +2076,6 @@
     "term": "Holter monitor patient instructions",
     "definition": "Patient keeps diary of daily activities and symptoms (chest pain, palpitations, dizziness) with exact times. Must stay on monitor — no showering/bathing (water damages electrodes). Telemetry: hospital-based continuous remote cardiac monitoring via wireless transmitter.",
     "type": "note",
-    "category": "ECG/EKG",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "f7c39039-c22e-43d6-8d40-7e5e4f72b6ea",
-    "term": "Color of leads~ must know all colors~ RL, LL, RA, LA, chest leads",
-    "definition": "study AVR,AVF,AVL",
-    "type": "term",
     "category": "ECG/EKG",
     "difficulty": "unrated"
   },
@@ -2698,25 +2690,9 @@
   {
     "id": "c0f6ba57-2e06-4969-964a-4a3216d0151f",
     "term": "Apical pulse",
-    "definition": "Chapter 1",
+    "definition": "The pulse auscultated at the apex of the heart (5th intercostal space, midclavicular line). Used in infants and patients with irregular rhythms. Normal: 60–100 bpm.",
     "type": "term",
     "category": "Vital Signs",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "5436ba4b-897c-4453-b7b7-715abf94f5e7",
-    "term": "They are NOT going to give you 6 second strip",
-    "definition": "12 QRS X 10 = 120",
-    "type": "term",
-    "category": "ECG/EKG",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "5131affd-55c9-4240-a130-e6623d91c7f8",
-    "term": "Holter Monitors",
-    "definition": "chapter 1",
-    "type": "term",
-    "category": "ECG/EKG",
     "difficulty": "unrated"
   },
   {
@@ -2845,14 +2821,6 @@
     "definition": "Neuralgia",
     "type": "term",
     "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "b3c72878-1fc9-4cd4-a18a-73bea7dbf5b9",
-    "term": "Cervicofacial",
-    "definition": "Pertaining to both the neck (cervic/o) and face (facial). Example: cervicofacial actinomycosis is a jaw/neck bacterial infection.",
-    "type": "term",
-    "category": "Medical Terminology",
     "difficulty": "unrated"
   },
   {
@@ -3336,14 +3304,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "0fe723eb-a4b4-4ae2-a272-7c888838d661",
-    "term": "Renal pelvis",
-    "definition": "The funnel-shaped basin forming the upper end of the ureter. Collects urine from the major and minor calyces and funnels it into the ureter for excretion.",
-    "type": "term",
-    "category": "Anatomy",
-    "difficulty": "unrated"
-  },
-  {
     "id": "e3615f31-7d0c-4cba-8b26-8fb0d3549d3d",
     "term": "Renal pelvis",
     "definition": "Funnel-shaped structure at the center of the kidney that collects urine from the calyces and funnels it into the ureter. Pyelonephritis = infection of renal pelvis and kidney. Pyeloplasty = surgical repair.",
@@ -3445,14 +3405,6 @@
     "definition": "Double-layered fibrous sac surrounding the heart. Outer layer: fibrous pericardium (anchors heart). Inner layer: serous pericardium (visceral and parietal). Pericardial fluid lubricates heart movement. Pericarditis = inflammation; pericardial effusion = fluid buildup.",
     "type": "note",
     "category": "Anatomy & Terminology",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "c7fec547-a6b0-40e2-844c-76ee5b1b4cb1",
-    "term": "Xiphoid process",
-    "definition": "The small tip of cartilage at the lower end of the sternum. CPR landmark: heel of hand placed just above the xiphoid process during chest compressions.",
-    "type": "term",
-    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -3632,14 +3584,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "d7b29e6d-3379-413b-9737-42f583bc3ba2",
-    "term": "Epiglottis",
-    "definition": "The leaf-shaped cartilage that covers the laryngeal opening during swallowing, preventing aspiration of food and liquid into the airway.",
-    "type": "term",
-    "category": "Anatomy",
-    "difficulty": "unrated"
-  },
-  {
     "id": "09cb9141-f14e-447c-9b72-3637abe34ec3",
     "term": "Epiglottis",
     "definition": "Leaf-shaped cartilaginous flap that covers the larynx during swallowing to prevent food/liquid from entering the airway. Epiglottitis: life-threatening inflammation (bacterial, esp. H. influenzae type B) — \"tripod position,\" drooling, stridor. Emergency.",
@@ -3760,14 +3704,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "d2538b10-046c-4a09-8b44-b743da35d0d9",
-    "term": "Amenorrhea",
-    "definition": "Absence of menstrual flow. Primary: never began by age 15. Secondary: ceased for 3+ months in someone who previously had regular periods.",
-    "type": "term",
-    "category": "Anatomy",
-    "difficulty": "unrated"
-  },
-  {
     "id": "12237770-191d-4473-aa63-18d87ea1e2d0",
     "term": "Amenorrhea",
     "definition": "Absence of menstrual flow. Primary: no period by age 16. Secondary: cessation after normal cycles for ≥3 months. Causes: pregnancy (first rule out), stress, extreme weight loss/gain, PCOS, thyroid disorders, hyperprolactinemia. A (without) + meno (menses) + rrhea (flow).",
@@ -3792,14 +3728,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "068951a3-e3d9-49d2-9b55-d6e3712c1653",
-    "term": "Mitral valve (Bicuspid valve)",
-    "definition": "The left atrioventricular (AV) valve, also called the mitral or bicuspid valve (two leaflets). Controls flow from left atrium to left ventricle.",
-    "type": "term",
-    "category": "Anatomy",
-    "difficulty": "unrated"
-  },
-  {
     "id": "9de2b623-486a-4359-bf58-7918f75ea425",
     "term": "Mitral valve (bicuspid valve)",
     "definition": "Two-leaflet valve between left atrium and left ventricle. Prevents backflow during left ventricular contraction. Mitral valve prolapse (MVP): most common valve disorder. Mitral stenosis: narrowing. Mitral regurgitation: leaking. Heart sound S1 (\"lub\") = mitral and tricuspid closing.",
@@ -3821,14 +3749,6 @@
     "definition": "Only artery in the body that carries deoxygenated blood. Exits the right ventricle, carries deoxygenated blood to the lungs for gas exchange. Pulmonary veins (4) carry oxygenated blood back to the left atrium — only veins carrying oxygenated blood.",
     "type": "note",
     "category": "Cardiovascular",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "ed6757f5-8466-490c-b7cf-dfe385d983f9",
-    "term": "Aneurysm",
-    "definition": "A localized dilation (bulge) of a blood vessel wall due to weakness. Most common: abdominal aortic and cerebral aneurysms. Rupture causes life-threatening hemorrhage.",
-    "type": "term",
-    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4240,14 +4160,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "02eea9c8-3f1e-4e1d-b248-f13246dde423",
-    "term": "Hypogastric (pubic) region",
-    "definition": "Located directly below the umbilical region in the lower middle abdomen. Contains the urinary bladder, uterus (in females), and sigmoid colon.",
-    "type": "term",
-    "category": "Anatomy",
-    "difficulty": "unrated"
-  },
-  {
     "id": "8a476f2f-18cf-452d-8fdf-a9edafbff9a4",
     "term": "cervical, thoracic, lumbar, sacral, coccyx",
     "definition": "The order of the vertebral column from top to bottom",
@@ -4285,14 +4197,6 @@
     "definition": "Main artery of the upper arm. Used for blood pressure measurement (stethoscope placed over brachial artery in antecubital fossa). Palpated on medial aspect of arm. Emergency BP site. Brachial pulse used in infant CPR.",
     "type": "note",
     "category": "Vital Signs",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "e2cf1b1d-3109-44f3-a85c-abc9f0ded16f",
-    "term": "Antigen",
-    "definition": "Any foreign substance entering the body that triggers an immune response and stimulates antibody production. Examples: bacteria, viruses, pollen, incompatible blood type antigens.",
-    "type": "term",
-    "category": "Anatomy",
     "difficulty": "unrated"
   },
   {
@@ -4432,14 +4336,6 @@
     "difficulty": "unrated"
   },
   {
-    "id": "3087d5d5-44fc-49f0-96aa-19f5fd051b37",
-    "term": "Epigastric region",
-    "definition": "Located in the upper middle abdomen, directly distal to (below) the sternum. Contains the stomach, upper liver, and portions of the pancreas.",
-    "type": "term",
-    "category": "Anatomy",
-    "difficulty": "unrated"
-  },
-  {
     "id": "a11c616b-1328-4d4d-b7fa-d8c38609db83",
     "term": "Collagen",
     "definition": "A fibrous structural protein found in the dermis; the most abundant protein in the body. Provides tensile strength to skin, tendons, ligaments, and bone.",
@@ -4573,14 +4469,6 @@
     "definition": "Carries impulses for the sense of smell from olfactory receptors in the nasal mucosa to the olfactory bulb and cerebral cortex.",
     "type": "term",
     "category": "Anatomy",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "b6816404-f792-43c4-8da5-23161433174f",
-    "term": "Erythrocyte (RBC)",
-    "definition": "A blood cell that carries oxygen and has no nucleus. Contains hemoglobin, which binds O2 in the lungs and releases it to tissues. Lifespan ~120 days.",
-    "type": "term",
-    "category": "Respiratory",
     "difficulty": "unrated"
   },
   {
@@ -5225,9 +5113,9 @@
   },
   {
     "id": "7a47ff4a-ee05-42ef-9088-d02b7491f0ec",
-    "term": "provide the patient with written appointment slip with the date and time of the ",
-    "definition": "provide the patient with written appointment slip with the date and time of the next session",
-    "type": "note",
+    "term": "Written appointment slip contents",
+    "definition": "Provide the patient with a written appointment slip containing the date, time, and location of the next session. This improves compliance and reduces no-shows.",
+    "type": "term",
     "category": "Administrative",
     "difficulty": "unrated"
   },
