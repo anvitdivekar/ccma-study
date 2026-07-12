@@ -129,3 +129,26 @@ export function importAll(data: ReturnType<typeof exportAll>) {
   set(KEY.overlay, data.overlay ?? {});
   set(KEY.streak, data.streak ?? { count: 0, lastStudyDate: '' });
 }
+
+// Auto-backup
+const BACKUP_KEY = 'ccma:backup';
+const BACKUP_TIME_KEY = 'ccma:backupTime';
+export function createBackup() {
+  const data = exportAll();
+  set(BACKUP_KEY, data);
+  localStorage.setItem(BACKUP_TIME_KEY, new Date().toISOString());
+}
+export function getBackup(): ReturnType<typeof exportAll> | null {
+  return get(BACKUP_KEY, null);
+}
+export function getBackupTime(): string {
+  return localStorage.getItem(BACKUP_TIME_KEY) ?? '';
+}
+export function restoreFromBackup() {
+  const backup = getBackup();
+  if (backup) importAll(backup);
+  return backup !== null;
+}
+export function hasBackup(): boolean {
+  return getBackup() !== null;
+}

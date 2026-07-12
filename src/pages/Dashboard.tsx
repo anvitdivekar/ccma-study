@@ -1,7 +1,7 @@
-import { useMemo, useState } from 'react';
+import { useMemo, useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recharts';
-import { BookOpen, Flame, CheckCircle, Clock, Download, Upload, CalendarClock } from 'lucide-react';
+import { BookOpen, Flame, CheckCircle, Clock, Download, Upload, CalendarClock, RotateCcw } from 'lucide-react';
 
 function daysUntilExam(examDate: string): number {
   const today = new Date(); today.setHours(0,0,0,0);
@@ -9,10 +9,13 @@ function daysUntilExam(examDate: string): number {
   return Math.ceil((exam.getTime() - today.getTime()) / 86400000);
 }
 import type { Card } from '../types';
-import { getMasteryStates, getSRStates, getHistory, getStreak, exportAll, importAll, getExamDate, setExamDate } from '../store/storage';
+import { getMasteryStates, getSRStates, getHistory, getStreak, exportAll, importAll, getExamDate, setExamDate, hasBackup, restoreFromBackup, getBackupTime } from '../store/storage';
+import { useAutoBackup } from '../hooks/useAutoBackup';
 
 export function Dashboard({ cards }: { cards: Card[] }) {
   const [examDate, setExamDateState] = useState(getExamDate);
+  const [showRestoreBanner, setShowRestoreBanner] = useState(hasBackup());
+  useAutoBackup();
   const mastery = getMasteryStates();
   const srStates = getSRStates();
   const history = getHistory();
@@ -86,8 +89,27 @@ export function Dashboard({ cards }: { cards: Card[] }) {
 
   const daysLeft = daysUntilExam(examDate);
 
+  const handleRestore = () => {
+    if (restoreFromBackup()) {
+      setShowRestoreBanner(false);
+      window.location.reload();
+    }
+  };
+
   return (
     <div className="space-y-6 pb-20 sm:pb-0">
+      {/* Restore backup banner */}
+      {showRestoreBanner && (
+        <div className="rounded-xl p-4 flex items-center gap-3 bg-green-100 dark:bg-green-900/40 border border-green-300 dark:border-green-700">
+          <RotateCcw size={22} className="text-green-600 flex-shrink-0" />
+          <div className="flex-1">
+            <p className="font-semibold text-sm">Progress backup available</p>
+            <p className="text-xs text-gray-600 dark:text-gray-400">Last backed up: {new Date(getBackupTime()).toLocaleString()}</p>
+          </div>
+          <button onClick={handleRestore} className="px-3 py-1 bg-green-600 text-white text-sm rounded hover:bg-green-700 flex-shrink-0">Restore</button>
+          <button onClick={() => setShowRestoreBanner(false)} className="text-gray-500 hover:text-gray-700 flex-shrink-0">×</button>
+        </div>
+      )}
       {/* Exam countdown banner */}
       {daysLeft >= 0 ? (
         <div className={`rounded-xl p-4 flex items-center gap-3 ${
