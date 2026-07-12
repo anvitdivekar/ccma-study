@@ -10,6 +10,7 @@ export function Flashcards({ cards }: { cards: Card[] }) {
   const [filtered, setFiltered] = useState<Card[]>(cards);
   const [idx, setIdx] = useState(0);
   const [flipped, setFlipped] = useState(false);
+  const [seen, setSeen] = useState<Set<number>>(() => new Set([0]));
   const [flags, setFlags] = useState<string[]>(getFlags);
   const [toast, setToast] = useState(false);
   const mastery = getMasteryStates();
@@ -19,7 +20,11 @@ export function Flashcards({ cards }: { cards: Card[] }) {
 
   const go = useCallback((dir: 1 | -1) => {
     setFlipped(false);
-    setTimeout(() => setIdx((i) => Math.max(0, Math.min(filtered.length - 1, i + dir))), flipped ? 200 : 0);
+    setTimeout(() => setIdx((i) => {
+      const next = Math.max(0, Math.min(filtered.length - 1, i + dir));
+      setSeen((s) => new Set(s).add(next));
+      return next;
+    }), flipped ? 200 : 0);
   }, [filtered.length, flipped]);
 
   useEffect(() => {
@@ -93,9 +98,9 @@ export function Flashcards({ cards }: { cards: Card[] }) {
 
   return (
     <div className="max-w-lg mx-auto space-y-4 pb-20 sm:pb-0 relative">
-      <FilterBar cards={cards} onChange={(c) => { setFiltered(c); setIdx(0); setFlipped(false); }} />
+      <FilterBar cards={cards} onChange={(c) => { setFiltered(c); setIdx(0); setFlipped(false); setSeen(new Set([0])); }} />
 
-      <div className="text-center text-xs text-gray-400">{idx + 1} / {filtered.length}</div>
+      <div className="text-center text-xs text-gray-400">{idx + 1} / {filtered.length} · <span className="text-indigo-400">{seen.size} seen</span></div>
 
       {/* Flip card */}
       <div
@@ -167,7 +172,7 @@ export function Flashcards({ cards }: { cards: Card[] }) {
         </button>
       </div>
 
-      <button onClick={() => { setIdx(0); setFlipped(false); }} className="w-full py-2 text-sm text-gray-500 flex items-center justify-center gap-1 hover:text-gray-700 dark:hover:text-gray-300 transition-colors">
+      <button onClick={() => { setIdx(0); setFlipped(false); setSeen(new Set([0])); }} className="w-full py-2 text-sm text-gray-500 flex items-center justify-center gap-1 hover:text-gray-700 dark:hover:text-gray-300 transition-colors">
         <RotateCcw size={14} /> Restart
       </button>
 

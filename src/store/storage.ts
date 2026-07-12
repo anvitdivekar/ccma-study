@@ -73,6 +73,22 @@ export function updateStreak() {
   set(KEY.streak, { count: newCount, lastStudyDate: today });
 }
 
+// Exam date
+export function getExamDate(): string {
+  return localStorage.getItem('ccma:examDate') ?? '2026-07-16';
+}
+export function setExamDate(date: string) {
+  localStorage.setItem('ccma:examDate', date);
+}
+
+// Session limit
+export function getSessionLimit(): number {
+  return parseInt(localStorage.getItem('ccma:sessionLimit') ?? '20', 10);
+}
+export function setSessionLimit(n: number) {
+  localStorage.setItem('ccma:sessionLimit', String(n));
+}
+
 // Card flags
 const FLAGS_KEY = 'ccma:flags';
 export function getFlags(): string[] {

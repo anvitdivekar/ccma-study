@@ -842,25 +842,9 @@
   {
     "id": "c48d5513-fcda-44bb-84dc-5dec65a09115",
     "term": "Normal blood glucose ranges",
-    "definition": "Fasting: 70–99 mg/dL. Post-meal (2hr): <140 mg/dL. Pre-diabetes fasting: 100–125 mg/dL. Diabetes: ≥126 mg/dL fasting or ≥200 mg/dL random. HbA1c normal: <5.7%; pre-diabetes: 5.7–6.4%; diabetes: ≥6.5%.",
+    "definition": "Adult fasting: 70–99 mg/dL. Post-meal (2hr): <140 mg/dL. Pediatric fasting: 70–100 mg/dL. Pre-diabetes fasting: 100–125 mg/dL. Diabetes: ≥126 mg/dL fasting or ≥200 mg/dL random. HbA1c normal: <5.7%; pre-diabetes: 5.7–6.4%; diabetes: ≥6.5%.",
     "type": "note",
     "category": "Endocrine/Diabetes",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "25139181-6929-4064-aadd-39f18b694d69",
-    "term": "Adult",
-    "definition": "70-140 mg/dL",
-    "type": "term",
-    "category": "General",
-    "difficulty": "unrated"
-  },
-  {
-    "id": "84adab35-3238-4189-b3bd-d8ab35db41cc",
-    "term": "Kid",
-    "definition": "70-100 mg/dL",
-    "type": "term",
-    "category": "General",
     "difficulty": "unrated"
   },
   {

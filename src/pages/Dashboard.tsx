@@ -1,18 +1,18 @@
-import { useMemo } from 'react';
+import { useMemo, useState } from 'react';
 import { Link } from 'react-router-dom';
 import { LineChart, Line, XAxis, YAxis, Tooltip, ResponsiveContainer } from 'recharts';
 import { BookOpen, Flame, CheckCircle, Clock, Download, Upload, CalendarClock } from 'lucide-react';
 
-const EXAM_DATE = '2026-07-16';
-function daysUntilExam(): number {
+function daysUntilExam(examDate: string): number {
   const today = new Date(); today.setHours(0,0,0,0);
-  const exam = new Date(EXAM_DATE + 'T00:00:00');
+  const exam = new Date(examDate + 'T00:00:00');
   return Math.ceil((exam.getTime() - today.getTime()) / 86400000);
 }
 import type { Card } from '../types';
-import { getMasteryStates, getSRStates, getHistory, getStreak, exportAll, importAll } from '../store/storage';
+import { getMasteryStates, getSRStates, getHistory, getStreak, exportAll, importAll, getExamDate, setExamDate } from '../store/storage';
 
 export function Dashboard({ cards }: { cards: Card[] }) {
+  const [examDate, setExamDateState] = useState(getExamDate);
   const mastery = getMasteryStates();
   const srStates = getSRStates();
   const history = getHistory();
@@ -84,7 +84,7 @@ export function Dashboard({ cards }: { cards: Card[] }) {
     { to: '/plan', label: 'Study Plan', desc: 'Day-by-day schedule', color: 'bg-purple-500' },
   ];
 
-  const daysLeft = daysUntilExam();
+  const daysLeft = daysUntilExam(examDate);
 
   return (
     <div className="space-y-6 pb-20 sm:pb-0">
@@ -96,16 +96,28 @@ export function Dashboard({ cards }: { cards: Card[] }) {
           : 'bg-indigo-100 dark:bg-indigo-900/40 border border-indigo-300 dark:border-indigo-700'
         }`}>
           <CalendarClock size={22} className={daysLeft <= 2 ? 'text-rose-600' : daysLeft <= 4 ? 'text-amber-600' : 'text-indigo-600'} />
-          <div>
+          <div className="flex-1">
             <p className="font-semibold text-sm">
               {daysLeft === 0 ? 'Exam is TODAY 🎯' : daysLeft === 1 ? 'Exam is TOMORROW 🔥' : `${daysLeft} days until your CCMA exam`}
             </p>
-            <p className="text-xs opacity-70">July 16, 2026 · {daysLeft > 0 ? `${Math.round(cards.length / daysLeft)} cards/day to review everything` : 'Good luck!'}</p>
+            <p className="text-xs opacity-70">{daysLeft > 0 ? `${Math.round(cards.length / daysLeft)} cards/day to review everything` : 'Good luck!'}</p>
           </div>
+          <input
+            type="date"
+            value={examDate}
+            onChange={(e) => { if (e.target.value) { setExamDate(e.target.value); setExamDateState(e.target.value); } }}
+            className="text-xs bg-transparent border border-current/30 rounded px-2 py-1 opacity-70 hover:opacity-100 cursor-pointer"
+          />
         </div>
       ) : (
-        <div className="rounded-xl p-4 bg-emerald-100 dark:bg-emerald-900/40 border border-emerald-300 dark:border-emerald-700 text-emerald-700 dark:text-emerald-300 text-sm font-medium">
+        <div className="rounded-xl p-4 bg-emerald-100 dark:bg-emerald-900/40 border border-emerald-300 dark:border-emerald-700 text-emerald-700 dark:text-emerald-300 text-sm font-medium flex items-center justify-between">
           🎉 Exam date has passed — hope it went well!
+          <input
+            type="date"
+            value={examDate}
+            onChange={(e) => { if (e.target.value) { setExamDate(e.target.value); setExamDateState(e.target.value); } }}
+            className="text-xs bg-transparent border border-current/30 rounded px-2 py-1 opacity-70 hover:opacity-100 cursor-pointer"
+          />
         </div>
       )}
 
